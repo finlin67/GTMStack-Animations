@@ -1,0 +1,472 @@
+#!/usr/bin/env node
+
+/**
+ * Export a gallery manifest for the animations repo.
+ *
+ * - Scans a source directory (default: ./animations)
+ * - Any folder containing at least one .html file is treated as a project
+ * - Collects metadata and writes exports/gallery-manifest.json (on --apply)
+ * - Always writes a human-readable report to reports/gallery-manifest-report.md
+ *
+ * CLI:
+ *   node scripts/export-gallery-manifest.js --dry-run --source=animations --out=exports/gallery-manifest.json
+ *   node scripts/export-gallery-manifest.js --apply   --source=animations --out=exports/gallery-manifest.json
+ */
+
+const fs = require("fs");
+const path = require("path");
+
+const DEFAULT_SOURCE = "animations";
+const DEFAULT_OUT = "exports/gallery-manifest.json";
+const REPO_SLUG = "finlin67/GTMStack-Animations";
+const REPO_MAIN_BRANCH = "main";
+
+function parseArgs(argv) {
+  const args = {
+    dryRun: true,
+    apply: false,
+    source: DEFAULT_SOURCE,
+    out: DEFAULT_OUT,
+  };
+
+  for (const raw of argv.slice(2)) {
+    if (raw === "--dry-run") {
+      args.dryRun = true;
+      args.apply = false;
+    } else if (raw === "--apply") {
+      args.apply = true;
+      args.dryRun = false;
+    } else if (raw.startsWith("--source=")) {
+      args.source = raw.split("=", 2)[1] || DEFAULT_SOURCE;
+    } else if (raw.startsWith("--out=")) {
+      args.out = raw.split("=", 2)[1] || DEFAULT_OUT;
+    } else {
+      console.warn(`Unknown argument ignored: ${raw}`);
+    }
+  }
+
+  if (!args.dryRun && !args.apply) {
+    // Default to dry-run when no explicit mode was provided.
+    args.dryRun = true;
+  }
+
+  return args;
+}
+
+function ensureDir(dir) {
+  if (!fs.existsSync(dir)) {
+    fs.mkdirSync(dir, { recursive: true });
+  }
+}
+
+function isHiddenOrSystemDir(name) {
+  if (!name) return false;
+  if (name.startsWith(".")) return true;
+  if (name === "node_modules") return true;
+  return false;
+}
+
+function listDirSafe(dir) {
+  try {
+    return fs.readdirSync(dir, { withFileTypes: true });
+  } catch {
+    return [];
+  }
+}
+
+function* walkDirsWithHtml(rootDir) {
+  const stack = [rootDir];
+  while (stack.length) {
+    const dir = stack.pop();
+    const entries = listDirSafe(dir);
+    let hasHtml = false;
+
+    for (const entry of entries) {
+      const full = path.join(dir, entry.name);
+      if (entry.isDirectory()) {
+        if (isHiddenOrSystemDir(entry.name)) continue;
+        stack.push(full);
+      } else if (entry.isFile() && entry.name.toLowerCase().endsWith(".html")) {
+        hasHtml = true;
+      }
+    }
+
+    if (hasHtml) {
+      yield dir;
+    }
+  }
+}
+
+function findEntryHtml(projectDir) {
+  const entries = listDirSafe(projectDir);
+  let indexHtml = null;
+  let firstHtml = null;
+  for (const entry of entries) {
+    if (!entry.isFile()) continue;
+    if (!entry.name.toLowerCase().endsWith(".html")) continue;
+    const full = path.join(projectDir, entry.name);
+    if (entry.name.toLowerCase() === "index.html") {
+      indexHtml = full;
+      break;
+    }
+    if (!firstHtml) {
+      firstHtml = full;
+    }
+  }
+  return indexHtml || firstHtml;
+}
+
+function findReadme(projectDir) {
+  const entries = listDirSafe(projectDir);
+  for (const entry of entries) {
+    if (!entry.isFile()) continue;
+    const lower = entry.name.toLowerCase();
+    if (lower === "readme.md") {
+      return path.join(projectDir, entry.name);
+    }
+  }
+  return null;
+}
+
+function kebabToTitle(str) {
+  return str
+    .replace(/[-_]+/g, " ")
+    .replace(/\s+/g, " ")
+    .trim()
+    .split(" ")
+    .filter(Boolean)
+    .map((w) => w.charAt(0).toUpperCase() + w.slice(1))
+    .join(" ");
+}
+
+function stripMarkdownToPlain(text) {
+  // Very light markdown stripping just for short excerpts.
+  let t = text.replace(/`+/g, "");
+  t = t.replace(/\[(.*?)\]\((.*?)\)/g, "$1"); // [text](url) -> text
+  t = t.replace(/[*_]+/g, "");
+  t = t.replace(/^#+\s*/gm, "");
+  return t.trim();
+}
+
+function parseReadmeMeta(readmePath) {
+  try {
+    const raw = fs.readFileSync(readmePath, "utf8");
+    const lines = raw.split(/\r?\n/);
+    let title = null;
+    let summary = null;
+    let i = 0;
+
+    // Find first heading "# ..."
+    for (; i < lines.length; i++) {
+      const line = lines[i].trim();
+      if (line.startsWith("# ")) {
+        title = stripMarkdownToPlain(line.replace(/^#\s*/, ""));
+        i++;
+        break;
+      }
+    }
+
+    // Find first non-empty paragraph after heading
+    let paragraphLines = [];
+    let collecting = false;
+    for (; i < lines.length; i++) {
+      const line = lines[i];
+      if (!collecting && line.trim() === "") {
+        continue;
+      }
+      if (!collecting && line.trim() !== "") {
+        collecting = true;
+      }
+      if (collecting) {
+        if (line.trim() === "") break;
+        paragraphLines.push(line);
+      }
+    }
+
+    if (paragraphLines.length) {
+      const para = stripMarkdownToPlain(paragraphLines.join(" "));
+      summary = para.slice(0, 240);
+    }
+
+    return { title, summary };
+  } catch {
+    return { title: null, summary: null };
+  }
+}
+
+function buildIdAndSlug(category, projectDirRel, usedIds, idConflictNotes) {
+  const baseName = path.basename(projectDirRel);
+  let id = baseName;
+
+  const addId = (candidate) => {
+    if (!usedIds.has(candidate)) {
+      usedIds.add(candidate);
+      return candidate;
+    }
+    return null;
+  };
+
+  // Try base
+  if (!addId(id)) {
+    const prefixed = `${category}-${baseName}`;
+    if (!addId(prefixed)) {
+      let n = 2;
+      let candidate = `${prefixed}-${n}`;
+      while (usedIds.has(candidate)) {
+        n += 1;
+        candidate = `${prefixed}-${n}`;
+      }
+      usedIds.add(candidate);
+      idConflictNotes.push(
+        `Duplicate id for base \`${baseName}\`; using \`${candidate}\` (category-prefixed, with numeric suffix).`
+      );
+      id = candidate;
+    } else {
+      idConflictNotes.push(
+        `Duplicate id for base \`${baseName}\`; using category-prefixed id \`${prefixed}\`.`
+      );
+      id = prefixed;
+    }
+  }
+
+  return { id, slug: id };
+}
+
+function inferTags(category, titleOrSlug) {
+  const tags = new Set();
+  tags.add(category);
+
+  if (titleOrSlug) {
+    const base = titleOrSlug.toLowerCase().replace(/[^a-z0-9\s-]/g, " ");
+    const parts = base.split(/[\s-]+/).filter(Boolean);
+    for (const p of parts) {
+      if (p.length < 3) continue;
+      if (["the", "and", "for", "with", "tile", "hero", "dashboard"].includes(p)) continue;
+      tags.add(p);
+      if (tags.size >= 8) break;
+    }
+  }
+
+  return Array.from(tags);
+}
+
+function pathRelativePosix(rootDir, targetPath) {
+  return path.relative(rootDir, targetPath).replace(/\\/g, "/");
+}
+
+function buildGithubUrl(projectPathRel) {
+  return `https://github.com/${REPO_SLUG}/tree/${REPO_MAIN_BRANCH}/${projectPathRel}`;
+}
+
+function buildGithubReadmeUrl(readmePathRel) {
+  return `https://github.com/${REPO_SLUG}/blob/${REPO_MAIN_BRANCH}/${readmePathRel}`;
+
+}
+
+function findThumbnailPaths(rootDir, projectRel) {
+  const projectDir = path.join(rootDir, projectRel);
+  const previewLocal = path.join(projectDir, "preview.png");
+  let previewRel = null;
+  if (fs.existsSync(previewLocal)) {
+    previewRel = pathRelativePosix(rootDir, previewLocal);
+  }
+
+  const centralDir = path.join(rootDir, "assets", "thumbnails");
+  let centralRel = null;
+  if (fs.existsSync(centralDir) && fs.statSync(centralDir).isDirectory()) {
+    const safe = projectRel.replace(/\\/g, "/").replace(/[\\/]/g, "__");
+    const centralCandidate = path.join(centralDir, `${safe}.png`);
+    if (fs.existsSync(centralCandidate)) {
+      centralRel = pathRelativePosix(rootDir, centralCandidate);
+    }
+  }
+
+  return { previewRel, centralRel };
+}
+
+function buildReport(rootDir, projects, stats, idConflictNotes) {
+  const lines = [];
+  lines.push("# Gallery Manifest Report");
+  lines.push("");
+  lines.push(`- **Root**: \`${rootDir}\``);
+  lines.push(`- **Source**: \`${stats.sourceDirRel}\``);
+  lines.push(`- **Out path**: \`${stats.outPathRel}\``);
+  lines.push("");
+  lines.push("## Summary");
+  lines.push("");
+  lines.push(`- Projects found: ${projects.length}`);
+  lines.push(`- Exported: ${projects.length}`);
+  lines.push(`- Missing README: ${stats.missingReadme}`);
+  lines.push(`- Missing thumbnail (no preview/central): ${stats.missingThumbnail}`);
+  lines.push(`- ID conflicts resolved: ${idConflictNotes.length}`);
+  lines.push("");
+
+  lines.push("## ID conflict notes");
+  lines.push("");
+  if (!idConflictNotes.length) {
+    lines.push("_(none)_");
+  } else {
+    for (const note of idConflictNotes) {
+      lines.push(`- ${note}`);
+    }
+  }
+  lines.push("");
+
+  lines.push("## Skipped paths");
+  lines.push("");
+  if (!stats.skipped.length) {
+    lines.push("_(none)_");
+  } else {
+    for (const s of stats.skipped) {
+      lines.push(`- \`${s.path}\` — ${s.reason}`);
+    }
+  }
+  lines.push("");
+
+  return lines.join("\n");
+}
+
+async function main() {
+  const args = parseArgs(process.argv);
+  const rootDir = process.cwd();
+  const sourceDir = path.resolve(rootDir, args.source);
+  const outPath = path.resolve(rootDir, args.out);
+  const outDir = path.dirname(outPath);
+
+  if (!fs.existsSync(sourceDir) || !fs.statSync(sourceDir).isDirectory()) {
+    console.error(`Source directory does not exist or is not a directory: ${sourceDir}`);
+    process.exitCode = 1;
+    return;
+  }
+
+  const modeLabel = args.dryRun ? "DRY RUN (no files written)" : "APPLY (manifest written)";
+
+  console.log("Gallery manifest exporter");
+  console.log(`- Mode: ${modeLabel}`);
+  console.log(`- Source: ${pathRelativePosix(rootDir, sourceDir) || "."}`);
+  console.log(`- Out: ${pathRelativePosix(rootDir, outPath)}`);
+  console.log("");
+
+  const projects = [];
+  const usedIds = new Set();
+  const idConflictNotes = [];
+  const stats = {
+    sourceDirRel: pathRelativePosix(rootDir, sourceDir),
+    outPathRel: pathRelativePosix(rootDir, outPath),
+    missingReadme: 0,
+    missingThumbnail: 0,
+    skipped: [],
+  };
+
+  for (const projectDir of walkDirsWithHtml(sourceDir)) {
+    const relProject = pathRelativePosix(rootDir, projectDir);
+    const relFromAnimations = pathRelativePosix(sourceDir, projectDir);
+    const segments = relFromAnimations.split("/");
+    if (segments.length < 1 || !segments[0]) {
+      stats.skipped.push({ path: relProject, reason: "Could not determine category" });
+      continue;
+    }
+    const category = segments[0];
+
+    const entryHtmlAbs = findEntryHtml(projectDir);
+    if (!entryHtmlAbs) {
+      stats.skipped.push({ path: relProject, reason: "No .html entry file found" });
+      continue;
+    }
+    const entryHtmlRel = pathRelativePosix(rootDir, entryHtmlAbs);
+
+    const readmeAbs = findReadme(projectDir);
+    let readmeRel = null;
+    let title = null;
+    let summary = null;
+
+    if (readmeAbs) {
+      readmeRel = pathRelativePosix(rootDir, readmeAbs);
+      const meta = parseReadmeMeta(readmeAbs);
+      title = meta.title || null;
+      summary = meta.summary || null;
+    } else {
+      stats.missingReadme += 1;
+    }
+
+    if (!title) {
+      title = kebabToTitle(path.basename(projectDir));
+    }
+
+    const { previewRel, centralRel } = findThumbnailPaths(rootDir, relProject);
+    let thumbnailPath = previewRel || centralRel || null;
+    if (!thumbnailPath) {
+      stats.missingThumbnail += 1;
+    }
+
+    const { id, slug } = buildIdAndSlug(category, relProject, usedIds, idConflictNotes);
+
+    const tags = inferTags(category, title || slug);
+    const githubUrl = buildGithubUrl(relProject);
+    const githubReadmeUrl = readmeRel ? buildGithubReadmeUrl(readmeRel) : null;
+
+    const project = {
+      id,
+      slug,
+      title,
+      category,
+      projectPath: relProject,
+      entryHtml: entryHtmlRel,
+      readmePath: readmeRel,
+      summary,
+      tags,
+      thumbnailPath,
+      githubUrl,
+      githubReadmeUrl,
+      updatedAt: new Date().toISOString(),
+    };
+
+    projects.push(project);
+  }
+
+  // Validation: ensure ids unique (guard in case of logic error)
+  const idCounts = projects.reduce((acc, p) => {
+    acc[p.id] = (acc[p.id] || 0) + 1;
+    return acc;
+  }, {});
+  const dupIds = Object.entries(idCounts)
+    .filter(([, count]) => count > 1)
+    .map(([id]) => id);
+  if (dupIds.length) {
+    console.warn("WARNING: duplicate ids detected even after conflict resolution:", dupIds);
+  }
+
+  if (args.dryRun) {
+    console.log(`Found ${projects.length} projects that would be exported.`);
+    console.log("");
+    const sample = projects.slice(0, 10);
+    if (sample.length) {
+      console.log("Sample records:");
+      console.log(JSON.stringify(sample, null, 2));
+    } else {
+      console.log("No projects detected.");
+    }
+  } else {
+    ensureDir(outDir);
+    fs.writeFileSync(outPath, JSON.stringify(projects, null, 2), "utf8");
+    console.log("");
+    console.log(`Manifest written to: ${pathRelativePosix(rootDir, outPath)}`);
+    console.log(`Total projects: ${projects.length}`);
+  }
+
+  // Write report (always)
+  const reportsDir = path.join(rootDir, "reports");
+  ensureDir(reportsDir);
+  const reportPath = path.join(reportsDir, "gallery-manifest-report.md");
+  const report = buildReport(rootDir, projects, stats, idConflictNotes);
+  fs.writeFileSync(reportPath, report, "utf8");
+
+  console.log("");
+  console.log(`Report written to: ${pathRelativePosix(rootDir, reportPath)}`);
+}
+
+main().catch((err) => {
+  console.error("Fatal error in gallery manifest exporter:", err);
+  process.exitCode = 1;
+});
+

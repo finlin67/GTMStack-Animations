@@ -1,0 +1,633 @@
+[
+  {
+    "id": "revenue-systems-data-flow-v2",
+    "slug": "revenue-systems-data-flow-v2",
+    "title": "🧠 Revenue Systems Data Flow",
+    "category": "operations",
+    "projectPath": "animations/operations/revenue-systems-data-flow-v2",
+    "entryHtml": "animations/operations/revenue-systems-data-flow-v2/app-v2.html",
+    "readmePath": "animations/operations/revenue-systems-data-flow-v2/README.md",
+    "summary": "A high-fidelity, dark-mode marketing analytics dashboard component featuring real-time data visualization, glowing aesthetics, and a responsive bento-grid layout.",
+    "tags": [
+      "operations",
+      "revenue",
+      "systems",
+      "data",
+      "flow"
+    ],
+    "thumbnailPath": "animations/operations/revenue-systems-data-flow-v2/preview.png",
+    "githubUrl": "https://github.com/finlin67/GTMStack-Animations/tree/main/animations/operations/revenue-systems-data-flow-v2",
+    "githubReadmeUrl": "https://github.com/finlin67/GTMStack-Animations/blob/main/animations/operations/revenue-systems-data-flow-v2/README.md",
+    "updatedAt": "2026-03-18T16:36:17.455Z"
+  },
+  {
+    "id": "martech-ai-dashboard-engine-v2",
+    "slug": "martech-ai-dashboard-engine-v2",
+    "title": "MarTech AI Dashboard Engine",
+    "category": "operations",
+    "projectPath": "animations/operations/martech-ai-dashboard-engine-v2",
+    "entryHtml": "animations/operations/martech-ai-dashboard-engine-v2/martechtile-v2.html",
+    "readmePath": "animations/operations/martech-ai-dashboard-engine-v2/README.md",
+    "summary": "🧠 Context & Creative Strategy This project showcases a standalone, animated React component extracted from a larger MarTech AI landing page prototype. The primary component, MarTechTile, is a dynamic visualization of a marketing technology",
+    "tags": [
+      "operations",
+      "martech",
+      "engine"
+    ],
+    "thumbnailPath": "animations/operations/martech-ai-dashboard-engine-v2/preview.png",
+    "githubUrl": "https://github.com/finlin67/GTMStack-Animations/tree/main/animations/operations/martech-ai-dashboard-engine-v2",
+    "githubReadmeUrl": "https://github.com/finlin67/GTMStack-Animations/blob/main/animations/operations/martech-ai-dashboard-engine-v2/README.md",
+    "updatedAt": "2026-03-18T16:36:17.457Z"
+  },
+  {
+    "id": "nonprofithero-impact-visualization-v2",
+    "slug": "nonprofithero-impact-visualization-v2",
+    "title": "NonProfitHero - Impact Visualization",
+    "category": "industries",
+    "projectPath": "animations/industries/nonprofithero-impact-visualization-v2",
+    "entryHtml": "animations/industries/nonprofithero-impact-visualization-v2/ngosdotile-v2.html",
+    "readmePath": "animations/industries/nonprofithero-impact-visualization-v2/README.md",
+    "summary": "This project features a high-fidelity recreation of the NonProfitHero landing page with a specialized, animated React component for the \"Global Impact\" data visualization.",
+    "tags": [
+      "industries",
+      "nonprofithero",
+      "impact",
+      "visualization"
+    ],
+    "thumbnailPath": "animations/industries/nonprofithero-impact-visualization-v2/preview.png",
+    "githubUrl": "https://github.com/finlin67/GTMStack-Animations/tree/main/animations/industries/nonprofithero-impact-visualization-v2",
+    "githubReadmeUrl": "https://github.com/finlin67/GTMStack-Animations/blob/main/animations/industries/nonprofithero-impact-visualization-v2/README.md",
+    "updatedAt": "2026-03-18T16:36:17.464Z"
+  },
+  {
+    "id": "grid-master-cyber-infrastructure-dashboard-v2",
+    "slug": "grid-master-cyber-infrastructure-dashboard-v2",
+    "title": "Grid Master // Cyber-Infrastructure Dashboard",
+    "category": "industries",
+    "projectPath": "animations/industries/grid-master-cyber-infrastructure-dashboard-v2",
+    "entryHtml": "animations/industries/grid-master-cyber-infrastructure-dashboard-v2/utilitiestile-v2.html",
+    "readmePath": "animations/industries/grid-master-cyber-infrastructure-dashboard-v2/README.md",
+    "summary": "🧠 Context & Creative Strategy The Grid Master Dashboard is a high-fidelity visual experiment in \"Cyber-Infrastructure\" monitoring. The creative strategy centers on the concept of \"Information Density with Clarity\"—mimicking the aesthetic o",
+    "tags": [
+      "industries",
+      "grid",
+      "master",
+      "cyber",
+      "infrastructure"
+    ],
+    "thumbnailPath": "animations/industries/grid-master-cyber-infrastructure-dashboard-v2/preview.png",
+    "githubUrl": "https://github.com/finlin67/GTMStack-Animations/tree/main/animations/industries/grid-master-cyber-infrastructure-dashboard-v2",
+    "githubReadmeUrl": "https://github.com/finlin67/GTMStack-Animations/blob/main/animations/industries/grid-master-cyber-infrastructure-dashboard-v2/README.md",
+    "updatedAt": "2026-03-18T16:36:17.467Z"
+  },
+  {
+    "id": "finservtile-interactive-financial-data-visualization-v2",
+    "slug": "finservtile-interactive-financial-data-visualization-v2",
+    "title": "FinServTile: Interactive Financial Data Visualization",
+    "category": "industries",
+    "projectPath": "animations/industries/finservtile-interactive-financial-data-visualization-v2",
+    "entryHtml": "animations/industries/finservtile-interactive-financial-data-visualization-v2/finservtile-v2.html",
+    "readmePath": "animations/industries/finservtile-interactive-financial-data-visualization-v2/README.md",
+    "summary": "🧠 Context & Creative Strategy This project is a high-fidelity UI component representing a dashboard for a financial services or fintech platform. The creative strategy is to move beyond static, boring charts and tables by creating a \"livin",
+    "tags": [
+      "industries",
+      "finservtile",
+      "interactive",
+      "financial",
+      "data",
+      "visualization"
+    ],
+    "thumbnailPath": "animations/industries/finservtile-interactive-financial-data-visualization-v2/preview.png",
+    "githubUrl": "https://github.com/finlin67/GTMStack-Animations/tree/main/animations/industries/finservtile-interactive-financial-data-visualization-v2",
+    "githubReadmeUrl": "https://github.com/finlin67/GTMStack-Animations/blob/main/animations/industries/finservtile-interactive-financial-data-visualization-v2/README.md",
+    "updatedAt": "2026-03-18T16:36:17.469Z"
+  },
+  {
+    "id": "sequenceflow-animated-tile-v2",
+    "slug": "sequenceflow-animated-tile-v2",
+    "title": "SequenceFlow Dashboard",
+    "category": "digital-demand",
+    "projectPath": "animations/digital-demand/sequenceflow-animated-tile-v2",
+    "entryHtml": "animations/digital-demand/sequenceflow-animated-tile-v2/emailseqtile-v2.html",
+    "readmePath": "animations/digital-demand/sequenceflow-animated-tile-v2/README.md",
+    "summary": "🧠 Context & Creative Strategy The SequenceFlow Dashboard is designed as a high-fidelity visual tool for email marketers to track the performance of their automated sequences. The \"Ladder\" visualization provides a vertical narrative of a ca",
+    "tags": [
+      "digital-demand",
+      "sequenceflow"
+    ],
+    "thumbnailPath": "animations/digital-demand/sequenceflow-animated-tile-v2/preview.png",
+    "githubUrl": "https://github.com/finlin67/GTMStack-Animations/tree/main/animations/digital-demand/sequenceflow-animated-tile-v2",
+    "githubReadmeUrl": "https://github.com/finlin67/GTMStack-Animations/blob/main/animations/digital-demand/sequenceflow-animated-tile-v2/README.md",
+    "updatedAt": "2026-03-18T16:36:17.474Z"
+  },
+  {
+    "id": "sequence-ladder-analytics-tile-v2",
+    "slug": "sequence-ladder-analytics-tile-v2",
+    "title": "📊 Sequence Ladder Analytics Tile",
+    "category": "digital-demand",
+    "projectPath": "animations/digital-demand/sequence-ladder-analytics-tile-v2",
+    "entryHtml": "animations/digital-demand/sequence-ladder-analytics-tile-v2/emailladdertile-v2.html",
+    "readmePath": "animations/digital-demand/sequence-ladder-analytics-tile-v2/README.md",
+    "summary": "GitHub Repository: https://github.com/your-username/project-name",
+    "tags": [
+      "digital-demand",
+      "sequence",
+      "ladder",
+      "analytics"
+    ],
+    "thumbnailPath": "animations/digital-demand/sequence-ladder-analytics-tile-v2/preview.png",
+    "githubUrl": "https://github.com/finlin67/GTMStack-Animations/tree/main/animations/digital-demand/sequence-ladder-analytics-tile-v2",
+    "githubReadmeUrl": "https://github.com/finlin67/GTMStack-Animations/blob/main/animations/digital-demand/sequence-ladder-analytics-tile-v2/README.md",
+    "updatedAt": "2026-03-18T16:36:17.475Z"
+  },
+  {
+    "id": "product-growth-hero-v2",
+    "slug": "product-growth-hero-v2",
+    "title": "Product Growth Hero - Animated Tile Component",
+    "category": "digital-demand",
+    "projectPath": "animations/digital-demand/product-growth-hero-v2",
+    "entryHtml": "animations/digital-demand/product-growth-hero-v2/productphasetile-v2.html",
+    "readmePath": "animations/digital-demand/product-growth-hero-v2/README.md",
+    "summary": "🧠 Context & Creative Strategy This project is an exploration of creating a single, high-fidelity \"hero\" component that visualizes a conceptual SaaS product growth engine. The creative strategy is to distill complex business metrics (like r",
+    "tags": [
+      "digital-demand",
+      "product",
+      "growth",
+      "animated",
+      "component"
+    ],
+    "thumbnailPath": "animations/digital-demand/product-growth-hero-v2/preview.png",
+    "githubUrl": "https://github.com/finlin67/GTMStack-Animations/tree/main/animations/digital-demand/product-growth-hero-v2",
+    "githubReadmeUrl": "https://github.com/finlin67/GTMStack-Animations/blob/main/animations/digital-demand/product-growth-hero-v2/README.md",
+    "updatedAt": "2026-03-18T16:36:17.475Z"
+  },
+  {
+    "id": "gtmstack-pro-hero-tile",
+    "slug": "gtmstack-pro-hero-tile",
+    "title": "GTMStack Hero Tile",
+    "category": "digital-demand",
+    "projectPath": "animations/digital-demand/gtmstack-pro-hero-tile",
+    "entryHtml": "animations/digital-demand/gtmstack-pro-hero-tile/gtmstackhero-v2.html",
+    "readmePath": "animations/digital-demand/gtmstack-pro-hero-tile/README.md",
+    "summary": "🧠 Context & Creative Strategy This project features a high-fidelity, animated 600x600 hero tile designed for GTMStack, a consulting brand. The animation visualizes a three-phase journey: \"Chaos\" (scattered elements), \"Routes\" (connecting p",
+    "tags": [
+      "digital-demand",
+      "gtmstack"
+    ],
+    "thumbnailPath": "animations/digital-demand/gtmstack-pro-hero-tile/preview.png",
+    "githubUrl": "https://github.com/finlin67/GTMStack-Animations/tree/main/animations/digital-demand/gtmstack-pro-hero-tile",
+    "githubReadmeUrl": "https://github.com/finlin67/GTMStack-Animations/blob/main/animations/digital-demand/gtmstack-pro-hero-tile/README.md",
+    "updatedAt": "2026-03-18T16:36:17.477Z"
+  },
+  {
+    "id": "gtm-product-strategy-audience-tile-v2",
+    "slug": "gtm-product-strategy-audience-tile-v2",
+    "title": "GTM Strategy Audience Tile",
+    "category": "digital-demand",
+    "projectPath": "animations/digital-demand/gtm-product-strategy-audience-tile-v2",
+    "entryHtml": "animations/digital-demand/gtm-product-strategy-audience-tile-v2/productgtmtile-v2.html",
+    "readmePath": "animations/digital-demand/gtm-product-strategy-audience-tile-v2/README.md",
+    "summary": "A standalone, high-performance React component visualizing a \"Product Marketing Strategy Hub\" framework. This component was extracted from a static HTML prototype and converted into a dynamic, interactive React component with smooth animati",
+    "tags": [
+      "digital-demand",
+      "gtm",
+      "strategy",
+      "audience"
+    ],
+    "thumbnailPath": "animations/digital-demand/gtm-product-strategy-audience-tile-v2/preview.png",
+    "githubUrl": "https://github.com/finlin67/GTMStack-Animations/tree/main/animations/digital-demand/gtm-product-strategy-audience-tile-v2",
+    "githubReadmeUrl": "https://github.com/finlin67/GTMStack-Animations/blob/main/animations/digital-demand/gtm-product-strategy-audience-tile-v2/README.md",
+    "updatedAt": "2026-03-18T16:36:17.478Z"
+  },
+  {
+    "id": "gtm-engine-visualization-hero-animation-v2",
+    "slug": "gtm-engine-visualization-hero-animation-v2",
+    "title": "ExpertiseHero GTM Engine Visualization",
+    "category": "digital-demand",
+    "projectPath": "animations/digital-demand/gtm-engine-visualization-hero-animation-v2",
+    "entryHtml": "animations/digital-demand/gtm-engine-visualization-hero-animation-v2/gtmcoretile-v2.html",
+    "readmePath": "animations/digital-demand/gtm-engine-visualization-hero-animation-v2/README.md",
+    "summary": "A high-fidelity, production-ready React component extracted from the ExpertiseHero landing page. It features the \"GTM Core Tile\"—an animated hub-and-spoke visualization displaying core growth metrics with satellite nodes.",
+    "tags": [
+      "digital-demand",
+      "expertisehero",
+      "gtm",
+      "engine",
+      "visualization"
+    ],
+    "thumbnailPath": "animations/digital-demand/gtm-engine-visualization-hero-animation-v2/preview.png",
+    "githubUrl": "https://github.com/finlin67/GTMStack-Animations/tree/main/animations/digital-demand/gtm-engine-visualization-hero-animation-v2",
+    "githubReadmeUrl": "https://github.com/finlin67/GTMStack-Animations/blob/main/animations/digital-demand/gtm-engine-visualization-hero-animation-v2/README.md",
+    "updatedAt": "2026-03-18T16:36:17.478Z"
+  },
+  {
+    "id": "growththeme-ai-landing-v2",
+    "slug": "growththeme-ai-landing-v2",
+    "title": "GrowthTheme AI Landing",
+    "category": "digital-demand",
+    "projectPath": "animations/digital-demand/growththeme-ai-landing-v2",
+    "entryHtml": "animations/digital-demand/growththeme-ai-landing-v2/app-v2.html",
+    "readmePath": "animations/digital-demand/growththeme-ai-landing-v2/README.md",
+    "summary": "🧠 Context & Creative Strategy The GrowthTheme project is envisioned as a high-conversion, \"premium dark\" SaaS landing page. The creative strategy centers around the concept of a \"Growth Engine\"—visualizing complex AI data processing as an ",
+    "tags": [
+      "digital-demand",
+      "growththeme",
+      "landing"
+    ],
+    "thumbnailPath": "animations/digital-demand/growththeme-ai-landing-v2/preview.png",
+    "githubUrl": "https://github.com/finlin67/GTMStack-Animations/tree/main/animations/digital-demand/growththeme-ai-landing-v2",
+    "githubReadmeUrl": "https://github.com/finlin67/GTMStack-Animations/blob/main/animations/digital-demand/growththeme-ai-landing-v2/README.md",
+    "updatedAt": "2026-03-18T16:36:17.479Z"
+  },
+  {
+    "id": "growthcore-component-extraction-v2",
+    "slug": "growthcore-component-extraction-v2",
+    "title": "GrowthCore Component Extraction",
+    "category": "digital-demand",
+    "projectPath": "animations/digital-demand/growthcore-component-extraction-v2",
+    "entryHtml": "animations/digital-demand/growthcore-component-extraction-v2/growthmarketingtile-v2.html",
+    "readmePath": "animations/digital-demand/growthcore-component-extraction-v2/README.md",
+    "summary": "Description This project is a faithful React + Tailwind migration of the GrowthCore SaaS landing page, featuring a complex extracted component: CustomerMarketingTile. The CustomerMarketingTile is a 600x600 animated data visualization module",
+    "tags": [
+      "digital-demand",
+      "growthcore",
+      "component",
+      "extraction"
+    ],
+    "thumbnailPath": "animations/digital-demand/growthcore-component-extraction-v2/preview.png",
+    "githubUrl": "https://github.com/finlin67/GTMStack-Animations/tree/main/animations/digital-demand/growthcore-component-extraction-v2",
+    "githubReadmeUrl": "https://github.com/finlin67/GTMStack-Animations/blob/main/animations/digital-demand/growthcore-component-extraction-v2/README.md",
+    "updatedAt": "2026-03-18T16:36:17.480Z"
+  },
+  {
+    "id": "growth-ai-harmonic-quad-tone",
+    "slug": "growth-ai-harmonic-quad-tone",
+    "title": "Growth.AI - Harmonic Quad-Tone",
+    "category": "digital-demand",
+    "projectPath": "animations/digital-demand/growth-ai-harmonic-quad-tone",
+    "entryHtml": "animations/digital-demand/growth-ai-harmonic-quad-tone/aigrowth-v2.html",
+    "readmePath": "animations/digital-demand/growth-ai-harmonic-quad-tone/README.md",
+    "summary": "Description This project showcases a high-performance React landing page featuring the \"Harmonic Quad-Tone\" AI growth visualization. The centerpiece is a self-contained, 600x600 floating tile component (AIGrowth.tsx) that uses Framer Motion",
+    "tags": [
+      "digital-demand",
+      "growth",
+      "harmonic",
+      "quad",
+      "tone"
+    ],
+    "thumbnailPath": "animations/digital-demand/growth-ai-harmonic-quad-tone/preview.png",
+    "githubUrl": "https://github.com/finlin67/GTMStack-Animations/tree/main/animations/digital-demand/growth-ai-harmonic-quad-tone",
+    "githubReadmeUrl": "https://github.com/finlin67/GTMStack-Animations/blob/main/animations/digital-demand/growth-ai-harmonic-quad-tone/README.md",
+    "updatedAt": "2026-03-18T16:36:17.481Z"
+  },
+  {
+    "id": "growth-ai-animation",
+    "slug": "growth-ai-animation",
+    "title": "Growth.AI - Harmonic Quad-Tone",
+    "category": "digital-demand",
+    "projectPath": "animations/digital-demand/growth-ai-animation",
+    "entryHtml": "animations/digital-demand/growth-ai-animation/aigrowth-v2.html",
+    "readmePath": "animations/digital-demand/growth-ai-animation/README.md",
+    "summary": "🧠 Context & Creative Strategy Growth.AI is a speculative brand identity for a next-generation \"Autonomous Intelligence Protocol.\" The \"Harmonic Quad-Tone\" creative strategy focuses on visualizing high-frequency data optimization through or",
+    "tags": [
+      "digital-demand",
+      "growth",
+      "harmonic",
+      "quad",
+      "tone"
+    ],
+    "thumbnailPath": "animations/digital-demand/growth-ai-animation/preview.png",
+    "githubUrl": "https://github.com/finlin67/GTMStack-Animations/tree/main/animations/digital-demand/growth-ai-animation",
+    "githubReadmeUrl": "https://github.com/finlin67/GTMStack-Animations/blob/main/animations/digital-demand/growth-ai-animation/README.md",
+    "updatedAt": "2026-03-18T16:36:17.482Z"
+  },
+  {
+    "id": "demandgen-pipeline-hero-v2",
+    "slug": "demandgen-pipeline-hero-v2",
+    "title": "DemandGen Pipeline Hero",
+    "category": "digital-demand",
+    "projectPath": "animations/digital-demand/demandgen-pipeline-hero-v2",
+    "entryHtml": "animations/digital-demand/demandgen-pipeline-hero-v2/dashboardtile-v2.html",
+    "readmePath": "animations/digital-demand/demandgen-pipeline-hero-v2/README.md",
+    "summary": "Description SaaS Pipeline Hero is a high-performance landing page designed to demonstrate modern frontend capabilities using React and Tailwind CSS. The centerpiece of the application is an animated, isometric funnel visualization that dyna",
+    "tags": [
+      "digital-demand",
+      "demandgen",
+      "pipeline"
+    ],
+    "thumbnailPath": "animations/digital-demand/demandgen-pipeline-hero-v2/preview.png",
+    "githubUrl": "https://github.com/finlin67/GTMStack-Animations/tree/main/animations/digital-demand/demandgen-pipeline-hero-v2",
+    "githubReadmeUrl": "https://github.com/finlin67/GTMStack-Animations/blob/main/animations/digital-demand/demandgen-pipeline-hero-v2/README.md",
+    "updatedAt": "2026-03-18T16:36:17.483Z"
+  },
+  {
+    "id": "quantum-data-field-analytics-v2",
+    "slug": "quantum-data-field-analytics-v2",
+    "title": "DataOps Quantum Analytics Dashboard",
+    "category": "dashboard-tiles",
+    "projectPath": "animations/dashboard-tiles/quantum-data-field-analytics-v2",
+    "entryHtml": "animations/dashboard-tiles/quantum-data-field-analytics-v2/dataopsdash-v2.html",
+    "readmePath": "animations/dashboard-tiles/quantum-data-field-analytics-v2/README.md",
+    "summary": "🧠 Context & Creative Strategy This project serves as a high-fidelity UI prototype for a next-generation analytics platform. It demonstrates advanced frontend techniques including organic ambient animations, multi-layered glassmorphism, and",
+    "tags": [
+      "dashboard-tiles",
+      "dataops",
+      "quantum",
+      "analytics"
+    ],
+    "thumbnailPath": "animations/dashboard-tiles/quantum-data-field-analytics-v2/preview.png",
+    "githubUrl": "https://github.com/finlin67/GTMStack-Animations/tree/main/animations/dashboard-tiles/quantum-data-field-analytics-v2",
+    "githubReadmeUrl": "https://github.com/finlin67/GTMStack-Animations/blob/main/animations/dashboard-tiles/quantum-data-field-analytics-v2/README.md",
+    "updatedAt": "2026-03-18T16:36:17.484Z"
+  },
+  {
+    "id": "marketing-automation-workflow-v2",
+    "slug": "marketing-automation-workflow-v2",
+    "title": "⚡ Marketing Automation Workflow",
+    "category": "dashboard-tiles",
+    "projectPath": "animations/dashboard-tiles/marketing-automation-workflow-v2",
+    "entryHtml": "animations/dashboard-tiles/marketing-automation-workflow-v2/marketingautomation-v2.html",
+    "readmePath": "animations/dashboard-tiles/marketing-automation-workflow-v2/README.md",
+    "summary": "🧠 Context & Creative Strategy The \"black box\" nature of marketing automation is often difficult to communicate to stakeholders. This project employs a biomimetic particle simulation strategy to visualize user journeys as organic entities f",
+    "tags": [
+      "dashboard-tiles",
+      "marketing",
+      "automation",
+      "workflow"
+    ],
+    "thumbnailPath": "animations/dashboard-tiles/marketing-automation-workflow-v2/preview.png",
+    "githubUrl": "https://github.com/finlin67/GTMStack-Animations/tree/main/animations/dashboard-tiles/marketing-automation-workflow-v2",
+    "githubReadmeUrl": "https://github.com/finlin67/GTMStack-Animations/blob/main/animations/dashboard-tiles/marketing-automation-workflow-v2/README.md",
+    "updatedAt": "2026-03-18T16:36:17.486Z"
+  },
+  {
+    "id": "insightagency-strategy-dashboard-v2",
+    "slug": "insightagency-strategy-dashboard-v2",
+    "title": "Insightagency Strategy Dashboard V2",
+    "category": "dashboard-tiles",
+    "projectPath": "animations/dashboard-tiles/insightagency-strategy-dashboard-v2",
+    "entryHtml": "animations/dashboard-tiles/insightagency-strategy-dashboard-v2/agencyanalysis-v2.html",
+    "readmePath": "animations/dashboard-tiles/insightagency-strategy-dashboard-v2/README.md",
+    "summary": null,
+    "tags": [
+      "dashboard-tiles",
+      "insightagency",
+      "strategy"
+    ],
+    "thumbnailPath": "animations/dashboard-tiles/insightagency-strategy-dashboard-v2/preview.png",
+    "githubUrl": "https://github.com/finlin67/GTMStack-Animations/tree/main/animations/dashboard-tiles/insightagency-strategy-dashboard-v2",
+    "githubReadmeUrl": "https://github.com/finlin67/GTMStack-Animations/blob/main/animations/dashboard-tiles/insightagency-strategy-dashboard-v2/README.md",
+    "updatedAt": "2026-03-18T16:36:17.487Z"
+  },
+  {
+    "id": "gtmstack-route-planner-v2",
+    "slug": "gtmstack-route-planner-v2",
+    "title": "GTMStack Route Planner",
+    "category": "dashboard-tiles",
+    "projectPath": "animations/dashboard-tiles/gtmstack-route-planner-v2",
+    "entryHtml": "animations/dashboard-tiles/gtmstack-route-planner-v2/gtmstack-v2.html",
+    "readmePath": "animations/dashboard-tiles/gtmstack-route-planner-v2/README.md",
+    "summary": "A premium, high-fidelity React component visualizing a strategic Go-To-Market roadmap. This project demonstrates complex UI animations, organic data simulation, and glassmorphic design principles using React, Framer Motion, and Tailwind CSS",
+    "tags": [
+      "dashboard-tiles",
+      "gtmstack",
+      "route",
+      "planner"
+    ],
+    "thumbnailPath": "animations/dashboard-tiles/gtmstack-route-planner-v2/preview.png",
+    "githubUrl": "https://github.com/finlin67/GTMStack-Animations/tree/main/animations/dashboard-tiles/gtmstack-route-planner-v2",
+    "githubReadmeUrl": "https://github.com/finlin67/GTMStack-Animations/blob/main/animations/dashboard-tiles/gtmstack-route-planner-v2/README.md",
+    "updatedAt": "2026-03-18T16:36:17.488Z"
+  },
+  {
+    "id": "gtm-stack-data-sync-mesh-v2",
+    "slug": "gtm-stack-data-sync-mesh-v2",
+    "title": "🔗 GTM Stack Data Sync Mesh",
+    "category": "dashboard-tiles",
+    "projectPath": "animations/dashboard-tiles/gtm-stack-data-sync-mesh-v2",
+    "entryHtml": "animations/dashboard-tiles/gtm-stack-data-sync-mesh-v2/revopsdashboard-v2.html",
+    "readmePath": "animations/dashboard-tiles/gtm-stack-data-sync-mesh-v2/README.md",
+    "summary": "A high-fidelity, dark-mode dashboard designed for monitoring complex Revenue Operations (RevOps) data pipelines. This application visualizes real-time sync animations/animations\\operations between major GTM systems (Salesforce, HubSpot, Str",
+    "tags": [
+      "dashboard-tiles",
+      "gtm",
+      "stack",
+      "data",
+      "sync",
+      "mesh"
+    ],
+    "thumbnailPath": "animations/dashboard-tiles/gtm-stack-data-sync-mesh-v2/preview.png",
+    "githubUrl": "https://github.com/finlin67/GTMStack-Animations/tree/main/animations/dashboard-tiles/gtm-stack-data-sync-mesh-v2",
+    "githubReadmeUrl": "https://github.com/finlin67/GTMStack-Animations/blob/main/animations/dashboard-tiles/gtm-stack-data-sync-mesh-v2/README.md",
+    "updatedAt": "2026-03-18T16:36:17.489Z"
+  },
+  {
+    "id": "experience-dashboard-v2",
+    "slug": "experience-dashboard-v2",
+    "title": "Demand Gen Flow",
+    "category": "dashboard-tiles",
+    "projectPath": "animations/dashboard-tiles/experience-dashboard-v2",
+    "entryHtml": "animations/dashboard-tiles/experience-dashboard-v2/demandgenflow-v2.html",
+    "readmePath": "animations/dashboard-tiles/experience-dashboard-v2/README.md",
+    "summary": "A high-fidelity, B2B-optimized performance dashboard tile designed for modern enterprise SaaS landing pages. Featuring optimized SVG animations, deep slate aesthetics, and real-time metric simulations.",
+    "tags": [
+      "dashboard-tiles",
+      "demand",
+      "gen",
+      "flow"
+    ],
+    "thumbnailPath": "animations/dashboard-tiles/experience-dashboard-v2/preview.png",
+    "githubUrl": "https://github.com/finlin67/GTMStack-Animations/tree/main/animations/dashboard-tiles/experience-dashboard-v2",
+    "githubReadmeUrl": "https://github.com/finlin67/GTMStack-Animations/blob/main/animations/dashboard-tiles/experience-dashboard-v2/README.md",
+    "updatedAt": "2026-03-18T16:36:17.490Z"
+  },
+  {
+    "id": "apex-real-time-dashboard-v2",
+    "slug": "apex-real-time-dashboard-v2",
+    "title": "Apex Real-Time Dashboard (Experiment Engine v2.0)",
+    "category": "dashboard-tiles",
+    "projectPath": "animations/dashboard-tiles/apex-real-time-dashboard-v2",
+    "entryHtml": "animations/dashboard-tiles/apex-real-time-dashboard-v2/demandgen-marketing-v2.html",
+    "readmePath": "animations/dashboard-tiles/apex-real-time-dashboard-v2/README.md",
+    "summary": "🧠 Context & Creative Strategy The Apex Dashboard bridges the gap between high-velocity performance data and executive-level clarity. Designed for real-time visualization, it uses mock organic jitter and socket state simulations to demonstr",
+    "tags": [
+      "dashboard-tiles",
+      "apex",
+      "real",
+      "time",
+      "experiment",
+      "engine"
+    ],
+    "thumbnailPath": "animations/dashboard-tiles/apex-real-time-dashboard-v2/preview.png",
+    "githubUrl": "https://github.com/finlin67/GTMStack-Animations/tree/main/animations/dashboard-tiles/apex-real-time-dashboard-v2",
+    "githubReadmeUrl": "https://github.com/finlin67/GTMStack-Animations/blob/main/animations/dashboard-tiles/apex-real-time-dashboard-v2/README.md",
+    "updatedAt": "2026-03-18T16:36:17.491Z"
+  },
+  {
+    "id": "advocacy-loop-dashboard-v2",
+    "slug": "advocacy-loop-dashboard-v2",
+    "title": "Advocacy Loop Dashboard & CaseSeqTile Component",
+    "category": "dashboard-tiles",
+    "projectPath": "animations/dashboard-tiles/advocacy-loop-dashboard-v2",
+    "entryHtml": "animations/dashboard-tiles/advocacy-loop-dashboard-v2/app-v2.html",
+    "readmePath": "animations/dashboard-tiles/advocacy-loop-dashboard-v2/README.md",
+    "summary": "🧠 Context & Creative Strategy Visualizing intangible growth strategies like \"Advocacy Loops\" often results in static, unengaging text. This project was conceived to bridge the gap between abstract marketing theory and tangible user experie",
+    "tags": [
+      "dashboard-tiles",
+      "advocacy",
+      "loop",
+      "caseseqtile",
+      "component"
+    ],
+    "thumbnailPath": "animations/dashboard-tiles/advocacy-loop-dashboard-v2/preview.png",
+    "githubUrl": "https://github.com/finlin67/GTMStack-Animations/tree/main/animations/dashboard-tiles/advocacy-loop-dashboard-v2",
+    "githubReadmeUrl": "https://github.com/finlin67/GTMStack-Animations/blob/main/animations/dashboard-tiles/advocacy-loop-dashboard-v2/README.md",
+    "updatedAt": "2026-03-18T16:36:17.492Z"
+  },
+  {
+    "id": "components",
+    "slug": "components",
+    "title": "Components",
+    "category": "abm",
+    "projectPath": "animations/abm/abm-success-visualizer-v2/components",
+    "entryHtml": "animations/abm/abm-success-visualizer-v2/components/fleettile-v2.html",
+    "readmePath": null,
+    "summary": null,
+    "tags": [
+      "abm",
+      "components"
+    ],
+    "thumbnailPath": "animations/abm/abm-success-visualizer-v2/components/preview.png",
+    "githubUrl": "https://github.com/finlin67/GTMStack-Animations/tree/main/animations/abm/abm-success-visualizer-v2/components",
+    "githubReadmeUrl": null,
+    "updatedAt": "2026-03-18T16:36:17.493Z"
+  },
+  {
+    "id": "abm-radar-analysis-v2",
+    "slug": "abm-radar-analysis-v2",
+    "title": "Executive Dashboard Hero Tile",
+    "category": "abm",
+    "projectPath": "animations/abm/abm-radar-analysis-v2",
+    "entryHtml": "animations/abm/abm-radar-analysis-v2/abm-radar-analysis-v2.html",
+    "readmePath": "animations/abm/abm-radar-analysis-v2/README.md",
+    "summary": "A responsive, high-fidelity React component designed for executive summaries, compliant with \"Hero Tile\" specifications (600x600px constraint).",
+    "tags": [
+      "abm",
+      "executive"
+    ],
+    "thumbnailPath": "animations/abm/abm-radar-analysis-v2/preview.png",
+    "githubUrl": "https://github.com/finlin67/GTMStack-Animations/tree/main/animations/abm/abm-radar-analysis-v2",
+    "githubReadmeUrl": "https://github.com/finlin67/GTMStack-Animations/blob/main/animations/abm/abm-radar-analysis-v2/README.md",
+    "updatedAt": "2026-03-18T16:36:17.493Z"
+  },
+  {
+    "id": "abm-pipeline-strategy-dashboard-v2",
+    "slug": "abm-pipeline-strategy-dashboard-v2",
+    "title": "ABM Pipeline Strategy Dashboard",
+    "category": "abm",
+    "projectPath": "animations/abm/abm-pipeline-strategy-dashboard-v2",
+    "entryHtml": "animations/abm/abm-pipeline-strategy-dashboard-v2/abm-pipeline-strategy-v2.html",
+    "readmePath": "animations/abm/abm-pipeline-strategy-dashboard-v2/README.md",
+    "summary": "A high-fidelity, interactive React component visualizing an Account-Based Marketing (ABM) strategy pipeline. This project demonstrates complex UI animations, real-time data simulation, and a \"SaaS Premium\" dark-mode aesthetic using Tailwind",
+    "tags": [
+      "abm",
+      "pipeline",
+      "strategy"
+    ],
+    "thumbnailPath": "animations/abm/abm-pipeline-strategy-dashboard-v2/preview.png",
+    "githubUrl": "https://github.com/finlin67/GTMStack-Animations/tree/main/animations/abm/abm-pipeline-strategy-dashboard-v2",
+    "githubReadmeUrl": "https://github.com/finlin67/GTMStack-Animations/blob/main/animations/abm/abm-pipeline-strategy-dashboard-v2/README.md",
+    "updatedAt": "2026-03-18T16:36:17.494Z"
+  },
+  {
+    "id": "abm-components",
+    "slug": "abm-components",
+    "title": "Components",
+    "category": "abm",
+    "projectPath": "animations/abm/abm-pipeline-strategy-dashboard-v2/components",
+    "entryHtml": "animations/abm/abm-pipeline-strategy-dashboard-v2/components/dashboard-v2.html",
+    "readmePath": null,
+    "summary": null,
+    "tags": [
+      "abm",
+      "components"
+    ],
+    "thumbnailPath": "animations/abm/abm-pipeline-strategy-dashboard-v2/components/preview.png",
+    "githubUrl": "https://github.com/finlin67/GTMStack-Animations/tree/main/animations/abm/abm-pipeline-strategy-dashboard-v2/components",
+    "githubReadmeUrl": null,
+    "updatedAt": "2026-03-18T16:36:17.494Z"
+  },
+  {
+    "id": "abm-pipeline-strategy-dashboard",
+    "slug": "abm-pipeline-strategy-dashboard",
+    "title": "ABM Pipeline Strategy Dashboard",
+    "category": "abm",
+    "projectPath": "animations/abm/abm-pipeline-strategy-dashboard",
+    "entryHtml": "animations/abm/abm-pipeline-strategy-dashboard/dashboard-v2.html",
+    "readmePath": "animations/abm/abm-pipeline-strategy-dashboard/README.md",
+    "summary": "A high-fidelity, interactive React component visualizing an Account-Based Marketing (ABM) strategy pipeline. This project demonstrates complex UI animations, real-time data simulation, and a \"SaaS Premium\" dark-mode aesthetic using Tailwind",
+    "tags": [
+      "abm",
+      "pipeline",
+      "strategy"
+    ],
+    "thumbnailPath": "animations/abm/abm-pipeline-strategy-dashboard/preview.png",
+    "githubUrl": "https://github.com/finlin67/GTMStack-Animations/tree/main/animations/abm/abm-pipeline-strategy-dashboard",
+    "githubReadmeUrl": "https://github.com/finlin67/GTMStack-Animations/blob/main/animations/abm/abm-pipeline-strategy-dashboard/README.md",
+    "updatedAt": "2026-03-18T16:36:17.494Z"
+  },
+  {
+    "id": "abm-network-dashboard-v2",
+    "slug": "abm-network-dashboard-v2",
+    "title": "ABM Network Dashboard v2",
+    "category": "abm",
+    "projectPath": "animations/abm/abm-network-dashboard-v2",
+    "entryHtml": "animations/abm/abm-network-dashboard-v2/abm-network-dashboard.html",
+    "readmePath": "animations/abm/abm-network-dashboard-v2/README.md",
+    "summary": "Description A real-time account-based marketing network topology and engagement dashboard featuring interactive data visualization. This application visualizes complex marketing data in a high-fidelity, compact interface.",
+    "tags": [
+      "abm",
+      "network"
+    ],
+    "thumbnailPath": "animations/abm/abm-network-dashboard-v2/preview.png",
+    "githubUrl": "https://github.com/finlin67/GTMStack-Animations/tree/main/animations/abm/abm-network-dashboard-v2",
+    "githubReadmeUrl": "https://github.com/finlin67/GTMStack-Animations/blob/main/animations/abm/abm-network-dashboard-v2/README.md",
+    "updatedAt": "2026-03-18T16:36:17.495Z"
+  },
+  {
+    "id": "abm-components-2",
+    "slug": "abm-components-2",
+    "title": "Components",
+    "category": "abm",
+    "projectPath": "animations/abm/abm-network-dashboard-v2/components",
+    "entryHtml": "animations/abm/abm-network-dashboard-v2/components/networktopology-v2.html",
+    "readmePath": null,
+    "summary": null,
+    "tags": [
+      "abm",
+      "components"
+    ],
+    "thumbnailPath": "animations/abm/abm-network-dashboard-v2/components/preview.png",
+    "githubUrl": "https://github.com/finlin67/GTMStack-Animations/tree/main/animations/abm/abm-network-dashboard-v2/components",
+    "githubReadmeUrl": null,
+    "updatedAt": "2026-03-18T16:36:17.495Z"
+  },
+  {
+    "id": "abm-campaign-radar-analysis-v2",
+    "slug": "abm-campaign-radar-analysis-v2",
+    "title": "Executive Dashboard Hero Tile",
+    "category": "abm",
+    "projectPath": "animations/abm/abm-campaign-radar-analysis-v2",
+    "entryHtml": "animations/abm/abm-campaign-radar-analysis-v2/abm-radar-analysis-v2.html",
+    "readmePath": "animations/abm/abm-campaign-radar-analysis-v2/README.md",
+    "summary": "A responsive, high-fidelity React component designed for executive summaries, compliant with \"Hero Tile\" specifications (600x600px constraint).",
+    "tags": [
+      "abm",
+      "executive"
+    ],
+    "thumbnailPath": "animations/abm/abm-campaign-radar-analysis-v2/preview.png",
+    "githubUrl": "https://github.com/finlin67/GTMStack-Animations/tree/main/animations/abm/abm-campaign-radar-analysis-v2",
+    "githubReadmeUrl": "https://github.com/finlin67/GTMStack-Animations/blob/main/animations/abm/abm-campaign-radar-analysis-v2/README.md",
+    "updatedAt": "2026-03-18T16:36:17.496Z"
+  }
+]

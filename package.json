@@ -6,7 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "thumbs:dry": "node scripts/generate-thumbnails.js --dry-run --source=animations",
-    "thumbs:gen": "node scripts/generate-thumbnails.js --apply --source=animations"
+    "thumbs:gen": "node scripts/generate-thumbnails.js --apply --source=animations",
+    "manifest:dry": "node scripts/export-gallery-manifest.js --dry-run --source=animations --out=exports/gallery-manifest.json",
+    "manifest:gen": "node scripts/export-gallery-manifest.js --apply --source=animations --out=exports/gallery-manifest.json"
   },
   "repository": {
     "type": "git",
