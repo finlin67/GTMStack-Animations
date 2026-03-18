@@ -1,0 +1,26 @@
+{
+  "name": "gtmstack_animations",
+  "version": "1.0.0",
+  "description": "Free collection of Tailwind/CSS marketing-themed animations for marketers, creators, and builders.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "thumbs:dry": "node scripts/generate-thumbnails.js --dry-run --source=animations",
+    "thumbs:gen": "node scripts/generate-thumbnails.js --apply --source=animations"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finlin67/GTMStack-Animations.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/finlin67/GTMStack-Animations/issues"
+  },
+  "homepage": "https://github.com/finlin67/GTMStack-Animations#readme",
+  "devDependencies": {
+    "playwright": "^1.58.2"
+  }
+}
