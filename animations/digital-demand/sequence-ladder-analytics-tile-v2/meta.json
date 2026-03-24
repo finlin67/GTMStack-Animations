@@ -1,0 +1,19 @@
+{
+  "id": "sequence-ladder-analytics-tile-v2",
+  "title": "Sequence Ladder Analytics Tile",
+  "description": "Sequence Ladder Analytics Tile — GTMStack animation for digital demand use cases.",
+  "tags": [
+    "digital-demand",
+    "sequence",
+    "ladder",
+    "analytics",
+    "tile"
+  ],
+  "category": "hero",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/digital-demand/sequence-ladder-analytics-tile-v2/preview.png",
+  "componentPath": "animations/digital-demand/sequence-ladder-analytics-tile-v2/components/EmailLadderTile.tsx"
+}

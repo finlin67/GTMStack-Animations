@@ -1,0 +1,19 @@
+{
+  "id": "waste-management-ai-hero-component-v2",
+  "title": "Waste Management Ai Hero Component",
+  "description": "Waste Management Ai Hero Component — GTMStack animation for industries use cases.",
+  "tags": [
+    "industries",
+    "waste",
+    "management",
+    "hero",
+    "component"
+  ],
+  "category": "hero",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/industries/waste-management-ai-hero-component-v2/preview.png",
+  "componentPath": "animations/industries/waste-management-ai-hero-component-v2/components/SystemsProcessTile.tsx"
+}

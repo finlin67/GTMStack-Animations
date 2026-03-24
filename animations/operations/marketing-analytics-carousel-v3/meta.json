@@ -1,0 +1,18 @@
+{
+  "id": "marketing-analytics-carousel-v3",
+  "title": "Marketing Analytics Carousel",
+  "description": "Marketing Analytics Carousel — GTMStack animation for operations use cases.",
+  "tags": [
+    "operations",
+    "marketing",
+    "analytics",
+    "carousel"
+  ],
+  "category": "card",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/operations/marketing-analytics-carousel-v3/preview.png",
+  "componentPath": "animations/operations/marketing-analytics-carousel-v3/Marketing-Analytics-Carousel.tsx"
+}

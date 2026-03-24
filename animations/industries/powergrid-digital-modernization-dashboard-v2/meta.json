@@ -1,0 +1,19 @@
+{
+  "id": "powergrid-digital-modernization-dashboard-v2",
+  "title": "Powergrid Digital Modernization Dashboard",
+  "description": "Powergrid Digital Modernization Dashboard — GTMStack animation for industries use cases.",
+  "tags": [
+    "industries",
+    "powergrid",
+    "digital",
+    "modernization",
+    "dashboard"
+  ],
+  "category": "other",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/industries/powergrid-digital-modernization-dashboard-v2/preview.png",
+  "componentPath": "animations/industries/powergrid-digital-modernization-dashboard-v2/PowerGridDashboard.tsx"
+}

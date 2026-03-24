@@ -1,0 +1,19 @@
+{
+  "id": "email-marketing-json-lottie-v2",
+  "title": "Email Marketing Json Lottie",
+  "description": "Email Marketing Json Lottie — GTMStack animation for digital demand use cases.",
+  "tags": [
+    "digital-demand",
+    "email",
+    "marketing",
+    "json",
+    "lottie"
+  ],
+  "category": "hero",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/digital-demand/email-marketing-json-lottie-v2/preview.png",
+  "componentPath": "animations/digital-demand/email-marketing-json-lottie-v2/components/EmailMarketingHero.tsx"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "marketingflow-ai-workflow-v2",
+  "title": "Marketingflow Ai Workflow",
+  "description": "Marketingflow Ai Workflow — GTMStack animation for dashboard tiles use cases.",
+  "tags": [
+    "dashboard-tiles",
+    "marketingflow",
+    "workflow"
+  ],
+  "category": "card",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/dashboard-tiles/marketingflow-ai-workflow-v2/preview.png",
+  "componentPath": "animations/dashboard-tiles/marketingflow-ai-workflow-v2/Content-Marketing.tsx"
+}

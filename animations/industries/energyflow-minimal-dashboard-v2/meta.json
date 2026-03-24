@@ -1,0 +1,18 @@
+{
+  "id": "energyflow-minimal-dashboard-v2",
+  "title": "Energyflow Minimal Dashboard",
+  "description": "Energyflow Minimal Dashboard — GTMStack animation for industries use cases.",
+  "tags": [
+    "industries",
+    "energyflow",
+    "minimal",
+    "dashboard"
+  ],
+  "category": "other",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/industries/energyflow-minimal-dashboard-v2/preview.png",
+  "componentPath": "animations/industries/energyflow-minimal-dashboard-v2/EnergyFlowDigital.tsx"
+}

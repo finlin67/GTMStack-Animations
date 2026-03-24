@@ -1,0 +1,19 @@
+{
+  "id": "event-pulse-enterprise-dashboard-v2",
+  "title": "Event Pulse Enterprise Dashboard",
+  "description": "Event Pulse Enterprise Dashboard — GTMStack animation for events media use cases.",
+  "tags": [
+    "events-media",
+    "event",
+    "pulse",
+    "enterprise",
+    "dashboard"
+  ],
+  "category": "card",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/events-media/event-pulse-enterprise-dashboard-v2/preview.png",
+  "componentPath": "animations/events-media/event-pulse-enterprise-dashboard-v2/components/EventPulse.tsx"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "lifecycle-engine-dashboard-v2",
+  "title": "Lifecycle Engine Dashboard",
+  "description": "Lifecycle Engine Dashboard — GTMStack animation for dashboard tiles use cases.",
+  "tags": [
+    "dashboard-tiles",
+    "lifecycle",
+    "engine",
+    "dashboard"
+  ],
+  "category": "card",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/dashboard-tiles/lifecycle-engine-dashboard-v2/preview.png",
+  "componentPath": "animations/dashboard-tiles/lifecycle-engine-dashboard-v2/Lifecycle Engine Dashboard.tsx"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "experience-dashboard-v2",
+  "title": "Experience Dashboard",
+  "description": "Experience Dashboard — GTMStack animation for dashboard tiles use cases.",
+  "tags": [
+    "dashboard-tiles",
+    "experience",
+    "dashboard"
+  ],
+  "category": "card",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/dashboard-tiles/experience-dashboard-v2/preview.png",
+  "componentPath": "animations/dashboard-tiles/experience-dashboard-v2/DemandGenFlow.tsx"
+}

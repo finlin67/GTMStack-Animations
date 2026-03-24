@@ -1,0 +1,18 @@
+{
+  "id": "demand-gen-hero-v2",
+  "title": "Demand Gen Hero",
+  "description": "Demand Gen Hero — GTMStack animation for digital demand use cases.",
+  "tags": [
+    "digital-demand",
+    "demand",
+    "gen",
+    "hero"
+  ],
+  "category": "hero",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/digital-demand/demand-gen-hero-v2/preview.png",
+  "componentPath": "animations/digital-demand/demand-gen-hero-v2/components/DemandGenerationHero.tsx"
+}

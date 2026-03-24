@@ -1,0 +1,19 @@
+{
+  "id": "gtmstack-pro-hero-tile",
+  "title": "Gtmstack Pro Hero Tile",
+  "description": "Gtmstack Pro Hero Tile — GTMStack animation for digital demand use cases.",
+  "tags": [
+    "digital-demand",
+    "gtmstack",
+    "pro",
+    "hero",
+    "tile"
+  ],
+  "category": "hero",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/digital-demand/gtmstack-pro-hero-tile/preview.png",
+  "componentPath": "animations/digital-demand/gtmstack-pro-hero-tile/components/BackgroundGrid.tsx"
+}

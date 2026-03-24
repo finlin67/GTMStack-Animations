@@ -1,0 +1,20 @@
+{
+  "id": "oil-gas-performance-tile-component-v2",
+  "title": "Oil Gas Performance Tile Component",
+  "description": "Oil Gas Performance Tile Component — GTMStack animation for industries use cases.",
+  "tags": [
+    "industries",
+    "oil",
+    "gas",
+    "performance",
+    "tile",
+    "component"
+  ],
+  "category": "other",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/industries/oil-gas-performance-tile-component-v2/preview.png",
+  "componentPath": "animations/industries/oil-gas-performance-tile-component-v2/components/HealthCareTile.tsx"
+}

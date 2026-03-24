@@ -1,0 +1,19 @@
+{
+  "id": "utilities-command-center-tile-v2",
+  "title": "Utilities Command Center Tile",
+  "description": "Utilities Command Center Tile — GTMStack animation for industries use cases.",
+  "tags": [
+    "industries",
+    "utilities",
+    "command",
+    "center",
+    "tile"
+  ],
+  "category": "other",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/industries/utilities-command-center-tile-v2/preview.png",
+  "componentPath": "animations/industries/utilities-command-center-tile-v2/components/EnergyGridTile.tsx"
+}

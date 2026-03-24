@@ -1,0 +1,13 @@
+{
+  "id": "pipeline-command-center-v2",
+  "title": "Pipeline Command Center",
+  "description": "Operations-focused command center dashboard tile with live KPI styling.",
+  "tags": ["operations", "pipeline", "dashboard"],
+  "category": "card",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/pipeline-command-center-v2/thumbnail.png",
+  "componentPath": "animations/pipeline-command-center-v2/component.tsx"
+}

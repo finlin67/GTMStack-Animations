@@ -1,0 +1,20 @@
+{
+  "id": "grid-master-cyber-infrastructure-dashboard-v2",
+  "title": "Grid Master Cyber Infrastructure Dashboard",
+  "description": "Grid Master Cyber Infrastructure Dashboard — GTMStack animation for industries use cases.",
+  "tags": [
+    "industries",
+    "grid",
+    "master",
+    "cyber",
+    "infrastructure",
+    "dashboard"
+  ],
+  "category": "other",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/industries/grid-master-cyber-infrastructure-dashboard-v2/preview.png",
+  "componentPath": "animations/industries/grid-master-cyber-infrastructure-dashboard-v2/components/HealthCareTile.tsx"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "driftguard-ai-monitor-v2",
+  "title": "Driftguard Ai Monitor",
+  "description": "Driftguard Ai Monitor — GTMStack animation for digital demand use cases.",
+  "tags": [
+    "digital-demand",
+    "driftguard",
+    "monitor"
+  ],
+  "category": "hero",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/digital-demand/driftguard-ai-monitor-v2/preview.png",
+  "componentPath": "animations/digital-demand/driftguard-ai-monitor-v2/DriftGuard.tsx"
+}

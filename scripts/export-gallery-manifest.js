@@ -21,6 +21,21 @@ const DEFAULT_OUT = "exports/gallery-manifest.json";
 const REPO_SLUG = "finlin67/GTMStack-Animations";
 const REPO_MAIN_BRANCH = "main";
 
+/**
+ * Optional mapping from manifest `id` -> GTMStack_pro_production ANIMATION_REGISTRY id.
+ * Keep this conservative and extend it as you add/standardize animation ids on the website side.
+ *
+ * Example:
+ *   {
+ *     "revenue-systems-data-flow-v2": "revenue-systems-data-flow-v2",
+ *     "martech-ai-dashboard-engine-v2": "martech-ai-dashboard-engine-v2",
+ *   }
+ */
+const animationIdMap = {
+  "revenue-systems-data-flow-v2": "revenue-systems-data-flow-v2",
+  "martech-ai-dashboard-engine-v2": "martech-ai-dashboard-engine-v2",
+};
+
 function parseArgs(argv) {
   const args = {
     dryRun: true,
@@ -66,6 +81,12 @@ function isHiddenOrSystemDir(name) {
   return false;
 }
 
+function isInternalSubdirName(name) {
+  if (!name) return false;
+  const lower = name.toLowerCase();
+  return ["components", "src", "lib", "utils", "hooks", "styles", "services", "types"].includes(lower);
+}
+
 function listDirSafe(dir) {
   try {
     return fs.readdirSync(dir, { withFileTypes: true });
@@ -74,46 +95,152 @@ function listDirSafe(dir) {
   }
 }
 
-function* walkDirsWithHtml(rootDir) {
+function isCanonicalContentDir(dir) {
+  const entries = listDirSafe(dir);
+  let hasMeta = false;
+  let hasComponent = false;
+
+  for (const entry of entries) {
+    if (!entry.isFile()) continue;
+    const lower = entry.name.toLowerCase();
+    if (lower === "meta.json") hasMeta = true;
+    if (lower === "component.tsx") hasComponent = true;
+  }
+
+  return hasMeta && hasComponent;
+}
+
+function directoryHasProjectSignals(dir) {
+  const entries = listDirSafe(dir);
+  let hasReadme = false;
+  let hasHtml = false;
+  let hasTsxOrTs = false;
+
+  for (const entry of entries) {
+    if (!entry.isFile()) continue;
+    const lower = entry.name.toLowerCase();
+    if (lower === "readme.md") hasReadme = true;
+    if (lower.endsWith(".html")) hasHtml = true;
+    if (lower.endsWith(".tsx") || lower.endsWith(".ts")) hasTsxOrTs = true;
+  }
+
+  return { hasReadme, hasHtml, hasTsxOrTs };
+}
+
+function* walkProjectDirs(rootDir) {
   const stack = [rootDir];
   while (stack.length) {
     const dir = stack.pop();
+    if (isCanonicalContentDir(dir)) {
+      // Canonical wrappers are indexed by the TypeScript content build and should not be emitted
+      // as legacy gallery projects.
+      continue;
+    }
+
     const entries = listDirSafe(dir);
-    let hasHtml = false;
+    const rel = pathRelativePosix(rootDir, dir);
+    const depth = rel ? rel.split("/").filter(Boolean).length : 0;
+
+    const { hasReadme, hasHtml, hasTsxOrTs } = directoryHasProjectSignals(dir);
+
+    // Treat as a project if:
+    // 1) it has a README (strongest signal), OR
+    // 2) it is category/project depth and has HTML/TSX/TS entry files.
+    // This avoids pulling in internal folders like */components as standalone projects.
+    const looksLikeProject = hasReadme || (depth <= 2 && (hasHtml || hasTsxOrTs));
 
     for (const entry of entries) {
       const full = path.join(dir, entry.name);
       if (entry.isDirectory()) {
         if (isHiddenOrSystemDir(entry.name)) continue;
+        if (looksLikeProject && isInternalSubdirName(entry.name)) {
+          // Don't recurse into common internal implementation folders once a project root is found.
+          continue;
+        }
         stack.push(full);
-      } else if (entry.isFile() && entry.name.toLowerCase().endsWith(".html")) {
-        hasHtml = true;
       }
     }
 
-    if (hasHtml) {
+    if (looksLikeProject) {
       yield dir;
     }
   }
 }
 
-function findEntryHtml(projectDir) {
+function findEntryFile(projectDir) {
   const entries = listDirSafe(projectDir);
   let indexHtml = null;
   let firstHtml = null;
+  let indexTsx = null;
+  let appTsx = null;
+  let firstTsx = null;
+  let firstTs = null;
+
   for (const entry of entries) {
     if (!entry.isFile()) continue;
-    if (!entry.name.toLowerCase().endsWith(".html")) continue;
+    const lower = entry.name.toLowerCase();
     const full = path.join(projectDir, entry.name);
-    if (entry.name.toLowerCase() === "index.html") {
-      indexHtml = full;
-      break;
+    if (lower.endsWith(".html")) {
+      if (lower === "index.html") {
+        indexHtml = full;
+        continue;
+      }
+      if (!firstHtml) firstHtml = full;
+      continue;
     }
-    if (!firstHtml) {
-      firstHtml = full;
+    if (lower.endsWith(".tsx")) {
+      if (lower === "index.tsx") {
+        indexTsx = full;
+        continue;
+      }
+      if (lower === "app.tsx") {
+        appTsx = full;
+        continue;
+      }
+      if (!firstTsx) firstTsx = full;
+      continue;
+    }
+    if (lower.endsWith(".ts")) {
+      if (!firstTs) firstTs = full;
+      continue;
     }
   }
-  return indexHtml || firstHtml;
+
+  const entryAbs = indexHtml || firstHtml || indexTsx || appTsx || firstTsx || firstTs;
+  if (!entryAbs) {
+    return null;
+  }
+  const lower = entryAbs.toLowerCase();
+  let entryType = "unknown";
+  if (lower.endsWith(".html")) entryType = "html";
+  else if (lower.endsWith(".tsx")) entryType = "tsx";
+  else if (lower.endsWith(".ts")) entryType = "ts";
+
+  return { entryAbs, entryType };
+}
+
+function findFallbackEntryInSubdirs(projectDir) {
+  // Last-resort fallback for projects where entry is nested under src/components.
+  const stack = [projectDir];
+  while (stack.length) {
+    const dir = stack.pop();
+    const entries = listDirSafe(dir);
+    for (const entry of entries) {
+      const full = path.join(dir, entry.name);
+      if (entry.isDirectory()) {
+        if (isHiddenOrSystemDir(entry.name)) continue;
+        stack.push(full);
+        continue;
+      }
+      if (!entry.isFile()) continue;
+      const lower = entry.name.toLowerCase();
+      if (lower.endsWith(".html")) return { entryAbs: full, entryType: "html" };
+      if (lower === "index.tsx" || lower === "app.tsx") return { entryAbs: full, entryType: "tsx" };
+      if (lower.endsWith(".tsx")) return { entryAbs: full, entryType: "tsx" };
+      if (lower.endsWith(".ts")) return { entryAbs: full, entryType: "ts" };
+    }
+  }
+  return null;
 }
 
 function findReadme(projectDir) {
@@ -358,7 +485,7 @@ async function main() {
     skipped: [],
   };
 
-  for (const projectDir of walkDirsWithHtml(sourceDir)) {
+  for (const projectDir of walkProjectDirs(sourceDir)) {
     const relProject = pathRelativePosix(rootDir, projectDir);
     const relFromAnimations = pathRelativePosix(sourceDir, projectDir);
     const segments = relFromAnimations.split("/");
@@ -368,12 +495,15 @@ async function main() {
     }
     const category = segments[0];
 
-    const entryHtmlAbs = findEntryHtml(projectDir);
-    if (!entryHtmlAbs) {
-      stats.skipped.push({ path: relProject, reason: "No .html entry file found" });
+    let entry = findEntryFile(projectDir);
+    if (!entry) {
+      entry = findFallbackEntryInSubdirs(projectDir);
+    }
+    if (!entry) {
+      stats.skipped.push({ path: relProject, reason: "No entry file found (.html/.tsx/.ts)" });
       continue;
     }
-    const entryHtmlRel = pathRelativePosix(rootDir, entryHtmlAbs);
+    const entryHtmlRel = pathRelativePosix(rootDir, entry.entryAbs);
 
     const readmeAbs = findReadme(projectDir);
     let readmeRel = null;
@@ -408,10 +538,12 @@ async function main() {
     const project = {
       id,
       slug,
+      animationId: animationIdMap[id] ?? undefined,
       title,
       category,
       projectPath: relProject,
       entryHtml: entryHtmlRel,
+      entryType: entry.entryType,
       readmePath: readmeRel,
       summary,
       tags,

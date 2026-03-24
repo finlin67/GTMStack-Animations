@@ -1,0 +1,19 @@
+{
+  "id": "devmarketers-bottom-up-adoption-loop-v2",
+  "title": "Devmarketers Bottom Up Adoption Loop",
+  "description": "Devmarketers Bottom Up Adoption Loop — GTMStack animation for industries use cases.",
+  "tags": [
+    "industries",
+    "devmarketers",
+    "bottom",
+    "adoption",
+    "loop"
+  ],
+  "category": "other",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/industries/devmarketers-bottom-up-adoption-loop-v2/preview.png",
+  "componentPath": "animations/industries/devmarketers-bottom-up-adoption-loop-v2/DevMarketers.tsx"
+}

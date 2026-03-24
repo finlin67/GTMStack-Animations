@@ -1,0 +1,19 @@
+{
+  "id": "omnichannel-live-analytics-tile-v2",
+  "title": "Omnichannel Live Analytics Tile",
+  "description": "Omnichannel Live Analytics Tile — GTMStack animation for digital demand use cases.",
+  "tags": [
+    "digital-demand",
+    "omnichannel",
+    "live",
+    "analytics",
+    "tile"
+  ],
+  "category": "hero",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/digital-demand/omnichannel-live-analytics-tile-v2/preview.png",
+  "componentPath": "animations/digital-demand/omnichannel-live-analytics-tile-v2/OmnichannelLiveAnalytics.tsx"
+}

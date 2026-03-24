@@ -1,0 +1,19 @@
+{
+  "id": "edu-hero-analytics-dashboard-v2",
+  "title": "Edu Hero Analytics Dashboard",
+  "description": "Edu Hero Analytics Dashboard — GTMStack animation for industries use cases.",
+  "tags": [
+    "industries",
+    "edu",
+    "hero",
+    "analytics",
+    "dashboard"
+  ],
+  "category": "hero",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/industries/edu-hero-analytics-dashboard-v2/preview.png",
+  "componentPath": "animations/industries/edu-hero-analytics-dashboard-v2/components/FleetTile.tsx"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "gtmstack-hero-tile-v2",
+  "title": "Gtmstack Hero Tile",
+  "description": "Gtmstack Hero Tile — GTMStack animation for dashboard tiles use cases.",
+  "tags": [
+    "dashboard-tiles",
+    "gtmstack",
+    "hero",
+    "tile"
+  ],
+  "category": "hero",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/dashboard-tiles/gtmstack-hero-tile-v2/preview.png",
+  "componentPath": "animations/dashboard-tiles/gtmstack-hero-tile-v2/components/BackgroundGrid.tsx"
+}

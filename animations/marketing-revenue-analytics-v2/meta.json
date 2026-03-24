@@ -1,0 +1,13 @@
+{
+  "id": "marketing-revenue-analytics-v2",
+  "title": "Marketing Revenue Analytics",
+  "description": "Revenue analytics visualization card for marketing operations performance.",
+  "tags": ["operations", "analytics", "revenue"],
+  "category": "card",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/marketing-revenue-analytics-v2/thumbnail.png",
+  "componentPath": "animations/marketing-revenue-analytics-v2/component.tsx"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "quantum-data-field-analytics-v2",
+  "title": "Quantum Data Field Analytics",
+  "description": "Data-ops and analytics dashboard tile with animated operational metrics.",
+  "tags": ["dashboard", "analytics", "data"],
+  "category": "card",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/quantum-data-field-analytics-v2/thumbnail.png",
+  "componentPath": "animations/quantum-data-field-analytics-v2/component.tsx"
+}

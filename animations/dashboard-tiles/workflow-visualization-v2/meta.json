@@ -1,0 +1,17 @@
+{
+  "id": "workflow-visualization-v2",
+  "title": "Workflow Visualization",
+  "description": "Workflow Visualization — GTMStack animation for dashboard tiles use cases.",
+  "tags": [
+    "dashboard-tiles",
+    "workflow",
+    "visualization"
+  ],
+  "category": "card",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/dashboard-tiles/workflow-visualization-v2/preview.png",
+  "componentPath": "animations/dashboard-tiles/workflow-visualization-v2/components/MetricCard.tsx"
+}

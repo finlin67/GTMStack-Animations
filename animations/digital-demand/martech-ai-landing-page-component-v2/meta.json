@@ -1,0 +1,19 @@
+{
+  "id": "martech-ai-landing-page-component-v2",
+  "title": "Martech Ai Landing Page Component",
+  "description": "Martech Ai Landing Page Component — GTMStack animation for digital demand use cases.",
+  "tags": [
+    "digital-demand",
+    "martech",
+    "landing",
+    "page",
+    "component"
+  ],
+  "category": "hero",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/digital-demand/martech-ai-landing-page-component-v2/preview.png",
+  "componentPath": "animations/digital-demand/martech-ai-landing-page-component-v2/components/MarTechTile.tsx"
+}

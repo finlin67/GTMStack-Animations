@@ -1,0 +1,19 @@
+{
+  "id": "saas-premium-analytics-component-v2",
+  "title": "Saas Premium Analytics Component",
+  "description": "Saas Premium Analytics Component — GTMStack animation for industries use cases.",
+  "tags": [
+    "industries",
+    "saas",
+    "premium",
+    "analytics",
+    "component"
+  ],
+  "category": "other",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/industries/saas-premium-analytics-component-v2/preview.png",
+  "componentPath": "animations/industries/saas-premium-analytics-component-v2/components/PubSecTile.tsx"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "fintech-growth-studio-animated-sales-tile-v2",
+  "title": "Fintech Growth Studio Animated Sales Tile",
+  "description": "Fintech Growth Studio Animated Sales Tile — GTMStack animation for industries use cases.",
+  "tags": [
+    "industries",
+    "fintech",
+    "growth",
+    "studio",
+    "animated",
+    "sales",
+    "tile"
+  ],
+  "category": "other",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/industries/fintech-growth-studio-animated-sales-tile-v2/preview.png",
+  "componentPath": "animations/industries/fintech-growth-studio-animated-sales-tile-v2/components/FinServTile.tsx"
+}

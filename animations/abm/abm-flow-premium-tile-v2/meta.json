@@ -1,0 +1,18 @@
+{
+  "id": "abm-flow-premium-tile-v2",
+  "title": "Abm Flow Premium Tile",
+  "description": "Abm Flow Premium Tile — GTMStack animation for abm use cases.",
+  "tags": [
+    "abm",
+    "flow",
+    "premium",
+    "tile"
+  ],
+  "category": "card",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/abm/abm-flow-premium-tile-v2/preview.png",
+  "componentPath": "animations/abm/abm-flow-premium-tile-v2/ABMFlowTile.tsx"
+}

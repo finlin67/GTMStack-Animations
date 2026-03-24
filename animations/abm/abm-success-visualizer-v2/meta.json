@@ -1,0 +1,17 @@
+{
+  "id": "abm-success-visualizer-v2",
+  "title": "Abm Success Visualizer",
+  "description": "Abm Success Visualizer — GTMStack animation for abm use cases.",
+  "tags": [
+    "abm",
+    "success",
+    "visualizer"
+  ],
+  "category": "card",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/abm/abm-success-visualizer-v2/preview.png",
+  "componentPath": "animations/abm/abm-success-visualizer-v2/components/ABMPipeTrackerTile.tsx"
+}

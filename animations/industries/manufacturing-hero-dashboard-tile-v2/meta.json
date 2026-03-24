@@ -1,0 +1,19 @@
+{
+  "id": "manufacturing-hero-dashboard-tile-v2",
+  "title": "Manufacturing Hero Dashboard Tile",
+  "description": "Manufacturing Hero Dashboard Tile — GTMStack animation for industries use cases.",
+  "tags": [
+    "industries",
+    "manufacturing",
+    "hero",
+    "dashboard",
+    "tile"
+  ],
+  "category": "hero",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/industries/manufacturing-hero-dashboard-tile-v2/preview.png",
+  "componentPath": "animations/industries/manufacturing-hero-dashboard-tile-v2/components/ManufacturingHeroTile.tsx"
+}

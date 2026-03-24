@@ -1,0 +1,20 @@
+{
+  "id": "gtm-engine-visualization-hero-animation-v2",
+  "title": "Gtm Engine Visualization Hero Animation",
+  "description": "Gtm Engine Visualization Hero Animation — GTMStack animation for digital demand use cases.",
+  "tags": [
+    "digital-demand",
+    "gtm",
+    "engine",
+    "visualization",
+    "hero",
+    "animation"
+  ],
+  "category": "hero",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/digital-demand/gtm-engine-visualization-hero-animation-v2/preview.png",
+  "componentPath": "animations/digital-demand/gtm-engine-visualization-hero-animation-v2/components/GtmCoreTile.tsx"
+}

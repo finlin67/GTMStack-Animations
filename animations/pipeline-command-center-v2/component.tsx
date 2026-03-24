@@ -1,0 +1,1 @@
+export { default } from "../operations/pipeline-command-center-v2/components/PipelineDashboard";

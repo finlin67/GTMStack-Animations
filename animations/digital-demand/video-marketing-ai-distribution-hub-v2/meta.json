@@ -1,0 +1,19 @@
+{
+  "id": "video-marketing-ai-distribution-hub-v2",
+  "title": "Video Marketing Ai Distribution Hub",
+  "description": "Video Marketing Ai Distribution Hub — GTMStack animation for digital demand use cases.",
+  "tags": [
+    "digital-demand",
+    "video",
+    "marketing",
+    "distribution",
+    "hub"
+  ],
+  "category": "hero",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/digital-demand/video-marketing-ai-distribution-hub-v2/preview.png",
+  "componentPath": "animations/digital-demand/video-marketing-ai-distribution-hub-v2/components/AnalyticsPanel.tsx"
+}

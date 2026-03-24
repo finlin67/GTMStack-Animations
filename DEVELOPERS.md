@@ -174,14 +174,56 @@ The last run used `thumbs:gen` with `--central-output=assets/thumbnails`, produc
     - Per-folder `preview.png` path
     - Central thumbnail path (if configured)
 
+### Option B: static `preview.html` for TSX-only projects
+
+Many projects are **TSX-only** (no `.html` in the folder). The thumbnail scanner **only** visits directories that contain at least one `.html`, so those projects were invisible to `thumbs:gen` until you add a small HTML file.
+
+- **Script**: `scripts/scaffold-preview-html.js`
+- **Data source**: `exports/gallery-manifest.json` (title, summary, category, id) — refresh with `npm run manifest:gen` first.
+- **Behavior**:
+  - For each manifest entry, if the project folder has **no** `.html` file, writes **`preview.html`** (a static card layout sized for 1200×630 screenshots).
+  - If the folder **already** has any `.html`, it **skips** (your real demo HTML stays primary). Use `--force` only if you intentionally want to add/overwrite `preview.html` alongside other HTML (note: `generate-thumbnails.js` still prefers `index.html` when present).
+
+**npm scripts**
+
+```bash
+npm run preview-html:dry    # list what would be written
+npm run preview-html:gen    # write preview.html where missing
+# optional:
+node scripts/scaffold-preview-html.js --apply --force
+```
+
+**Suggested pipeline (repo root)**
+
+```bash
+npm run manifest:gen
+npm run preview-html:dry
+npm run preview-html:gen
+npm run thumbs:gen -- --central-output=assets/thumbnails
+npm run manifest:gen
+```
+
+Report: `reports/preview-html-scaffold-report.md`.
+
+### Using Cursor for this workflow
+
+1. Open the **animations repo** root in Cursor.
+2. In the terminal: run the commands above in order.
+3. Review `reports/preview-html-scaffold-report.md` for skips vs writes.
+4. Commit `preview.html` files + updated thumbnails/manifest as needed.
+
+You can also ask Cursor in chat: *“Run preview-html dry-run and summarize skips”* — it can execute the npm script and read the report.
+
 ---
 
 ## 5. How to extend
 
 - **Adding new animations**:
   - Place new projects under the appropriate `animations/<category>/` folder.
-  - Ensure there is at least one `.html` entry point in the project directory.
+  - For **HTML** demos: keep at least one `.html` in the project directory (or add `preview.html` via Option B).
+  - For **TSX-only** demos: add a README so the project appears in the manifest, then run `preview-html:gen` and `thumbs:gen`.
   - Run:
+    - `npm run manifest:gen` → `npm run preview-html:dry` / `preview-html:gen` (if needed)
     - `npm run thumbs:dry` to confirm detection.
     - `npm run thumbs:gen -- --central-output=assets/thumbnails` to generate/update thumbnails.
 - **Adjusting naming rules**:

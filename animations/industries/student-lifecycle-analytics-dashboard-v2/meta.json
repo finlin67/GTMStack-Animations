@@ -1,0 +1,19 @@
+{
+  "id": "student-lifecycle-analytics-dashboard-v2",
+  "title": "Student Lifecycle Analytics Dashboard",
+  "description": "Student Lifecycle Analytics Dashboard — GTMStack animation for industries use cases.",
+  "tags": [
+    "industries",
+    "student",
+    "lifecycle",
+    "analytics",
+    "dashboard"
+  ],
+  "category": "other",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/industries/student-lifecycle-analytics-dashboard-v2/preview.png",
+  "componentPath": "animations/industries/student-lifecycle-analytics-dashboard-v2/components/EDUMarketingTile.tsx"
+}

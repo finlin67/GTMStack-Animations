@@ -1,0 +1,19 @@
+{
+  "id": "automotive-hero-dashboard-component-v2",
+  "title": "Automotive Hero Dashboard Component",
+  "description": "Automotive Hero Dashboard Component — GTMStack animation for industries use cases.",
+  "tags": [
+    "industries",
+    "automotive",
+    "hero",
+    "dashboard",
+    "component"
+  ],
+  "category": "hero",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/industries/automotive-hero-dashboard-component-v2/preview.png",
+  "componentPath": "animations/industries/automotive-hero-dashboard-component-v2/components/AutoTile.tsx"
+}

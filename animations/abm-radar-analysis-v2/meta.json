@@ -1,0 +1,13 @@
+{
+  "id": "abm-radar-analysis-v2",
+  "title": "ABM Radar Analysis",
+  "description": "Radar-style ABM performance dashboard tile exposed through a canonical wrapper entry.",
+  "tags": ["abm", "dashboard", "radar"],
+  "category": "card",
+  "published": true,
+  "featured": true,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/abm-radar-analysis-v2/thumbnail.png",
+  "componentPath": "animations/abm-radar-analysis-v2/component.tsx"
+}

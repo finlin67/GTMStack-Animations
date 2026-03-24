@@ -1,0 +1,19 @@
+{
+  "id": "growth-ai-harmonic-quad-tone",
+  "title": "Growth Ai Harmonic Quad Tone",
+  "description": "Growth Ai Harmonic Quad Tone — GTMStack animation for digital demand use cases.",
+  "tags": [
+    "digital-demand",
+    "growth",
+    "harmonic",
+    "quad",
+    "tone"
+  ],
+  "category": "hero",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/digital-demand/growth-ai-harmonic-quad-tone/preview.png",
+  "componentPath": "animations/digital-demand/growth-ai-harmonic-quad-tone/components/AIGrowth.tsx"
+}

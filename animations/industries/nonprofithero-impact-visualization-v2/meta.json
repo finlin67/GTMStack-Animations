@@ -1,0 +1,18 @@
+{
+  "id": "nonprofithero-impact-visualization-v2",
+  "title": "Nonprofithero Impact Visualization",
+  "description": "Nonprofithero Impact Visualization — GTMStack animation for industries use cases.",
+  "tags": [
+    "industries",
+    "nonprofithero",
+    "impact",
+    "visualization"
+  ],
+  "category": "hero",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/industries/nonprofithero-impact-visualization-v2/preview.png",
+  "componentPath": "animations/industries/nonprofithero-impact-visualization-v2/components/HealthCareTile.tsx"
+}

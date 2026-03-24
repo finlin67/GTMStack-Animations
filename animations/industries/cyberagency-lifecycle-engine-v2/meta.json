@@ -1,0 +1,18 @@
+{
+  "id": "cyberagency-lifecycle-engine-v2",
+  "title": "Cyberagency Lifecycle Engine",
+  "description": "Cyberagency Lifecycle Engine — GTMStack animation for industries use cases.",
+  "tags": [
+    "industries",
+    "cyberagency",
+    "lifecycle",
+    "engine"
+  ],
+  "category": "other",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/industries/cyberagency-lifecycle-engine-v2/preview.png",
+  "componentPath": "animations/industries/cyberagency-lifecycle-engine-v2/ApexShieldLifecycleEngine.tsx"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "growthsem-landing-page-v2",
+  "title": "Growthsem Landing Page",
+  "description": "Growthsem Landing Page — GTMStack animation for digital demand use cases.",
+  "tags": [
+    "digital-demand",
+    "growthsem",
+    "landing",
+    "page"
+  ],
+  "category": "hero",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/digital-demand/growthsem-landing-page-v2/preview.png",
+  "componentPath": "animations/digital-demand/growthsem-landing-page-v2/components/CampaignTile.tsx"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "gtmstack-industry-template-v2",
+  "title": "Gtmstack Industry Template",
+  "description": "Gtmstack Industry Template — GTMStack animation for dashboard tiles use cases.",
+  "tags": [
+    "dashboard-tiles",
+    "gtmstack",
+    "industry",
+    "template"
+  ],
+  "category": "card",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/dashboard-tiles/gtmstack-industry-template-v2/preview.png",
+  "componentPath": "animations/dashboard-tiles/gtmstack-industry-template-v2/components/CTA.tsx"
+}

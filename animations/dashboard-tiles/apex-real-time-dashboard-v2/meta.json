@@ -1,0 +1,19 @@
+{
+  "id": "apex-real-time-dashboard-v2",
+  "title": "Apex Real Time Dashboard",
+  "description": "Apex Real Time Dashboard — GTMStack animation for dashboard tiles use cases.",
+  "tags": [
+    "dashboard-tiles",
+    "apex",
+    "real",
+    "time",
+    "dashboard"
+  ],
+  "category": "card",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/dashboard-tiles/apex-real-time-dashboard-v2/preview.png",
+  "componentPath": "animations/dashboard-tiles/apex-real-time-dashboard-v2/DemandGen-Marketing.tsx"
+}

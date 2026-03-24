@@ -1,0 +1,18 @@
+{
+  "id": "telco-ai-infrastructure-tile-v2",
+  "title": "Telco Ai Infrastructure Tile",
+  "description": "Telco Ai Infrastructure Tile — GTMStack animation for industries use cases.",
+  "tags": [
+    "industries",
+    "telco",
+    "infrastructure",
+    "tile"
+  ],
+  "category": "other",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/industries/telco-ai-infrastructure-tile-v2/preview.png",
+  "componentPath": "animations/industries/telco-ai-infrastructure-tile-v2/components/TelcoAITile.tsx"
+}

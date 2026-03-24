@@ -1,0 +1,1 @@
+export { default } from "../dashboard-tiles/quantum-data-field-analytics-v2/components/DataOpsDash";

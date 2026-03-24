@@ -1,0 +1,18 @@
+{
+  "id": "gtmstack-route-planner-v2",
+  "title": "Gtmstack Route Planner",
+  "description": "Gtmstack Route Planner — GTMStack animation for dashboard tiles use cases.",
+  "tags": [
+    "dashboard-tiles",
+    "gtmstack",
+    "route",
+    "planner"
+  ],
+  "category": "card",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/dashboard-tiles/gtmstack-route-planner-v2/preview.png",
+  "componentPath": "animations/dashboard-tiles/gtmstack-route-planner-v2/components/GTMStack.tsx"
+}

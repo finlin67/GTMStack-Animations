@@ -1,0 +1,17 @@
+{
+  "id": "strategist-os-dashboard-v2",
+  "title": "Strategist Os Dashboard",
+  "description": "Strategist Os Dashboard — GTMStack animation for digital demand use cases.",
+  "tags": [
+    "digital-demand",
+    "strategist",
+    "dashboard"
+  ],
+  "category": "hero",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/digital-demand/strategist-os-dashboard-v2/preview.png",
+  "componentPath": "animations/digital-demand/strategist-os-dashboard-v2/components/ContentStrategistDashboard.tsx"
+}

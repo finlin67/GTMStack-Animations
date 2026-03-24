@@ -1,0 +1,17 @@
+{
+  "id": "growththeme-ai-landing-v2",
+  "title": "Growththeme Ai Landing",
+  "description": "Growththeme Ai Landing — GTMStack animation for digital demand use cases.",
+  "tags": [
+    "digital-demand",
+    "growththeme",
+    "landing"
+  ],
+  "category": "hero",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/digital-demand/growththeme-ai-landing-v2/preview.png",
+  "componentPath": "animations/digital-demand/growththeme-ai-landing-v2/components/ProductPhaseTile.tsx"
+}

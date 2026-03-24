@@ -1,0 +1,18 @@
+{
+  "id": "strategyinsights-tile-component-v2",
+  "title": "Strategyinsights Tile Component",
+  "description": "Strategyinsights Tile Component — GTMStack animation for digital demand use cases.",
+  "tags": [
+    "digital-demand",
+    "strategyinsights",
+    "tile",
+    "component"
+  ],
+  "category": "hero",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/digital-demand/strategyinsights-tile-component-v2/preview.png",
+  "componentPath": "animations/digital-demand/strategyinsights-tile-component-v2/components/StrategyInsightsTile.tsx"
+}

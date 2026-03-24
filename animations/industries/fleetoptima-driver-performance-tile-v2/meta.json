@@ -1,0 +1,19 @@
+{
+  "id": "fleetoptima-driver-performance-tile-v2",
+  "title": "Fleetoptima Driver Performance Tile",
+  "description": "Fleetoptima Driver Performance Tile — GTMStack animation for industries use cases.",
+  "tags": [
+    "industries",
+    "fleetoptima",
+    "driver",
+    "performance",
+    "tile"
+  ],
+  "category": "other",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/industries/fleetoptima-driver-performance-tile-v2/preview.png",
+  "componentPath": "animations/industries/fleetoptima-driver-performance-tile-v2/components/FleetTile.tsx"
+}

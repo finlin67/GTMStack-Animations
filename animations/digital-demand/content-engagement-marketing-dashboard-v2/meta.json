@@ -1,0 +1,19 @@
+{
+  "id": "content-engagement-marketing-dashboard-v2",
+  "title": "Content Engagement Marketing Dashboard",
+  "description": "Content Engagement Marketing Dashboard — GTMStack animation for digital demand use cases.",
+  "tags": [
+    "digital-demand",
+    "content",
+    "engagement",
+    "marketing",
+    "dashboard"
+  ],
+  "category": "hero",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/digital-demand/content-engagement-marketing-dashboard-v2/preview.png",
+  "componentPath": "animations/digital-demand/content-engagement-marketing-dashboard-v2/Content-Engagement-Marketing.tsx"
+}

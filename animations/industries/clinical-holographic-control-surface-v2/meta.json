@@ -1,0 +1,19 @@
+{
+  "id": "clinical-holographic-control-surface-v2",
+  "title": "Clinical Holographic Control Surface",
+  "description": "Clinical Holographic Control Surface — GTMStack animation for industries use cases.",
+  "tags": [
+    "industries",
+    "clinical",
+    "holographic",
+    "control",
+    "surface"
+  ],
+  "category": "other",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/industries/clinical-holographic-control-surface-v2/preview.png",
+  "componentPath": "animations/industries/clinical-holographic-control-surface-v2/ClinicalHolographicControlSurface.tsx"
+}

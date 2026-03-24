@@ -1,0 +1,19 @@
+{
+  "id": "gtm-strategy-audience-tile-v2",
+  "title": "Gtm Strategy Audience Tile",
+  "description": "Gtm Strategy Audience Tile — GTMStack animation for dashboard tiles use cases.",
+  "tags": [
+    "dashboard-tiles",
+    "gtm",
+    "strategy",
+    "audience",
+    "tile"
+  ],
+  "category": "card",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/dashboard-tiles/gtm-strategy-audience-tile-v2/preview.png",
+  "componentPath": "animations/dashboard-tiles/gtm-strategy-audience-tile-v2/components/GTMAudienceTile.tsx"
+}

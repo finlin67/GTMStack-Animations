@@ -1,0 +1,20 @@
+{
+  "id": "gtm-stack-data-sync-mesh-v2",
+  "title": "Gtm Stack Data Sync Mesh",
+  "description": "Gtm Stack Data Sync Mesh — GTMStack animation for dashboard tiles use cases.",
+  "tags": [
+    "dashboard-tiles",
+    "gtm",
+    "stack",
+    "data",
+    "sync",
+    "mesh"
+  ],
+  "category": "card",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/dashboard-tiles/gtm-stack-data-sync-mesh-v2/preview.png",
+  "componentPath": "animations/dashboard-tiles/gtm-stack-data-sync-mesh-v2/components/RevOpsDashboard.tsx"
+}

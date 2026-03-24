@@ -1,0 +1,20 @@
+{
+  "id": "finservtile-interactive-financial-data-visualization-v2",
+  "title": "Finservtile Interactive Financial Data Visualization",
+  "description": "Finservtile Interactive Financial Data Visualization — GTMStack animation for industries use cases.",
+  "tags": [
+    "industries",
+    "finservtile",
+    "interactive",
+    "financial",
+    "data",
+    "visualization"
+  ],
+  "category": "other",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/industries/finservtile-interactive-financial-data-visualization-v2/preview.png",
+  "componentPath": "animations/industries/finservtile-interactive-financial-data-visualization-v2/FinServTile.tsx"
+}

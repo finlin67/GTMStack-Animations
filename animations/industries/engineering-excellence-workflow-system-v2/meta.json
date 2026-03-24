@@ -1,0 +1,19 @@
+{
+  "id": "engineering-excellence-workflow-system-v2",
+  "title": "Engineering Excellence Workflow System",
+  "description": "Engineering Excellence Workflow System — GTMStack animation for industries use cases.",
+  "tags": [
+    "industries",
+    "engineering",
+    "excellence",
+    "workflow",
+    "system"
+  ],
+  "category": "other",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/industries/engineering-excellence-workflow-system-v2/preview.png",
+  "componentPath": "animations/industries/engineering-excellence-workflow-system-v2/EngineeringWorkflowSystem.tsx"
+}

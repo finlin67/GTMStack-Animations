@@ -1,0 +1,19 @@
+{
+  "id": "expertisehero-gtm-engine-visualization-v2",
+  "title": "Expertisehero Gtm Engine Visualization",
+  "description": "Expertisehero Gtm Engine Visualization — GTMStack animation for dashboard tiles use cases.",
+  "tags": [
+    "dashboard-tiles",
+    "expertisehero",
+    "gtm",
+    "engine",
+    "visualization"
+  ],
+  "category": "hero",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/dashboard-tiles/expertisehero-gtm-engine-visualization-v2/preview.png",
+  "componentPath": "animations/dashboard-tiles/expertisehero-gtm-engine-visualization-v2/components/GtmCoreTile.tsx"
+}

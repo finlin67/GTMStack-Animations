@@ -1,0 +1,19 @@
+{
+  "id": "automotivehero-growth-dashboard-tile-v2",
+  "title": "Automotivehero Growth Dashboard Tile",
+  "description": "Automotivehero Growth Dashboard Tile — GTMStack animation for industries use cases.",
+  "tags": [
+    "industries",
+    "automotivehero",
+    "growth",
+    "dashboard",
+    "tile"
+  ],
+  "category": "hero",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/industries/automotivehero-growth-dashboard-tile-v2/preview.png",
+  "componentPath": "animations/industries/automotivehero-growth-dashboard-tile-v2/components/FleetTile.tsx"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "aerospace-auto-engineering-workflow-v2",
+  "title": "Aerospace Auto Engineering Workflow",
+  "description": "Aerospace Auto Engineering Workflow — GTMStack animation for industries use cases.",
+  "tags": [
+    "industries",
+    "aerospace",
+    "auto",
+    "engineering",
+    "workflow"
+  ],
+  "category": "other",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/industries/aerospace-auto-engineering-workflow-v2/preview.png",
+  "componentPath": "animations/industries/aerospace-auto-engineering-workflow-v2/components/EngineeringWorkflow.tsx"
+}

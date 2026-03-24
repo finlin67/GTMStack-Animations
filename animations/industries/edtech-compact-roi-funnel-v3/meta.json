@@ -1,0 +1,19 @@
+{
+  "id": "edtech-compact-roi-funnel-v3",
+  "title": "Edtech Compact Roi Funnel",
+  "description": "Edtech Compact Roi Funnel — GTMStack animation for industries use cases.",
+  "tags": [
+    "industries",
+    "edtech",
+    "compact",
+    "roi",
+    "funnel"
+  ],
+  "category": "other",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/industries/edtech-compact-roi-funnel-v3/preview.png",
+  "componentPath": "animations/industries/edtech-compact-roi-funnel-v3/EdTechCompactROIFunnel.tsx"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "abm-pipeline-strategy-dashboard",
+  "title": "Abm Pipeline Strategy Dashboard",
+  "description": "Abm Pipeline Strategy Dashboard — GTMStack animation for abm use cases.",
+  "tags": [
+    "abm",
+    "pipeline",
+    "strategy",
+    "dashboard"
+  ],
+  "category": "card",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/abm/abm-pipeline-strategy-dashboard/preview.png",
+  "componentPath": "animations/abm/abm-pipeline-strategy-dashboard/ABM-Pipeline-Strategy.tsx"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "insightagency-strategy-dashboard-v2",
+  "title": "Insightagency Strategy Dashboard",
+  "description": "Insightagency Strategy Dashboard — GTMStack animation for dashboard tiles use cases.",
+  "tags": [
+    "dashboard-tiles",
+    "insightagency",
+    "strategy",
+    "dashboard"
+  ],
+  "category": "card",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/dashboard-tiles/insightagency-strategy-dashboard-v2/preview.png",
+  "componentPath": "animations/dashboard-tiles/insightagency-strategy-dashboard-v2/AgencyAnalysis.tsx"
+}

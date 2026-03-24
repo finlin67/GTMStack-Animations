@@ -1,0 +1,18 @@
+{
+  "id": "sequenceflow-animated-tile-v2",
+  "title": "Sequenceflow Animated Tile",
+  "description": "Sequenceflow Animated Tile — GTMStack animation for digital demand use cases.",
+  "tags": [
+    "digital-demand",
+    "sequenceflow",
+    "animated",
+    "tile"
+  ],
+  "category": "hero",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/digital-demand/sequenceflow-animated-tile-v2/preview.png",
+  "componentPath": "animations/digital-demand/sequenceflow-animated-tile-v2/EmailSeqTile.tsx"
+}

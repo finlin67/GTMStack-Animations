@@ -1,0 +1,2530 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is 309B-AB23
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations
+
+03/20/2026  07:43 PM    <DIR>          .
+03/20/2026  04:14 PM    <DIR>          ..
+03/18/2026  10:18 AM    <DIR>          abm
+03/20/2026  07:43 PM                 0 animationlist.txt
+03/18/2026  10:18 AM    <DIR>          dashboard-tiles
+03/18/2026  10:18 AM    <DIR>          digital-demand
+03/18/2026  10:18 AM    <DIR>          events-media
+03/18/2026  10:18 AM    <DIR>          industries
+03/18/2026  09:41 AM    <DIR>          misc
+03/18/2026  10:18 AM    <DIR>          operations
+03/18/2026  10:39 AM               254 README.md
+               2 File(s)            254 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\abm
+
+03/18/2026  10:18 AM    <DIR>          .
+03/20/2026  07:43 PM    <DIR>          ..
+03/18/2026  11:44 AM    <DIR>          abm-campaign-radar-analysis-v2
+03/19/2026  10:33 PM    <DIR>          abm-flow-premium-tile-v2
+03/18/2026  11:44 AM    <DIR>          abm-network-dashboard-v2
+03/18/2026  11:43 AM    <DIR>          abm-pipeline-strategy-dashboard
+03/18/2026  11:43 AM    <DIR>          abm-pipeline-strategy-dashboard-v2
+03/18/2026  11:43 AM    <DIR>          abm-radar-analysis-v2
+03/19/2026  10:33 PM    <DIR>          abm-success-visualizer-v2
+03/18/2026  10:32 AM    <DIR>          elite-abm-analytics-tile-v2
+               0 File(s)              0 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\abm\abm-campaign-radar-analysis-v2
+
+03/18/2026  11:44 AM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:21 PM               277 .gitignore
+02/28/2026  01:03 AM            19,387 abm-radar-analysis-v2.html
+02/26/2026  02:21 PM            19,252 ABM-Radar-Analysis.tsx
+03/19/2026  10:33 PM             3,565 preview.png
+02/26/2026  02:21 PM             1,923 README.md
+               5 File(s)         44,404 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\abm\abm-flow-premium-tile-v2
+
+03/19/2026  10:33 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:18 PM               277 .gitignore
+02/26/2026  02:18 PM            19,166 ABMFlowTile.tsx
+02/27/2026  11:23 PM    <DIR>          components
+03/19/2026  10:27 PM             2,057 preview.html
+03/19/2026  10:33 PM           166,296 preview.png
+02/26/2026  02:18 PM             2,700 README.md
+               5 File(s)        190,496 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\abm\abm-flow-premium-tile-v2\components
+
+02/27/2026  11:23 PM    <DIR>          .
+03/19/2026  10:33 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\abm\abm-network-dashboard-v2
+
+03/18/2026  11:44 AM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:21 PM               277 .gitignore
+02/27/2026  11:40 PM            13,041 abm-network-dashboard.html
+02/26/2026  02:21 PM            17,227 abm-network-dashboard.tsx
+03/18/2026  11:44 AM    <DIR>          components
+03/19/2026  10:33 PM             3,565 preview.png
+02/26/2026  02:21 PM             1,784 README.md
+02/26/2026  02:21 PM                 0 types.ts
+               6 File(s)         35,894 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\abm\abm-network-dashboard-v2\components
+
+03/18/2026  11:44 AM    <DIR>          .
+03/18/2026  11:44 AM    <DIR>          ..
+02/27/2026  11:41 PM               945 networktopology-v2.html
+02/26/2026  02:21 PM                 0 NetworkTopology.tsx
+03/19/2026  10:33 PM             3,568 preview.png
+02/26/2026  02:21 PM                 0 StatCard.tsx
+02/26/2026  02:21 PM                 0 TouchpointRow.tsx
+               5 File(s)          4,513 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\abm\abm-pipeline-strategy-dashboard
+
+03/18/2026  11:43 AM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/27/2026  09:16 PM               253 .gitignore
+02/27/2026  09:16 PM            19,421 ABM-Pipeline-Strategy.tsx
+02/27/2026  11:22 PM    <DIR>          components
+02/28/2026  12:40 AM             1,230 dashboard-v2.html
+02/27/2026  09:15 PM               180 Dashboard.tsx
+03/01/2026  12:26 AM    <DIR>          migrated-prompt-history
+03/19/2026  10:33 PM             3,565 preview.png
+02/27/2026  09:19 PM             6,376 README.md
+               6 File(s)         31,025 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\abm\abm-pipeline-strategy-dashboard\components
+
+02/27/2026  11:22 PM    <DIR>          .
+03/18/2026  11:43 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\abm\abm-pipeline-strategy-dashboard\migrated-prompt-history
+
+03/01/2026  12:26 AM    <DIR>          .
+03/18/2026  11:43 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\abm\abm-pipeline-strategy-dashboard-v2
+
+03/18/2026  11:43 AM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:21 PM               277 .gitignore
+02/27/2026  11:42 PM            15,070 abm-pipeline-strategy-v2.html
+02/26/2026  02:21 PM            19,826 ABM-Pipeline-Strategy.tsx
+03/18/2026  11:43 AM    <DIR>          components
+03/19/2026  10:33 PM             3,565 preview.png
+02/26/2026  02:21 PM             3,199 README.md
+               5 File(s)         41,937 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\abm\abm-pipeline-strategy-dashboard-v2\components
+
+03/18/2026  11:43 AM    <DIR>          .
+03/18/2026  11:43 AM    <DIR>          ..
+02/27/2026  11:42 PM             1,027 dashboard-v2.html
+02/26/2026  02:21 PM               183 Dashboard.tsx
+03/19/2026  10:33 PM             7,716 preview.png
+               3 File(s)          8,926 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\abm\abm-radar-analysis-v2
+
+03/18/2026  11:43 AM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:21 PM               277 .gitignore
+02/27/2026  11:43 PM             8,302 abm-radar-analysis-v2.html
+02/26/2026  02:21 PM            22,637 ABM-Radar-Analysis.tsx
+03/19/2026  10:33 PM             3,565 preview.png
+02/26/2026  02:21 PM             1,923 README.md
+               5 File(s)         36,704 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\abm\abm-success-visualizer-v2
+
+03/19/2026  10:33 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:19 PM               277 .gitignore
+03/18/2026  11:43 AM    <DIR>          components
+03/19/2026  10:27 PM             2,060 preview.html
+03/19/2026  10:33 PM           167,515 preview.png
+02/26/2026  02:19 PM             1,148 README.md
+               4 File(s)        171,000 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\abm\abm-success-visualizer-v2\components
+
+03/18/2026  11:43 AM    <DIR>          .
+03/19/2026  10:33 PM    <DIR>          ..
+02/26/2026  02:19 PM             8,444 ABMPipeTrackerTile.tsx
+02/27/2026  11:44 PM            10,062 fleettile-v2.html
+02/26/2026  02:19 PM             9,271 FleetTile.tsx
+03/19/2026  10:33 PM             3,565 preview.png
+               4 File(s)         31,342 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\abm\elite-abm-analytics-tile-v2
+
+03/18/2026  10:32 AM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:19 PM               340 README.md
+               1 File(s)            340 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\dashboard-tiles
+
+03/18/2026  10:18 AM    <DIR>          .
+03/20/2026  07:43 PM    <DIR>          ..
+03/18/2026  11:43 AM    <DIR>          advocacy-loop-dashboard-v2
+03/18/2026  11:43 AM    <DIR>          apex-real-time-dashboard-v2
+03/18/2026  11:43 AM    <DIR>          experience-dashboard-v2
+03/19/2026  10:32 PM    <DIR>          expertisehero-gtm-engine-visualization-v2
+03/18/2026  11:43 AM    <DIR>          gtm-stack-data-sync-mesh-v2
+03/19/2026  10:32 PM    <DIR>          gtm-strategy-audience-tile-v2
+03/19/2026  10:32 PM    <DIR>          gtmstack-hero-tile-v2
+03/19/2026  10:32 PM    <DIR>          gtmstack-industry-template-v2
+03/18/2026  11:43 AM    <DIR>          gtmstack-route-planner-v2
+03/19/2026  10:32 PM    <DIR>          industrial-roi-dashboard-v2
+03/19/2026  10:32 PM    <DIR>          infracore-deepdive-dashboard-v2
+03/18/2026  11:43 AM    <DIR>          insightagency-strategy-dashboard-v2
+03/19/2026  10:32 PM    <DIR>          lifecycle-engine-dashboard-v2
+03/19/2026  10:32 PM    <DIR>          marketing-automation-live-feed-v2
+03/18/2026  11:43 AM    <DIR>          marketing-automation-workflow-v2
+03/19/2026  10:32 PM    <DIR>          marketingai-intelligence-dashboard-v2
+03/19/2026  10:32 PM    <DIR>          marketingai-neural-dashboard-v2
+03/19/2026  10:32 PM    <DIR>          marketingflow-ai-workflow-v2
+03/18/2026  10:32 AM    <DIR>          plg-journey-dashboard-v2
+03/18/2026  11:43 AM    <DIR>          quantum-data-field-analytics-v2
+03/19/2026  10:32 PM    <DIR>          workflow-visualization-v2
+               0 File(s)              0 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\dashboard-tiles\advocacy-loop-dashboard-v2
+
+03/18/2026  11:43 AM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:18 PM               277 .gitignore
+02/26/2026  02:18 PM            24,918 app-v2.html
+02/26/2026  02:18 PM            12,709 caseseqtile-v2.html
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:33 PM           114,554 preview.png
+02/26/2026  02:18 PM             4,690 README.md
+               5 File(s)        157,148 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\dashboard-tiles\advocacy-loop-dashboard-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/18/2026  11:43 AM    <DIR>          ..
+02/26/2026  02:18 PM            10,727 CaseSeqTile.tsx
+               1 File(s)         10,727 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\dashboard-tiles\apex-real-time-dashboard-v2
+
+03/18/2026  11:43 AM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:18 PM               277 .gitignore
+02/26/2026  02:18 PM            23,299 demandgen-marketing-v2.html
+02/26/2026  02:18 PM            17,729 DemandGen-Marketing.tsx
+03/19/2026  10:32 PM            65,684 preview.png
+02/26/2026  02:18 PM             3,216 README.md
+               5 File(s)        110,205 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\dashboard-tiles\experience-dashboard-v2
+
+03/18/2026  11:43 AM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:18 PM               277 .gitignore
+02/26/2026  02:18 PM            18,641 demandgenflow-v2.html
+02/26/2026  02:18 PM            12,777 DemandGenFlow.tsx
+02/26/2026  02:18 PM                 0 Experiment-Engine-Dashboard-Tile.tsx
+03/19/2026  10:32 PM            63,763 preview.png
+02/26/2026  02:18 PM             3,782 README.md
+               6 File(s)         99,240 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\dashboard-tiles\expertisehero-gtm-engine-visualization-v2
+
+03/19/2026  10:32 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:20 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:27 PM             2,107 preview.html
+03/19/2026  10:32 PM           168,226 preview.png
+02/26/2026  02:20 PM             1,101 README.md
+               4 File(s)        171,711 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\dashboard-tiles\expertisehero-gtm-engine-visualization-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:32 PM    <DIR>          ..
+02/26/2026  02:20 PM             8,767 GtmCoreTile.tsx
+               1 File(s)          8,767 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\dashboard-tiles\gtm-stack-data-sync-mesh-v2
+
+03/18/2026  11:43 AM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:18 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:32 PM            65,013 preview.png
+03/18/2026  10:14 AM             5,095 README.md
+02/26/2026  02:18 PM            40,323 revopsdashboard-v2.html
+02/26/2026  02:18 PM               770 styles.css
+               5 File(s)        111,478 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\dashboard-tiles\gtm-stack-data-sync-mesh-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/18/2026  11:43 AM    <DIR>          ..
+02/26/2026  02:18 PM            35,636 RevOpsDashboard.tsx
+               1 File(s)         35,636 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\dashboard-tiles\gtm-strategy-audience-tile-v2
+
+03/19/2026  10:32 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:19 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:27 PM             2,088 preview.html
+03/19/2026  10:32 PM           168,030 preview.png
+02/26/2026  02:19 PM             1,540 README.md
+               4 File(s)        171,935 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\dashboard-tiles\gtm-strategy-audience-tile-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:32 PM    <DIR>          ..
+02/26/2026  02:19 PM            10,771 GTMAudienceTile.tsx
+               1 File(s)         10,771 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\dashboard-tiles\gtmstack-hero-tile-v2
+
+03/19/2026  10:32 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:19 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:27 PM             2,074 preview.html
+03/19/2026  10:32 PM           164,957 preview.png
+02/26/2026  02:19 PM             1,362 README.md
+02/26/2026  02:19 PM               267 types.ts
+               5 File(s)        168,937 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\dashboard-tiles\gtmstack-hero-tile-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:32 PM    <DIR>          ..
+02/26/2026  02:19 PM             1,566 BackgroundGrid.tsx
+02/26/2026  02:19 PM            10,709 GTMStackHero.tsx
+               2 File(s)         12,275 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\dashboard-tiles\gtmstack-industry-template-v2
+
+03/19/2026  10:32 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:18 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+02/26/2026  02:18 PM             9,895 data.ts
+02/26/2026  02:18 PM               584 globals.css
+03/19/2026  10:27 PM             2,003 preview.html
+03/19/2026  10:32 PM           168,395 preview.png
+03/18/2026  10:14 AM             2,294 README.md
+02/26/2026  02:18 PM               756 tailwind.config.js
+02/26/2026  02:18 PM               742 types.ts
+               8 File(s)        184,946 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\dashboard-tiles\gtmstack-industry-template-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:32 PM    <DIR>          ..
+02/26/2026  02:18 PM             3,419 CaseStudies.tsx
+02/26/2026  02:18 PM             4,357 CTA.tsx
+02/26/2026  02:18 PM             1,955 Footer.tsx
+02/26/2026  02:18 PM             7,260 Hero.tsx
+02/26/2026  02:18 PM             2,813 KeyEngagements.tsx
+02/26/2026  02:18 PM             7,376 Navbar.tsx
+02/26/2026  02:18 PM             2,805 Overview.tsx
+02/26/2026  02:18 PM             3,111 Services.tsx
+               8 File(s)         33,096 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\dashboard-tiles\gtmstack-route-planner-v2
+
+03/18/2026  11:43 AM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:18 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+02/26/2026  02:18 PM            16,800 gtmstack-v2.html
+03/19/2026  10:32 PM             3,569 preview.png
+02/26/2026  02:18 PM             2,674 README.md
+               4 File(s)         23,320 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\dashboard-tiles\gtmstack-route-planner-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/18/2026  11:43 AM    <DIR>          ..
+02/26/2026  02:18 PM            16,598 GTMStack.tsx
+               1 File(s)         16,598 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\dashboard-tiles\industrial-roi-dashboard-v2
+
+03/19/2026  10:32 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:21 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:27 PM             2,088 preview.html
+03/19/2026  10:32 PM           166,578 preview.png
+02/26/2026  02:21 PM             2,630 README.md
+               4 File(s)        171,573 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\dashboard-tiles\industrial-roi-dashboard-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:32 PM    <DIR>          ..
+02/26/2026  02:21 PM            11,462 IndustrialDashboard.tsx
+               1 File(s)         11,462 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\dashboard-tiles\infracore-deepdive-dashboard-v2
+
+03/19/2026  10:32 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:19 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:27 PM             2,110 preview.html
+03/19/2026  10:32 PM           167,919 preview.png
+02/26/2026  02:19 PM             1,061 README.md
+               4 File(s)        171,367 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\dashboard-tiles\infracore-deepdive-dashboard-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:32 PM    <DIR>          ..
+02/26/2026  02:19 PM            18,357 DashboardTile.tsx
+02/26/2026  02:19 PM             6,474 MicroservicesHealthTile.tsx
+               2 File(s)         24,831 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\dashboard-tiles\insightagency-strategy-dashboard-v2
+
+03/18/2026  11:43 AM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:18 PM               277 .gitignore
+02/26/2026  02:18 PM                 0 agencyanalysis-v2.html
+02/26/2026  02:18 PM            17,007 AgencyAnalysis.tsx
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:32 PM             3,565 preview.png
+02/26/2026  02:18 PM             3,282 README.md
+               5 File(s)         24,131 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\dashboard-tiles\insightagency-strategy-dashboard-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/18/2026  11:43 AM    <DIR>          ..
+02/26/2026  02:18 PM                 0 AgencyAnalysis.tsx
+02/26/2026  02:18 PM                 0 LandingPage.tsx
+               2 File(s)              0 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\dashboard-tiles\lifecycle-engine-dashboard-v2
+
+03/19/2026  10:32 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:19 PM               277 .gitignore
+02/26/2026  02:19 PM            24,752 Lifecycle Engine Dashboard.tsx
+02/26/2026  02:19 PM            20,847 Lifecycle-360.tsx
+02/26/2026  02:19 PM            23,899 Lifecycle-Engine-Dashboard.tsx
+03/19/2026  10:27 PM             2,104 preview.html
+03/19/2026  10:32 PM           167,418 preview.png
+02/26/2026  02:19 PM             2,245 README.md
+               7 File(s)        241,542 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\dashboard-tiles\marketing-automation-live-feed-v2
+
+03/19/2026  10:32 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:21 PM               277 .gitignore
+02/26/2026  02:21 PM            17,759 Marketing-Automation-Live-Feed.tsx
+03/19/2026  10:27 PM             2,090 preview.html
+03/19/2026  10:32 PM           168,193 preview.png
+02/26/2026  02:21 PM             1,865 README.md
+               5 File(s)        190,184 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\dashboard-tiles\marketing-automation-workflow-v2
+
+03/18/2026  11:43 AM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:18 PM               277 .gitignore
+02/26/2026  02:18 PM            29,992 marketingautomation-v2.html
+03/19/2026  10:32 PM            87,420 preview.png
+02/26/2026  02:18 PM             3,494 README.md
+03/18/2026  09:07 AM    <DIR>          src
+               4 File(s)        121,183 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\dashboard-tiles\marketing-automation-workflow-v2\src
+
+03/18/2026  09:07 AM    <DIR>          .
+03/18/2026  11:43 AM    <DIR>          ..
+03/18/2026  09:07 AM    <DIR>          components
+               0 File(s)              0 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\dashboard-tiles\marketing-automation-workflow-v2\src\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/18/2026  09:07 AM    <DIR>          ..
+02/26/2026  02:18 PM            27,601 MarketingAutomation.tsx
+               1 File(s)         27,601 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\dashboard-tiles\marketingai-intelligence-dashboard-v2
+
+03/19/2026  10:32 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:19 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:27 PM             1,958 preview.html
+03/19/2026  10:32 PM           167,521 preview.png
+02/26/2026  02:19 PM             1,388 README.md
+               4 File(s)        171,144 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\dashboard-tiles\marketingai-intelligence-dashboard-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:32 PM    <DIR>          ..
+02/26/2026  02:19 PM            11,214 MarketingAITile.tsx
+02/26/2026  02:19 PM            11,950 SalesEnablementTile.tsx
+               2 File(s)         23,164 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\dashboard-tiles\marketingai-neural-dashboard-v2
+
+03/19/2026  10:32 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:19 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:27 PM             2,008 preview.html
+03/19/2026  10:32 PM           167,535 preview.png
+02/26/2026  02:19 PM             1,320 README.md
+               4 File(s)        171,140 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\dashboard-tiles\marketingai-neural-dashboard-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:32 PM    <DIR>          ..
+02/26/2026  02:19 PM            11,214 MarketingAITile.tsx
+02/26/2026  02:19 PM            11,950 SalesEnablementTile.tsx
+               2 File(s)         23,164 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\dashboard-tiles\marketingflow-ai-workflow-v2
+
+03/19/2026  10:32 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:21 PM               277 .gitignore
+02/26/2026  02:21 PM            18,038 Content-Marketing.tsx
+03/19/2026  10:27 PM             2,125 preview.html
+03/19/2026  10:32 PM           168,013 preview.png
+02/26/2026  02:21 PM             2,487 README.md
+               5 File(s)        190,940 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\dashboard-tiles\plg-journey-dashboard-v2
+
+03/18/2026  10:32 AM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:20 PM               340 README.md
+               1 File(s)            340 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\dashboard-tiles\quantum-data-field-analytics-v2
+
+03/18/2026  11:43 AM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:18 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+02/26/2026  02:18 PM            26,345 dataopsdash-v2.html
+03/19/2026  10:32 PM            43,997 preview.png
+02/26/2026  02:18 PM             2,533 README.md
+               4 File(s)         73,152 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\dashboard-tiles\quantum-data-field-analytics-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/18/2026  11:43 AM    <DIR>          ..
+02/26/2026  02:18 PM            22,134 DataOpsDash.tsx
+02/26/2026  02:18 PM                 0 QuantumDashboard.tsx
+               2 File(s)         22,134 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\dashboard-tiles\workflow-visualization-v2
+
+03/19/2026  10:32 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:22 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:27 PM             1,906 preview.html
+03/19/2026  10:32 PM           166,627 preview.png
+02/26/2026  02:22 PM               573 README.md
+               4 File(s)        169,383 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\dashboard-tiles\workflow-visualization-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:32 PM    <DIR>          ..
+02/26/2026  02:22 PM             1,428 MetricCard.tsx
+02/26/2026  02:22 PM             5,972 WorkflowIllustration.tsx
+               2 File(s)          7,400 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\digital-demand
+
+03/18/2026  10:18 AM    <DIR>          .
+03/20/2026  07:43 PM    <DIR>          ..
+03/19/2026  10:32 PM    <DIR>          content-engagement-hero-v2
+03/19/2026  10:32 PM    <DIR>          content-engagement-marketing-dashboard-v2
+03/19/2026  10:32 PM    <DIR>          content-marketing-kpi-dashboard-v2
+03/19/2026  10:32 PM    <DIR>          content-marketing-with-ai-v2
+03/19/2026  10:32 PM    <DIR>          demand-gen-hero-v2
+03/18/2026  11:43 AM    <DIR>          demandgen-pipeline-hero-v2
+03/19/2026  10:31 PM    <DIR>          demandgrowthhero-component-v2
+03/19/2026  10:31 PM    <DIR>          driftguard-ai-monitor-v2
+03/19/2026  10:31 PM    <DIR>          driftguard-v2
+03/19/2026  10:31 PM    <DIR>          email-marketing-json-lottie-v2
+03/19/2026  10:31 PM    <DIR>          esg-analytics-hub-v2
+03/18/2026  11:43 AM    <DIR>          growth-ai-animation
+03/18/2026  11:43 AM    <DIR>          growth-ai-harmonic-quad-tone
+03/18/2026  11:43 AM    <DIR>          growthcore-component-extraction-v2
+03/19/2026  10:31 PM    <DIR>          growthflow-seo-engine-v2
+03/19/2026  10:31 PM    <DIR>          growthsem-landing-page-v2
+03/18/2026  11:43 AM    <DIR>          growththeme-ai-landing-v2
+03/18/2026  11:43 AM    <DIR>          gtm-engine-visualization-hero-animation-v2
+03/18/2026  11:43 AM    <DIR>          gtm-product-strategy-audience-tile-v2
+03/18/2026  11:43 AM    <DIR>          gtmstack-pro-hero-tile
+03/19/2026  10:31 PM    <DIR>          infracore-deepdive-dashboard-v2
+03/19/2026  10:31 PM    <DIR>          kpi-spotlight-mosaic-v2
+03/19/2026  10:31 PM    <DIR>          martech-ai-landing-page-component-v2
+03/19/2026  10:31 PM    <DIR>          neonvideo-marketing-landing-page-v2
+03/19/2026  10:31 PM    <DIR>          nexus-ai-stakeholder-portal-v2
+03/19/2026  10:31 PM    <DIR>          omnichannel-live-analytics-tile-v2
+03/18/2026  11:42 AM    <DIR>          product-growth-hero-v2
+03/19/2026  10:31 PM    <DIR>          sales-enablement-hero-animated-tile-v2
+03/18/2026  11:42 AM    <DIR>          sequence-ladder-analytics-tile-v2
+03/18/2026  11:42 AM    <DIR>          sequenceflow-animated-tile-v2
+03/19/2026  10:30 PM    <DIR>          strategist-os-dashboard-v2
+03/19/2026  10:30 PM    <DIR>          strategyinsights-tile-component-v2
+03/19/2026  10:30 PM    <DIR>          vibrant-impact-dashboard-v2
+03/19/2026  10:30 PM    <DIR>          video-marketing-ai-distribution-hub-v2
+03/19/2026  10:30 PM    <DIR>          video-marketing-analytics-dashboard-v2
+               0 File(s)              0 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\digital-demand\content-engagement-hero-v2
+
+03/19/2026  10:32 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:20 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:27 PM             2,068 preview.html
+03/19/2026  10:32 PM           165,995 preview.png
+02/26/2026  02:20 PM             1,944 README.md
+               4 File(s)        170,284 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\digital-demand\content-engagement-hero-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:32 PM    <DIR>          ..
+02/26/2026  02:20 PM            15,203 CampaignTile.tsx
+02/26/2026  02:20 PM            15,646 ContentEngagementTile.tsx
+               2 File(s)         30,849 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\digital-demand\content-engagement-marketing-dashboard-v2
+
+03/19/2026  10:32 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:21 PM               277 .gitignore
+02/26/2026  02:21 PM            21,075 Content-Engagement-Marketing.tsx
+03/19/2026  10:27 PM             2,132 preview.html
+03/19/2026  10:32 PM           170,198 preview.png
+02/26/2026  02:21 PM             1,959 README.md
+               5 File(s)        195,641 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\digital-demand\content-marketing-kpi-dashboard-v2
+
+03/19/2026  10:32 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:20 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:27 PM             2,091 preview.html
+03/19/2026  10:32 PM           168,797 preview.png
+02/26/2026  02:20 PM             1,373 README.md
+               4 File(s)        172,538 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\digital-demand\content-marketing-kpi-dashboard-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:32 PM    <DIR>          ..
+02/26/2026  02:20 PM            11,931 ContentGrowthDashboard.tsx
+02/26/2026  02:20 PM            11,891 SaaSGrowthDashboard.tsx
+               2 File(s)         23,822 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\digital-demand\content-marketing-with-ai-v2
+
+03/19/2026  10:32 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:21 PM               277 .gitignore
+02/26/2026  02:21 PM            18,253 Content-Marketing.tsx
+03/19/2026  10:27 PM             2,020 preview.html
+03/19/2026  10:32 PM           168,466 preview.png
+02/26/2026  02:21 PM             2,329 README.md
+               5 File(s)        191,345 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\digital-demand\demand-gen-hero-v2
+
+03/19/2026  10:32 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:19 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:27 PM             2,044 preview.html
+03/19/2026  10:32 PM           163,815 preview.png
+02/26/2026  02:19 PM             1,270 README.md
+               4 File(s)        167,406 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\digital-demand\demand-gen-hero-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:32 PM    <DIR>          ..
+02/26/2026  02:19 PM            24,709 DemandGenerationHero.tsx
+               1 File(s)         24,709 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\digital-demand\demandgen-pipeline-hero-v2
+
+03/18/2026  11:43 AM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:18 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+02/26/2026  02:18 PM            12,931 dashboardtile-v2.html
+03/19/2026  10:32 PM           716,617 preview.png
+02/26/2026  02:18 PM             1,450 README.md
+               4 File(s)        731,275 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\digital-demand\demandgen-pipeline-hero-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/18/2026  11:43 AM    <DIR>          ..
+02/26/2026  02:18 PM             8,417 CampaignTile.tsx
+02/26/2026  02:18 PM            10,248 DashboardTile.tsx
+02/26/2026  02:18 PM            10,346 DemandGenTile.tsx
+02/26/2026  02:18 PM             8,436 SaaSPipeline.tsx
+               4 File(s)         37,447 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\digital-demand\demandgrowthhero-component-v2
+
+03/19/2026  10:31 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:19 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:27 PM             2,076 preview.html
+03/19/2026  10:31 PM           168,538 preview.png
+02/26/2026  02:19 PM             1,210 README.md
+               4 File(s)        172,101 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\digital-demand\demandgrowthhero-component-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:31 PM    <DIR>          ..
+02/26/2026  02:19 PM            11,318 DemandGrowthTile.tsx
+               1 File(s)         11,318 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\digital-demand\driftguard-ai-monitor-v2
+
+03/19/2026  10:31 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:21 PM               277 .gitignore
+02/26/2026  02:21 PM            10,371 DriftGuard.tsx
+03/19/2026  10:27 PM             2,080 preview.html
+03/19/2026  10:31 PM           165,331 preview.png
+02/26/2026  02:21 PM             1,952 README.md
+               5 File(s)        180,011 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\digital-demand\driftguard-v2
+
+03/19/2026  10:31 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:20 PM               277 .gitignore
+02/26/2026  02:20 PM             7,695 DriftGuard.tsx
+03/19/2026  10:27 PM             1,872 preview.html
+03/19/2026  10:31 PM           164,644 preview.png
+02/26/2026  02:20 PM             1,305 README.md
+               5 File(s)        175,793 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\digital-demand\email-marketing-json-lottie-v2
+
+03/19/2026  10:31 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:22 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:27 PM             1,910 preview.html
+03/19/2026  10:31 PM           166,399 preview.png
+02/26/2026  02:22 PM               573 README.md
+               4 File(s)        169,159 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\digital-demand\email-marketing-json-lottie-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:31 PM    <DIR>          ..
+02/26/2026  02:22 PM             9,464 EmailMarketingHero.tsx
+               1 File(s)          9,464 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\digital-demand\esg-analytics-hub-v2
+
+03/19/2026  10:31 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:20 PM               277 .gitignore
+02/26/2026  02:20 PM            17,270 EsgAnalyticsHub.tsx
+03/19/2026  10:27 PM             2,033 preview.html
+03/19/2026  10:31 PM           168,079 preview.png
+02/26/2026  02:20 PM             1,566 README.md
+02/26/2026  02:20 PM                 0 types.ts
+               6 File(s)        189,225 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\digital-demand\growth-ai-animation
+
+03/18/2026  11:43 AM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:18 PM               277 .gitignore
+02/26/2026  02:18 PM            19,353 aigrowth-v2.html
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:31 PM            94,210 preview.png
+02/26/2026  02:18 PM             3,849 README.md
+               4 File(s)        117,689 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\digital-demand\growth-ai-animation\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/18/2026  11:43 AM    <DIR>          ..
+02/26/2026  02:18 PM            13,096 AIGrowth.tsx
+02/26/2026  02:18 PM             5,275 Footer.tsx
+02/26/2026  02:18 PM             3,526 Hero.tsx
+02/26/2026  02:18 PM             1,744 Navbar.tsx
+               4 File(s)         23,641 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\digital-demand\growth-ai-harmonic-quad-tone
+
+03/18/2026  11:43 AM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:18 PM               277 .gitignore
+02/26/2026  02:18 PM            10,429 aigrowth-v2.html
+02/26/2026  02:18 PM            18,770 app-v2.html
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:31 PM            58,540 preview.png
+02/26/2026  02:18 PM             2,980 README.md
+02/26/2026  02:18 PM               911 styles.css
+               6 File(s)         91,907 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\digital-demand\growth-ai-harmonic-quad-tone\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/18/2026  11:43 AM    <DIR>          ..
+02/26/2026  02:18 PM             7,728 AIGrowth.tsx
+               1 File(s)          7,728 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\digital-demand\growthcore-component-extraction-v2
+
+03/18/2026  11:43 AM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:18 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+02/26/2026  02:18 PM             8,432 FleetTile.tsx
+02/26/2026  02:18 PM                 0 globals.css
+02/26/2026  02:18 PM             9,158 growthmarketingtile-v2.html
+03/19/2026  10:31 PM             3,568 preview.png
+02/26/2026  02:18 PM             3,098 README.md
+02/26/2026  02:18 PM                 0 tailwind.config.js
+               7 File(s)         24,533 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\digital-demand\growthcore-component-extraction-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/18/2026  11:43 AM    <DIR>          ..
+02/26/2026  02:18 PM                 0 CustomerMarketingTile.tsx
+02/26/2026  02:18 PM                 0 DashboardPreview.tsx
+02/26/2026  02:18 PM                 0 FleetTile.tsx
+02/26/2026  02:18 PM                 0 GrowthMarketingTile.tsx
+               4 File(s)              0 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\digital-demand\growthflow-seo-engine-v2
+
+03/19/2026  10:31 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:19 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:27 PM             2,062 preview.html
+03/19/2026  10:31 PM           167,006 preview.png
+02/26/2026  02:19 PM             2,107 README.md
+               4 File(s)        171,452 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\digital-demand\growthflow-seo-engine-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:31 PM    <DIR>          ..
+02/26/2026  02:19 PM               158 SEOAnimation.tsx
+               1 File(s)            158 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\digital-demand\growthsem-landing-page-v2
+
+03/19/2026  10:31 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:20 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:27 PM             2,065 preview.html
+03/19/2026  10:31 PM           167,274 preview.png
+02/26/2026  02:20 PM             1,362 README.md
+               4 File(s)        170,978 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\digital-demand\growthsem-landing-page-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:31 PM    <DIR>          ..
+02/26/2026  02:20 PM             8,898 CampaignTile.tsx
+02/26/2026  02:20 PM             8,899 GrowthSEMTile.tsx
+               2 File(s)         17,797 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\digital-demand\growththeme-ai-landing-v2
+
+03/18/2026  11:43 AM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:18 PM               277 .gitignore
+02/26/2026  02:18 PM            26,446 app-v2.html
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:31 PM           118,099 preview.png
+02/26/2026  02:18 PM             3,323 README.md
+02/26/2026  02:18 PM             1,199 styles.css
+02/26/2026  02:18 PM               615 tailwind.config.js
+               6 File(s)        149,959 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\digital-demand\growththeme-ai-landing-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/18/2026  11:43 AM    <DIR>          ..
+02/26/2026  02:18 PM            11,974 ProductPhaseTile.tsx
+               1 File(s)         11,974 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\digital-demand\gtm-engine-visualization-hero-animation-v2
+
+03/18/2026  11:43 AM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:18 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+02/26/2026  02:18 PM               738 globals.css
+02/26/2026  02:18 PM            17,476 gtmcoretile-v2.html
+03/19/2026  10:31 PM           136,479 preview.png
+02/26/2026  02:18 PM             1,771 README.md
+               5 File(s)        156,741 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\digital-demand\gtm-engine-visualization-hero-animation-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/18/2026  11:43 AM    <DIR>          ..
+02/26/2026  02:18 PM            14,720 GtmCoreTile.tsx
+               1 File(s)         14,720 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\digital-demand\gtm-product-strategy-audience-tile-v2
+
+03/18/2026  11:43 AM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:18 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:31 PM           251,952 preview.png
+02/26/2026  02:18 PM            11,392 productgtmtile-v2.html
+02/26/2026  02:18 PM             1,510 README.md
+               4 File(s)        265,131 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\digital-demand\gtm-product-strategy-audience-tile-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/18/2026  11:43 AM    <DIR>          ..
+02/26/2026  02:18 PM            10,420 GTMAudienceTile.tsx
+02/26/2026  02:18 PM            10,482 ProductGTMTile.tsx
+               2 File(s)         20,902 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\digital-demand\gtmstack-pro-hero-tile
+
+03/18/2026  11:43 AM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:18 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/18/2026  10:14 AM            14,930 gtmstackhero-v2.html
+03/19/2026  10:31 PM            62,841 preview.png
+03/18/2026  10:14 AM             4,237 README.md
+02/26/2026  02:18 PM               404 styles.css
+02/26/2026  02:18 PM               267 types.ts
+               6 File(s)         82,956 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\digital-demand\gtmstack-pro-hero-tile\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/18/2026  11:43 AM    <DIR>          ..
+02/26/2026  02:18 PM             1,587 BackgroundGrid.tsx
+02/26/2026  02:18 PM            11,835 GTMStackHero.tsx
+               2 File(s)         13,422 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\digital-demand\infracore-deepdive-dashboard-v2
+
+03/19/2026  10:31 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:19 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:27 PM             2,093 preview.html
+03/19/2026  10:31 PM           167,446 preview.png
+02/26/2026  02:19 PM             1,061 README.md
+               4 File(s)        170,877 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\digital-demand\infracore-deepdive-dashboard-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:31 PM    <DIR>          ..
+02/26/2026  02:19 PM            18,357 DashboardTile.tsx
+02/26/2026  02:19 PM             6,474 MicroservicesHealthTile.tsx
+               2 File(s)         24,831 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\digital-demand\kpi-spotlight-mosaic-v2
+
+03/19/2026  10:31 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:20 PM               277 .gitignore
+02/26/2026  02:20 PM            21,052 KpiSpotlightMosaic.tsx
+03/19/2026  10:27 PM             1,925 preview.html
+03/19/2026  10:31 PM           165,780 preview.png
+02/26/2026  02:20 PM             1,826 README.md
+               5 File(s)        190,860 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\digital-demand\martech-ai-landing-page-component-v2
+
+03/19/2026  10:31 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:19 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:27 PM             1,869 preview.html
+03/19/2026  10:31 PM           164,608 preview.png
+02/26/2026  02:19 PM             1,312 README.md
+               4 File(s)        168,066 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\digital-demand\martech-ai-landing-page-component-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:31 PM    <DIR>          ..
+02/26/2026  02:19 PM            15,359 MarTechTile.tsx
+               1 File(s)         15,359 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\digital-demand\neonvideo-marketing-landing-page-v2
+
+03/19/2026  10:31 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:20 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:27 PM             2,105 preview.html
+03/19/2026  10:31 PM           168,142 preview.png
+02/26/2026  02:20 PM             1,726 README.md
+               4 File(s)        172,250 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\digital-demand\neonvideo-marketing-landing-page-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:31 PM    <DIR>          ..
+02/26/2026  02:20 PM             5,754 CampaignTile.tsx
+               1 File(s)          5,754 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\digital-demand\nexus-ai-stakeholder-portal-v2
+
+03/19/2026  10:31 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:20 PM               277 .gitignore
+02/26/2026  02:20 PM            16,354 NexusStakeholderPortal.tsx
+03/19/2026  10:27 PM             1,851 preview.html
+03/19/2026  10:31 PM           163,528 preview.png
+02/26/2026  02:20 PM             1,392 README.md
+02/26/2026  02:20 PM                 0 types.ts
+               6 File(s)        183,402 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\digital-demand\omnichannel-live-analytics-tile-v2
+
+03/19/2026  10:31 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:21 PM               277 .gitignore
+02/26/2026  02:21 PM            13,446 OmnichannelLiveAnalytics.tsx
+03/19/2026  10:27 PM             2,092 preview.html
+03/19/2026  10:31 PM           167,646 preview.png
+02/26/2026  02:21 PM             1,708 README.md
+               5 File(s)        185,169 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\digital-demand\product-growth-hero-v2
+
+03/18/2026  11:42 AM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:18 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:31 PM           108,529 preview.png
+02/26/2026  02:18 PM            19,804 productphasetile-v2.html
+02/26/2026  02:18 PM             5,125 README.md
+               4 File(s)        133,735 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\digital-demand\product-growth-hero-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/18/2026  11:42 AM    <DIR>          ..
+02/26/2026  02:18 PM            13,288 ProductPhaseTile.tsx
+               1 File(s)         13,288 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\digital-demand\sales-enablement-hero-animated-tile-v2
+
+03/19/2026  10:31 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:19 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:27 PM             1,875 preview.html
+03/19/2026  10:31 PM           163,982 preview.png
+02/26/2026  02:19 PM             1,371 README.md
+               4 File(s)        167,505 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\digital-demand\sales-enablement-hero-animated-tile-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:31 PM    <DIR>          ..
+02/26/2026  02:19 PM            14,070 SalesEnablementTile.tsx
+02/26/2026  02:19 PM            15,958 SalesHeroLandingPage.tsx
+               2 File(s)         30,028 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\digital-demand\sequence-ladder-analytics-tile-v2
+
+03/18/2026  11:42 AM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:18 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+02/26/2026  02:18 PM            11,051 emailladdertile-v2.html
+03/19/2026  10:31 PM             3,568 preview.png
+02/26/2026  02:18 PM             4,798 README.md
+               4 File(s)         19,694 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\digital-demand\sequence-ladder-analytics-tile-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/18/2026  11:42 AM    <DIR>          ..
+02/26/2026  02:18 PM            10,266 EmailLadderTile.tsx
+               1 File(s)         10,266 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\digital-demand\sequenceflow-animated-tile-v2
+
+03/18/2026  11:42 AM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:18 PM               277 .gitignore
+02/26/2026  02:18 PM            18,785 emailseqtile-v2.html
+02/26/2026  02:18 PM             6,772 EmailSeqTile.tsx
+03/19/2026  10:30 PM           223,091 preview.png
+02/26/2026  02:18 PM             3,524 README.md
+               5 File(s)        252,449 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\digital-demand\strategist-os-dashboard-v2
+
+03/19/2026  10:30 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:21 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:27 PM             2,078 preview.html
+03/19/2026  10:30 PM           166,377 preview.png
+02/26/2026  02:21 PM             1,977 README.md
+               4 File(s)        170,709 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\digital-demand\strategist-os-dashboard-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:30 PM    <DIR>          ..
+02/26/2026  02:21 PM            18,631 ContentStrategistDashboard.tsx
+               1 File(s)         18,631 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\digital-demand\strategyinsights-tile-component-v2
+
+03/19/2026  10:30 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:20 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:27 PM             2,092 preview.html
+03/19/2026  10:30 PM           167,645 preview.png
+02/26/2026  02:20 PM             1,202 README.md
+               4 File(s)        171,216 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\digital-demand\strategyinsights-tile-component-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:30 PM    <DIR>          ..
+02/26/2026  02:20 PM             7,398 StrategyInsightsTile.tsx
+               1 File(s)          7,398 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\digital-demand\vibrant-impact-dashboard-v2
+
+03/19/2026  10:30 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:20 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:27 PM             2,071 preview.html
+03/19/2026  10:30 PM           166,429 preview.png
+02/26/2026  02:20 PM               967 README.md
+               4 File(s)        169,744 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\digital-demand\vibrant-impact-dashboard-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:30 PM    <DIR>          ..
+02/26/2026  02:20 PM             9,613 ImpactDashboard.tsx
+               1 File(s)          9,613 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\digital-demand\video-marketing-ai-distribution-hub-v2
+
+03/19/2026  10:30 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:21 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:27 PM             2,000 preview.html
+03/19/2026  10:30 PM           167,129 preview.png
+02/26/2026  02:21 PM             1,294 README.md
+03/18/2026  09:07 AM    <DIR>          services
+02/26/2026  02:21 PM               240 types.ts
+               5 File(s)        170,940 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\digital-demand\video-marketing-ai-distribution-hub-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:30 PM    <DIR>          ..
+02/26/2026  02:21 PM             6,003 AnalyticsPanel.tsx
+02/26/2026  02:21 PM             2,029 Header.tsx
+02/26/2026  02:21 PM             1,083 StatsFooter.tsx
+02/26/2026  02:21 PM            11,005 VideoHub.tsx
+               4 File(s)         20,120 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\digital-demand\video-marketing-ai-distribution-hub-v2\services
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:30 PM    <DIR>          ..
+02/26/2026  02:21 PM             1,286 geminiService.ts
+               1 File(s)          1,286 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\digital-demand\video-marketing-analytics-dashboard-v2
+
+03/19/2026  10:30 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:21 PM               277 .gitignore
+03/19/2026  10:27 PM             2,104 preview.html
+03/19/2026  10:30 PM           170,212 preview.png
+02/26/2026  02:21 PM             2,255 README.md
+02/26/2026  02:21 PM            16,484 Video-Marketing-Analytics-Tile.tsx
+               5 File(s)        191,332 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\events-media
+
+03/18/2026  10:18 AM    <DIR>          .
+03/20/2026  07:43 PM    <DIR>          ..
+03/19/2026  10:30 PM    <DIR>          agency-impact-dashboard-v2
+03/19/2026  10:30 PM    <DIR>          agency-performance-console-v2
+03/19/2026  10:30 PM    <DIR>          eoc-logistics-dashboard-v2
+03/19/2026  10:30 PM    <DIR>          event-pulse-enterprise-dashboard-v2
+03/19/2026  10:30 PM    <DIR>          event-roi-analytics-dashboard-v2
+03/19/2026  10:30 PM    <DIR>          eventpulse-enterprise-dashboard-v2
+03/19/2026  10:30 PM    <DIR>          executive-logistics-dashboard-v2
+03/19/2026  10:30 PM    <DIR>          executive-logistics-dashboard-v3
+03/19/2026  10:30 PM    <DIR>          social-media-marketing-hero-tile-v2
+               0 File(s)              0 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\events-media\agency-impact-dashboard-v2
+
+03/19/2026  10:30 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:21 PM               277 .gitignore
+02/26/2026  02:21 PM            24,759 ImpactDashboard.tsx
+03/19/2026  10:27 PM             2,074 preview.html
+03/19/2026  10:30 PM           167,475 preview.png
+02/26/2026  02:21 PM             1,090 README.md
+               5 File(s)        195,675 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\events-media\agency-performance-console-v2
+
+03/19/2026  10:30 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:21 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:27 PM             2,054 preview.html
+03/19/2026  10:30 PM           166,910 preview.png
+02/26/2026  02:21 PM             2,537 README.md
+               4 File(s)        171,778 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\events-media\agency-performance-console-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:30 PM    <DIR>          ..
+02/26/2026  02:21 PM            14,062 PerformanceConsole.tsx
+               1 File(s)         14,062 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\events-media\eoc-logistics-dashboard-v2
+
+03/19/2026  10:30 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:20 PM               277 .gitignore
+02/26/2026  02:20 PM            14,050 EocLogisticsDashboard.tsx
+03/19/2026  10:27 PM             1,916 preview.html
+03/19/2026  10:30 PM           165,532 preview.png
+03/18/2026  10:14 AM               735 README.md
+               5 File(s)        182,510 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\events-media\event-pulse-enterprise-dashboard-v2
+
+03/19/2026  10:30 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:19 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:27 PM             1,987 preview.html
+03/19/2026  10:30 PM           166,878 preview.png
+02/26/2026  02:19 PM             1,416 README.md
+               4 File(s)        170,558 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\events-media\event-pulse-enterprise-dashboard-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:30 PM    <DIR>          ..
+02/26/2026  02:19 PM            10,722 EventPulse.tsx
+02/26/2026  02:19 PM            10,621 ProductPhaseTile.tsx
+               2 File(s)         21,343 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\events-media\event-roi-analytics-dashboard-v2
+
+03/19/2026  10:30 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:19 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:27 PM             2,084 preview.html
+03/19/2026  10:30 PM           168,831 preview.png
+02/26/2026  02:19 PM             1,216 README.md
+               4 File(s)        172,408 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\events-media\event-roi-analytics-dashboard-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:30 PM    <DIR>          ..
+02/26/2026  02:19 PM            20,935 EventMarketingTile.tsx
+02/26/2026  02:19 PM            19,262 FleetTile.tsx
+               2 File(s)         40,197 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\events-media\eventpulse-enterprise-dashboard-v2
+
+03/19/2026  10:30 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:19 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:27 PM             2,013 preview.html
+03/19/2026  10:30 PM           168,207 preview.png
+02/26/2026  02:19 PM             1,056 README.md
+               4 File(s)        171,553 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\events-media\eventpulse-enterprise-dashboard-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:30 PM    <DIR>          ..
+02/26/2026  02:19 PM             8,284 EventMarketing.tsx
+02/26/2026  02:19 PM             8,286 ProductPhaseTile.tsx
+               2 File(s)         16,570 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\events-media\executive-logistics-dashboard-v2
+
+03/19/2026  10:30 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:21 PM               277 .gitignore
+02/26/2026  02:21 PM            24,815 ExecutiveLogisticsDashboard.tsx
+03/19/2026  10:27 PM             2,075 preview.html
+03/19/2026  10:30 PM           171,177 preview.png
+02/26/2026  02:21 PM             1,867 README.md
+               5 File(s)        200,211 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\events-media\executive-logistics-dashboard-v3
+
+03/19/2026  10:30 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:21 PM               277 .gitignore
+02/26/2026  02:21 PM            24,815 ExecutiveLogisticsDashboard.tsx
+03/19/2026  10:27 PM             2,027 preview.html
+03/19/2026  10:30 PM           168,619 preview.png
+02/26/2026  02:21 PM               738 README.md
+               5 File(s)        196,476 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\events-media\social-media-marketing-hero-tile-v2
+
+03/19/2026  10:30 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:20 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:27 PM             2,103 preview.html
+03/19/2026  10:30 PM           167,485 preview.png
+02/26/2026  02:20 PM             1,470 README.md
+               4 File(s)        171,335 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\events-media\social-media-marketing-hero-tile-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:30 PM    <DIR>          ..
+02/26/2026  02:20 PM            13,396 SocialMediaTile.tsx
+               1 File(s)         13,396 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries
+
+03/18/2026  10:18 AM    <DIR>          .
+03/20/2026  07:43 PM    <DIR>          ..
+03/19/2026  10:30 PM    <DIR>          aerospace-auto-engineering-workflow-v2
+03/19/2026  10:30 PM    <DIR>          automotive-hero-dashboard-component-v2
+03/19/2026  10:30 PM    <DIR>          automotivehero-dashboard-component-v2
+03/19/2026  10:30 PM    <DIR>          automotivehero-growth-dashboard-tile-v2
+03/19/2026  10:30 PM    <DIR>          b2b-consulting-portfolio-gtmstack-pro
+03/19/2026  10:30 PM    <DIR>          clinical-holographic-control-surface-v2
+03/19/2026  10:30 PM    <DIR>          clinical-validation-surface-dash-v2
+03/19/2026  10:30 PM    <DIR>          cyberagency-lifecycle-engine-v2
+03/19/2026  10:30 PM    <DIR>          devconsole-content-workflow-v2
+03/19/2026  10:30 PM    <DIR>          devmarketers-bottom-up-adoption-loop-v2
+03/19/2026  10:30 PM    <DIR>          dynamic-wealth-dashboard-tile-v2
+03/19/2026  10:30 PM    <DIR>          edtech-compact-roi-funnel-v2
+03/19/2026  10:29 PM    <DIR>          edtech-compact-roi-funnel-v3
+03/19/2026  10:29 PM    <DIR>          edu-hero-analytics-dashboard-v2
+03/19/2026  10:29 PM    <DIR>          edu-marketers-dashboard-v2
+03/19/2026  10:29 PM    <DIR>          education-journey-k-12-ecosystem-v2
+03/19/2026  10:29 PM    <DIR>          energyflow-minimal-dashboard-v2
+03/19/2026  10:29 PM    <DIR>          engineering-excellence-workflow-system-v2
+03/18/2026  10:32 AM    <DIR>          engineering-excellence-workflow-tile-v2
+03/19/2026  10:29 PM    <DIR>          enterprise-sales-motion-dashboard-v2
+03/19/2026  10:29 PM    <DIR>          financial-technology-growth-tile-v2
+03/18/2026  11:42 AM    <DIR>          finservtile-interactive-financial-data-visualization-v2
+03/18/2026  10:32 AM    <DIR>          fintech-growth-animated-sales-tile-v2
+03/19/2026  10:29 PM    <DIR>          fintech-growth-animated-sales-tile-v3
+03/19/2026  10:29 PM    <DIR>          fintech-growth-studio-animated-sales-tile-v2
+03/18/2026  10:32 AM    <DIR>          fintech-growth-studio-v2
+03/19/2026  10:29 PM    <DIR>          fleet-roi-calculator-v2
+03/19/2026  10:29 PM    <DIR>          fleetoptima-driver-performance-tile-v2
+03/18/2026  11:42 AM    <DIR>          grid-master-cyber-infrastructure-dashboard-v2
+03/18/2026  10:32 AM    <DIR>          hippa-executive-insight-summary-v2
+03/19/2026  10:29 PM    <DIR>          industrial-roi-dashboard-v2
+03/19/2026  10:29 PM    <DIR>          manufacturing-agency-dashboard-v2
+03/19/2026  10:29 PM    <DIR>          manufacturing-hero-dashboard-tile-v2
+03/19/2026  10:29 PM    <DIR>          manufacturinghero-dashboard-tile-v2
+03/19/2026  10:29 PM    <DIR>          nexus-industrial-dashboard-v2
+03/18/2026  11:42 AM    <DIR>          nonprofithero-impact-visualization-v2
+03/18/2026  10:32 AM    <DIR>          nonprofithero-impact-visualization-v3
+03/19/2026  10:29 PM    <DIR>          oil-gas-performance-tile-component-v2
+03/19/2026  10:29 PM    <DIR>          powergrid-digital-modernization-dashboard-v2
+03/19/2026  10:29 PM    <DIR>          retail-pulse-analytics-tile-v2
+03/19/2026  10:29 PM    <DIR>          saas-premium-analytics-component-v2
+03/19/2026  10:29 PM    <DIR>          scalability-telemetry-radar-v2
+03/19/2026  10:29 PM    <DIR>          student-lifecycle-analytics-dashboard-v2
+03/19/2026  10:29 PM    <DIR>          telco-ai-infrastructure-tile-v2
+03/19/2026  10:28 PM    <DIR>          utilities-command-center-tile-v2
+03/19/2026  10:28 PM    <DIR>          waste-management-ai-hero-component-v2
+03/19/2026  10:28 PM    <DIR>          wellv3-landing-page-health-journey-tile-v2
+               0 File(s)              0 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\aerospace-auto-engineering-workflow-v2
+
+03/19/2026  10:30 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:20 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:27 PM             1,877 preview.html
+03/19/2026  10:30 PM           165,492 preview.png
+03/18/2026  10:14 AM             1,992 README.md
+               4 File(s)        169,638 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\aerospace-auto-engineering-workflow-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:30 PM    <DIR>          ..
+02/26/2026  02:20 PM            14,579 EngineeringWorkflow.tsx
+               1 File(s)         14,579 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\automotive-hero-dashboard-component-v2
+
+03/19/2026  10:30 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:19 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:27 PM             2,100 preview.html
+03/19/2026  10:30 PM           168,518 preview.png
+02/26/2026  02:19 PM             1,147 README.md
+               4 File(s)        172,042 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\automotive-hero-dashboard-component-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:30 PM    <DIR>          ..
+02/26/2026  02:19 PM            12,924 AutoTile.tsx
+02/26/2026  02:19 PM             9,914 SalesEnablementTile.tsx
+               2 File(s)         22,838 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\automotivehero-dashboard-component-v2
+
+03/19/2026  10:30 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:19 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:27 PM             2,088 preview.html
+03/19/2026  10:30 PM           168,902 preview.png
+02/26/2026  02:19 PM             1,047 README.md
+               4 File(s)        172,314 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\automotivehero-dashboard-component-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:30 PM    <DIR>          ..
+02/26/2026  02:19 PM             6,792 AutomotiveTile.tsx
+02/26/2026  02:19 PM             6,780 SalesEnablementTile.tsx
+               2 File(s)         13,572 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\automotivehero-growth-dashboard-tile-v2
+
+03/19/2026  10:30 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:19 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:27 PM             2,088 preview.html
+03/19/2026  10:30 PM           168,301 preview.png
+02/26/2026  02:19 PM             1,416 README.md
+               4 File(s)        172,082 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\automotivehero-growth-dashboard-tile-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:30 PM    <DIR>          ..
+02/26/2026  02:19 PM            15,521 FleetTile.tsx
+02/26/2026  02:19 PM            15,531 OmniRetailTile.tsx
+               2 File(s)         31,052 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\b2b-consulting-portfolio-gtmstack-pro
+
+03/19/2026  10:30 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:18 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+02/26/2026  02:18 PM             5,766 constants.tsx
+03/18/2026  09:07 AM    <DIR>          pages
+03/19/2026  10:27 PM             2,063 preview.html
+03/19/2026  10:30 PM           164,901 preview.png
+02/26/2026  02:18 PM             2,490 README.md
+02/26/2026  02:18 PM               902 tailwind.config.js
+02/26/2026  02:18 PM               635 types.ts
+               7 File(s)        177,034 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\b2b-consulting-portfolio-gtmstack-pro\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:30 PM    <DIR>          ..
+02/26/2026  02:18 PM             5,697 Layout.tsx
+02/26/2026  02:18 PM             1,709 StatCard.tsx
+               2 File(s)          7,406 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\b2b-consulting-portfolio-gtmstack-pro\pages
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:30 PM    <DIR>          ..
+02/26/2026  02:18 PM            10,200 About.tsx
+02/26/2026  02:18 PM            12,147 Expertise.tsx
+02/26/2026  02:18 PM             9,086 Home.tsx
+               3 File(s)         31,433 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\clinical-holographic-control-surface-v2
+
+03/19/2026  10:30 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:21 PM               277 .gitignore
+02/26/2026  02:21 PM            17,115 ClinicalHolographicControlSurface.tsx
+03/18/2026  09:07 AM    <DIR>          components
+02/26/2026  02:21 PM            16,102 HolographicControlSurface.tsx
+03/18/2026  09:07 AM    <DIR>          hooks
+03/19/2026  10:27 PM             2,092 preview.html
+03/19/2026  10:30 PM           167,665 preview.png
+02/26/2026  02:21 PM               902 README.md
+               6 File(s)        204,153 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\clinical-holographic-control-surface-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:30 PM    <DIR>          ..
+02/26/2026  02:21 PM             1,692 ComplianceMatrix.tsx
+02/26/2026  02:21 PM             4,318 EvidenceTable.tsx
+02/26/2026  02:21 PM             2,069 Header.tsx
+02/26/2026  02:21 PM             1,991 HeroCard.tsx
+02/26/2026  02:21 PM             1,912 JourneyProgress.tsx
+02/26/2026  02:21 PM             1,772 ScoreCard.tsx
+02/26/2026  02:21 PM             4,024 Sparkline.tsx
+               7 File(s)         17,778 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\clinical-holographic-control-surface-v2\hooks
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:30 PM    <DIR>          ..
+02/26/2026  02:21 PM             1,121 useSimulation.tsx
+02/26/2026  02:21 PM             1,233 useTheme.tsx
+               2 File(s)          2,354 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\clinical-validation-surface-dash-v2
+
+03/19/2026  10:30 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:21 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:27 PM             2,101 preview.html
+03/19/2026  10:30 PM           167,767 preview.png
+02/26/2026  02:21 PM               697 README.md
+               4 File(s)        170,842 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\clinical-validation-surface-dash-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:30 PM    <DIR>          ..
+02/26/2026  02:21 PM            16,071 ClinicalValidationTracker.tsx
+               1 File(s)         16,071 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\cyberagency-lifecycle-engine-v2
+
+03/19/2026  10:30 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:21 PM               277 .gitignore
+02/26/2026  02:21 PM            16,671 ApexShieldLifecycleEngine.tsx
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:27 PM             2,077 preview.html
+03/19/2026  10:30 PM           167,593 preview.png
+02/26/2026  02:21 PM             1,589 README.md
+02/26/2026  02:21 PM                10 types.ts
+               6 File(s)        188,217 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\cyberagency-lifecycle-engine-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:30 PM    <DIR>          ..
+02/26/2026  02:21 PM                10 LifecycleEngine.tsx
+               1 File(s)             10 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\devconsole-content-workflow-v2
+
+03/19/2026  10:30 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:21 PM               277 .gitignore
+02/26/2026  02:21 PM            21,863 Developer-Marketing.tsx
+03/19/2026  10:27 PM             2,090 preview.html
+03/19/2026  10:30 PM           168,130 preview.png
+02/26/2026  02:21 PM             2,778 README.md
+               5 File(s)        195,138 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\devmarketers-bottom-up-adoption-loop-v2
+
+03/19/2026  10:30 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:20 PM               277 .gitignore
+02/26/2026  02:20 PM            13,882 DevMarketers.tsx
+03/19/2026  10:27 PM             1,878 preview.html
+03/19/2026  10:30 PM           165,204 preview.png
+02/26/2026  02:20 PM             1,488 README.md
+               5 File(s)        182,729 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\dynamic-wealth-dashboard-tile-v2
+
+03/19/2026  10:30 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:19 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:27 PM             2,081 preview.html
+03/19/2026  10:30 PM           168,056 preview.png
+02/26/2026  02:19 PM             1,483 README.md
+               4 File(s)        171,897 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\dynamic-wealth-dashboard-tile-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:30 PM    <DIR>          ..
+02/26/2026  02:19 PM            15,288 FinancialTile.tsx
+02/26/2026  02:19 PM            15,404 FleetTile.tsx
+02/26/2026  02:19 PM            15,291 WealthManageTile.tsx
+               3 File(s)         45,983 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\edtech-compact-roi-funnel-v2
+
+03/19/2026  10:30 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:21 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:27 PM             1,918 preview.html
+03/19/2026  10:30 PM           165,128 preview.png
+02/26/2026  02:21 PM             1,080 README.md
+               4 File(s)        168,403 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\edtech-compact-roi-funnel-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:30 PM    <DIR>          ..
+02/26/2026  02:21 PM            13,849 CompactFunnelDashboard.tsx
+02/26/2026  02:21 PM            13,842 EdTech-ROI-Funnel.tsx
+               2 File(s)         27,691 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\edtech-compact-roi-funnel-v3
+
+03/19/2026  10:29 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:20 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+02/26/2026  02:20 PM            12,131 EdTechCompactROIFunnel.tsx
+03/19/2026  10:27 PM             1,864 preview.html
+03/19/2026  10:29 PM           163,916 preview.png
+02/26/2026  02:20 PM                 0 README.md
+               5 File(s)        178,188 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\edtech-compact-roi-funnel-v3\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:29 PM    <DIR>          ..
+02/26/2026  02:20 PM                 0 CompactFunnelDashboard.tsx
+02/26/2026  02:20 PM                 0 EdTech-ROI-Funnel.tsx
+               2 File(s)              0 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\edu-hero-analytics-dashboard-v2
+
+03/19/2026  10:29 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:19 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:27 PM             1,941 preview.html
+03/19/2026  10:29 PM           167,333 preview.png
+02/26/2026  02:19 PM             1,214 README.md
+               4 File(s)        170,765 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\edu-hero-analytics-dashboard-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:29 PM    <DIR>          ..
+02/26/2026  02:19 PM            11,706 FleetTile.tsx
+02/26/2026  02:19 PM            10,066 HigherEDMarketingTile.tsx
+               2 File(s)         21,772 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\edu-marketers-dashboard-v2
+
+03/19/2026  10:29 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:21 PM               277 .gitignore
+02/26/2026  02:21 PM            14,238 EduMarketersDashboard.tsx
+03/19/2026  10:27 PM             2,062 preview.html
+03/19/2026  10:29 PM           166,015 preview.png
+02/26/2026  02:21 PM             1,533 README.md
+02/26/2026  02:21 PM                 0 types.ts
+               6 File(s)        184,125 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\education-journey-k-12-ecosystem-v2
+
+03/19/2026  10:29 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:21 PM               277 .gitignore
+02/26/2026  02:21 PM            21,702 EdJourneyK12Ecosystem.tsx
+03/19/2026  10:27 PM             2,095 preview.html
+03/19/2026  10:29 PM           168,537 preview.png
+02/26/2026  02:21 PM             1,294 README.md
+               5 File(s)        193,905 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\energyflow-minimal-dashboard-v2
+
+03/19/2026  10:29 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:21 PM               277 .gitignore
+02/26/2026  02:21 PM            16,961 EnergyFlowDigital.tsx
+03/19/2026  10:27 PM             1,947 preview.html
+03/19/2026  10:29 PM           164,320 preview.png
+02/26/2026  02:21 PM             1,759 README.md
+               5 File(s)        185,264 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\engineering-excellence-workflow-system-v2
+
+03/19/2026  10:29 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:21 PM               277 .gitignore
+02/26/2026  02:21 PM            23,277 EngineeringWorkflowSystem.tsx
+03/19/2026  10:27 PM             2,011 preview.html
+03/19/2026  10:29 PM           168,722 preview.png
+02/26/2026  02:21 PM             1,901 README.md
+               5 File(s)        196,188 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\engineering-excellence-workflow-tile-v2
+
+03/18/2026  10:32 AM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:21 PM               277 .gitignore
+02/26/2026  02:21 PM             1,403 README.md
+               2 File(s)          1,680 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\enterprise-sales-motion-dashboard-v2
+
+03/19/2026  10:29 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:20 PM               277 .gitignore
+02/26/2026  02:20 PM            22,096 EnterpriseSalesMotionDashboard.tsx
+03/19/2026  10:27 PM             2,082 preview.html
+03/19/2026  10:29 PM           170,821 preview.png
+02/26/2026  02:20 PM             1,794 README.md
+               5 File(s)        197,070 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\financial-technology-growth-tile-v2
+
+03/19/2026  10:29 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:19 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+02/26/2026  02:19 PM             1,290 globals.css
+03/19/2026  10:27 PM             2,006 preview.html
+03/19/2026  10:29 PM           167,781 preview.png
+02/26/2026  02:19 PM             2,916 README.md
+               5 File(s)        174,270 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\financial-technology-growth-tile-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:29 PM    <DIR>          ..
+02/26/2026  02:19 PM            13,878 FinServTile.tsx
+02/26/2026  02:19 PM            11,896 SalesEnablementTile.tsx
+               2 File(s)         25,774 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\finservtile-interactive-financial-data-visualization-v2
+
+03/18/2026  11:42 AM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:18 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+02/26/2026  02:18 PM            24,859 finservtile-v2.html
+02/26/2026  02:18 PM            10,216 FinServTile.tsx
+03/19/2026  10:29 PM             3,568 preview.png
+02/26/2026  02:18 PM             4,598 README.md
+02/26/2026  02:18 PM               395 types.ts
+               6 File(s)         43,913 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\finservtile-interactive-financial-data-visualization-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/18/2026  11:42 AM    <DIR>          ..
+02/26/2026  02:18 PM                 0 AUMChart.tsx
+02/26/2026  02:18 PM                 0 CentralHub.tsx
+02/26/2026  02:18 PM                 0 FloatingCard.tsx
+               3 File(s)              0 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\fintech-growth-animated-sales-tile-v2
+
+03/18/2026  10:32 AM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:18 PM               340 README.md
+               1 File(s)            340 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\fintech-growth-animated-sales-tile-v3
+
+03/19/2026  10:29 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:19 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:27 PM             1,937 preview.html
+03/19/2026  10:29 PM           166,251 preview.png
+02/26/2026  02:19 PM             1,233 README.md
+               4 File(s)        169,698 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\fintech-growth-animated-sales-tile-v3\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:29 PM    <DIR>          ..
+02/26/2026  02:19 PM            11,966 FinServTile.tsx
+02/26/2026  02:19 PM            11,896 SalesEnablementTile.tsx
+               2 File(s)         23,862 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\fintech-growth-studio-animated-sales-tile-v2
+
+03/19/2026  10:29 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:19 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:27 PM             2,015 preview.html
+03/19/2026  10:29 PM           168,073 preview.png
+02/26/2026  02:19 PM             1,171 README.md
+               4 File(s)        171,536 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\fintech-growth-studio-animated-sales-tile-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:29 PM    <DIR>          ..
+02/26/2026  02:19 PM            11,966 FinServTile.tsx
+02/26/2026  02:19 PM            11,896 SalesEnablementTile.tsx
+               2 File(s)         23,862 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\fintech-growth-studio-v2
+
+03/18/2026  10:32 AM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:18 PM               340 README.md
+               1 File(s)            340 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\fleet-roi-calculator-v2
+
+03/19/2026  10:29 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:21 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:27 PM             2,033 preview.html
+03/19/2026  10:29 PM           165,533 preview.png
+02/26/2026  02:21 PM             1,508 README.md
+               4 File(s)        169,351 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\fleet-roi-calculator-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:29 PM    <DIR>          ..
+02/26/2026  02:21 PM            13,782 FleetROICalculator.tsx
+               1 File(s)         13,782 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\fleetoptima-driver-performance-tile-v2
+
+03/19/2026  10:29 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:19 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:27 PM             2,079 preview.html
+03/19/2026  10:29 PM           167,727 preview.png
+02/26/2026  02:19 PM             1,326 README.md
+               4 File(s)        171,409 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\fleetoptima-driver-performance-tile-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:29 PM    <DIR>          ..
+02/26/2026  02:19 PM             9,929 FleetTile.tsx
+               1 File(s)          9,929 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\grid-master-cyber-infrastructure-dashboard-v2
+
+03/18/2026  11:42 AM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:18 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:29 PM           129,214 preview.png
+02/26/2026  02:18 PM             3,272 README.md
+02/26/2026  02:18 PM            17,838 utilitiestile-v2.html
+               4 File(s)        150,601 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\grid-master-cyber-infrastructure-dashboard-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/18/2026  11:42 AM    <DIR>          ..
+02/26/2026  02:18 PM             8,749 HealthCareTile.tsx
+02/26/2026  02:18 PM             8,753 UtilitiesTile.tsx
+               2 File(s)         17,502 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\hippa-executive-insight-summary-v2
+
+03/18/2026  10:32 AM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:21 PM               277 .gitignore
+02/26/2026  02:21 PM             1,923 README.md
+               2 File(s)          2,200 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\industrial-roi-dashboard-v2
+
+03/19/2026  10:29 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:21 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:27 PM             2,067 preview.html
+03/19/2026  10:29 PM           166,136 preview.png
+02/26/2026  02:21 PM             2,630 README.md
+               4 File(s)        171,110 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\industrial-roi-dashboard-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:29 PM    <DIR>          ..
+02/26/2026  02:21 PM            11,462 IndustrialDashboard.tsx
+               1 File(s)         11,462 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\manufacturing-agency-dashboard-v2
+
+03/19/2026  10:29 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:21 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:27 PM             2,065 preview.html
+03/19/2026  10:29 PM           170,468 preview.png
+02/26/2026  02:21 PM             2,322 README.md
+               4 File(s)        175,132 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\manufacturing-agency-dashboard-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:29 PM    <DIR>          ..
+02/26/2026  02:21 PM            12,136 Manufacturing-LifecycleDashboard.tsx
+02/26/2026  02:21 PM            18,973 ManufacturingDashboard.tsx
+02/26/2026  02:21 PM            12,138 MfgLifecycleDashboard.tsx
+               3 File(s)         43,247 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\manufacturing-hero-dashboard-tile-v2
+
+03/19/2026  10:29 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:19 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:27 PM             1,933 preview.html
+03/19/2026  10:29 PM           165,850 preview.png
+02/26/2026  02:19 PM             1,426 README.md
+               4 File(s)        169,486 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\manufacturing-hero-dashboard-tile-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:29 PM    <DIR>          ..
+02/26/2026  02:19 PM            13,514 ManufacturingHeroTile.tsx
+02/26/2026  02:19 PM            13,790 SalesEnablementTile.tsx
+               2 File(s)         27,304 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\manufacturinghero-dashboard-tile-v2
+
+03/19/2026  10:29 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:20 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:27 PM             2,062 preview.html
+03/19/2026  10:29 PM           167,114 preview.png
+02/26/2026  02:20 PM             1,364 README.md
+               4 File(s)        170,817 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\manufacturinghero-dashboard-tile-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:29 PM    <DIR>          ..
+02/26/2026  02:20 PM            13,514 ManufacturingHeroTile.tsx
+02/26/2026  02:20 PM            13,790 SalesEnablementTile.tsx
+               2 File(s)         27,304 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\nexus-industrial-dashboard-v2
+
+03/19/2026  10:29 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:20 PM               277 .gitignore
+02/26/2026  02:20 PM            17,617 ABM-Radar-Analysis.tsx
+03/18/2026  09:07 AM    <DIR>          components
+02/26/2026  02:20 PM            20,100 Industrial-MFG-Tile.tsx
+03/19/2026  10:27 PM             2,082 preview.html
+03/19/2026  10:29 PM           166,624 preview.png
+02/26/2026  02:20 PM             1,904 README.md
+03/18/2026  09:07 AM    <DIR>          services
+02/26/2026  02:20 PM               431 types.ts
+               7 File(s)        209,035 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\nexus-industrial-dashboard-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:29 PM    <DIR>          ..
+02/26/2026  02:20 PM             2,105 Sidebar.tsx
+02/26/2026  02:20 PM             3,839 TelemetryGrid.tsx
+               2 File(s)          5,944 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\nexus-industrial-dashboard-v2\services
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:29 PM    <DIR>          ..
+02/26/2026  02:20 PM             1,025 geminiService.ts
+               1 File(s)          1,025 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\nonprofithero-impact-visualization-v2
+
+03/18/2026  11:42 AM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:19 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+02/28/2026  11:57 PM            12,220 ngosdotile-v2.html
+03/19/2026  10:29 PM             3,568 preview.png
+02/26/2026  02:19 PM             1,555 README.md
+               4 File(s)         17,620 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\nonprofithero-impact-visualization-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/18/2026  11:42 AM    <DIR>          ..
+02/26/2026  02:19 PM             8,242 HealthCareTile.tsx
+02/26/2026  02:19 PM            11,293 NGOSDOTile.tsx
+               2 File(s)         19,535 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\nonprofithero-impact-visualization-v3
+
+03/18/2026  10:32 AM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:19 PM               340 README.md
+               1 File(s)            340 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\oil-gas-performance-tile-component-v2
+
+03/19/2026  10:29 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:19 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:27 PM             2,109 preview.html
+03/19/2026  10:29 PM           169,591 preview.png
+02/26/2026  02:19 PM             1,297 README.md
+               4 File(s)        173,274 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\oil-gas-performance-tile-component-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:29 PM    <DIR>          ..
+02/26/2026  02:19 PM             9,463 HealthCareTile.tsx
+02/26/2026  02:19 PM             9,459 OilGasTile.tsx
+               2 File(s)         18,922 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\powergrid-digital-modernization-dashboard-v2
+
+03/19/2026  10:29 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:20 PM               277 .gitignore
+02/26/2026  02:20 PM            13,564 PowerGridDashboard.tsx
+03/19/2026  10:27 PM             2,007 preview.html
+03/19/2026  10:29 PM           169,437 preview.png
+02/26/2026  02:20 PM             1,138 README.md
+02/26/2026  02:20 PM                 0 types.ts
+               6 File(s)        186,423 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\retail-pulse-analytics-tile-v2
+
+03/19/2026  10:29 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:19 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:27 PM             1,909 preview.html
+03/19/2026  10:29 PM           163,936 preview.png
+02/26/2026  02:19 PM             1,431 README.md
+               4 File(s)        167,553 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\retail-pulse-analytics-tile-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:29 PM    <DIR>          ..
+02/26/2026  02:19 PM            11,587 RetailTile.tsx
+02/26/2026  02:19 PM            11,579 SalesEnablementTile.tsx
+               2 File(s)         23,166 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\saas-premium-analytics-component-v2
+
+03/19/2026  10:29 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:19 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+02/26/2026  02:19 PM               746 globals.css
+03/19/2026  10:27 PM             2,034 preview.html
+03/19/2026  10:29 PM           167,389 preview.png
+02/26/2026  02:19 PM             1,193 README.md
+               5 File(s)        171,639 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\saas-premium-analytics-component-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:29 PM    <DIR>          ..
+02/26/2026  02:19 PM            11,279 PubSecTile.tsx
+               1 File(s)         11,279 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\scalability-telemetry-radar-v2
+
+03/19/2026  10:29 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:21 PM               277 .gitignore
+03/19/2026  10:27 PM             2,039 preview.html
+03/19/2026  10:29 PM           166,138 preview.png
+02/26/2026  02:21 PM             1,198 README.md
+02/26/2026  02:21 PM            12,227 ScalabilityRadar.tsx
+               5 File(s)        181,879 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\student-lifecycle-analytics-dashboard-v2
+
+03/19/2026  10:29 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:19 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:27 PM             2,106 preview.html
+03/19/2026  10:29 PM           170,191 preview.png
+02/26/2026  02:19 PM             1,223 README.md
+               4 File(s)        173,797 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\student-lifecycle-analytics-dashboard-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:29 PM    <DIR>          ..
+02/26/2026  02:19 PM            19,595 EDUMarketingTile.tsx
+02/26/2026  02:19 PM            19,262 FleetTile.tsx
+               2 File(s)         38,857 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\telco-ai-infrastructure-tile-v2
+
+03/19/2026  10:29 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:19 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:27 PM             2,087 preview.html
+03/19/2026  10:29 PM           164,456 preview.png
+02/26/2026  02:19 PM             1,488 README.md
+               4 File(s)        168,308 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\telco-ai-infrastructure-tile-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:29 PM    <DIR>          ..
+02/26/2026  02:19 PM            15,842 TelcoAITile.tsx
+               1 File(s)         15,842 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\utilities-command-center-tile-v2
+
+03/19/2026  10:28 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:19 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:27 PM             2,043 preview.html
+03/19/2026  10:28 PM           167,661 preview.png
+02/26/2026  02:19 PM             1,283 README.md
+               4 File(s)        171,264 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\utilities-command-center-tile-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:28 PM    <DIR>          ..
+02/26/2026  02:19 PM            12,577 EnergyGridTile.tsx
+               1 File(s)         12,577 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\waste-management-ai-hero-component-v2
+
+03/19/2026  10:28 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:19 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:27 PM             2,097 preview.html
+03/19/2026  10:28 PM           169,620 preview.png
+02/26/2026  02:19 PM             1,577 README.md
+               4 File(s)        173,571 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\waste-management-ai-hero-component-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:28 PM    <DIR>          ..
+02/26/2026  02:19 PM            12,714 SystemsProcessTile.tsx
+02/26/2026  02:19 PM            12,338 WasteMan.tsx
+               2 File(s)         25,052 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\wellv3-landing-page-health-journey-tile-v2
+
+03/19/2026  10:28 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:19 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:27 PM             2,037 preview.html
+03/19/2026  10:28 PM           169,991 preview.png
+02/26/2026  02:19 PM             1,552 README.md
+               4 File(s)        173,857 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\industries\wellv3-landing-page-health-journey-tile-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:28 PM    <DIR>          ..
+02/26/2026  02:19 PM            14,603 HealthCareTile.tsx
+               1 File(s)         14,603 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\misc
+
+03/18/2026  09:41 AM    <DIR>          .
+03/20/2026  07:43 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\operations
+
+03/18/2026  10:18 AM    <DIR>          .
+03/20/2026  07:43 PM    <DIR>          ..
+03/18/2026  10:32 AM    <DIR>          analytics-pro-dashboard-v2
+03/19/2026  10:28 PM    <DIR>          enterprise-sales-motion-dashboard-v2
+03/19/2026  10:28 PM    <DIR>          lifecycle-engine-dashboard-v2
+03/19/2026  10:28 PM    <DIR>          live-email-automation-ecosystem-v2
+03/19/2026  10:28 PM    <DIR>          live-email-automation-ecosystem-v3
+03/18/2026  10:32 AM    <DIR>          marketing-analytics-carousel-v2
+03/19/2026  10:28 PM    <DIR>          marketing-analytics-carousel-v3
+03/18/2026  10:32 AM    <DIR>          marketing-analytics-dashboard-v2
+03/19/2026  10:28 PM    <DIR>          marketing-operations-workflow-tile-v2
+03/19/2026  10:28 PM    <DIR>          marketing-revenue-analytics-v2
+03/19/2026  10:28 PM    <DIR>          marketingai-intelligence-dashboard-v2
+03/19/2026  10:28 PM    <DIR>          marketingai-neural-dashboard-v2
+03/18/2026  11:42 AM    <DIR>          martech-ai-dashboard-engine-v2
+03/19/2026  10:28 PM    <DIR>          pipeline-command-center-v2
+03/18/2026  11:42 AM    <DIR>          revenue-systems-data-flow-v2
+03/19/2026  10:28 PM    <DIR>          revops-data-sync-mesh-tile-v2
+03/19/2026  10:28 PM    <DIR>          revops-mesh-dashboard-v2
+03/19/2026  10:28 PM    <DIR>          revops-neural-dashboard-v2
+03/19/2026  10:28 PM    <DIR>          systems-operations-hero-component-v2
+               0 File(s)              0 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\operations\analytics-pro-dashboard-v2
+
+03/18/2026  10:32 AM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:21 PM               340 README.md
+               1 File(s)            340 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\operations\enterprise-sales-motion-dashboard-v2
+
+03/19/2026  10:28 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:20 PM               277 .gitignore
+02/26/2026  02:20 PM            22,096 EnterpriseSalesMotionDashboard.tsx
+03/19/2026  10:27 PM             2,071 preview.html
+03/19/2026  10:28 PM           170,786 preview.png
+02/26/2026  02:20 PM             1,794 README.md
+               5 File(s)        197,024 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\operations\lifecycle-engine-dashboard-v2
+
+03/19/2026  10:28 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:19 PM               277 .gitignore
+02/26/2026  02:19 PM            24,752 Lifecycle Engine Dashboard.tsx
+02/26/2026  02:19 PM            20,847 Lifecycle-360.tsx
+02/26/2026  02:19 PM            23,899 Lifecycle-Engine-Dashboard.tsx
+03/19/2026  10:27 PM             2,083 preview.html
+03/19/2026  10:28 PM           167,195 preview.png
+02/26/2026  02:19 PM             2,245 README.md
+               7 File(s)        241,298 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\operations\live-email-automation-ecosystem-v2
+
+03/19/2026  10:28 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:21 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+02/26/2026  02:21 PM            15,046 Live-Email-Automation.tsx
+03/19/2026  10:27 PM             1,950 preview.html
+03/19/2026  10:28 PM           167,889 preview.png
+02/26/2026  02:21 PM             1,164 README.md
+               5 File(s)        186,326 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\operations\live-email-automation-ecosystem-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:28 PM    <DIR>          ..
+02/26/2026  02:21 PM               184 EmailAutomationComponent.tsx
+               1 File(s)            184 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\operations\live-email-automation-ecosystem-v3
+
+03/19/2026  10:28 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:21 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+02/26/2026  02:21 PM            16,934 Live-Email-Automation.tsx
+03/19/2026  10:27 PM             1,950 preview.html
+03/19/2026  10:28 PM           167,888 preview.png
+02/26/2026  02:21 PM             1,164 README.md
+               5 File(s)        188,213 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\operations\live-email-automation-ecosystem-v3\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:28 PM    <DIR>          ..
+02/26/2026  02:21 PM               184 EmailAutomationComponent.tsx
+               1 File(s)            184 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\operations\marketing-analytics-carousel-v2
+
+03/18/2026  10:32 AM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:18 PM               340 README.md
+               1 File(s)            340 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\operations\marketing-analytics-carousel-v3
+
+03/19/2026  10:28 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:18 PM               277 .gitignore
+02/26/2026  02:18 PM            21,303 Marketing-Analytics-Carousel.tsx
+02/26/2026  02:18 PM            19,906 Marketing-Automation-Carousel.tsx
+03/19/2026  10:27 PM             2,089 preview.html
+03/19/2026  10:28 PM           167,826 preview.png
+02/26/2026  02:18 PM             2,590 README.md
+               6 File(s)        213,991 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\operations\marketing-analytics-dashboard-v2
+
+03/18/2026  10:32 AM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:21 PM               340 README.md
+               1 File(s)            340 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\operations\marketing-operations-workflow-tile-v2
+
+03/19/2026  10:28 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:20 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:27 PM             1,844 preview.html
+03/19/2026  10:28 PM           162,770 preview.png
+03/18/2026  10:14 AM             1,612 README.md
+               4 File(s)        166,503 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\operations\marketing-operations-workflow-tile-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:28 PM    <DIR>          ..
+02/26/2026  02:20 PM             6,847 MarketingOperationsTile.tsx
+               1 File(s)          6,847 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\operations\marketing-revenue-analytics-v2
+
+03/19/2026  10:28 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:22 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:27 PM             1,906 preview.html
+03/19/2026  10:28 PM           166,432 preview.png
+02/26/2026  02:22 PM               573 README.md
+               4 File(s)        169,188 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\operations\marketing-revenue-analytics-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:28 PM    <DIR>          ..
+02/26/2026  02:22 PM            10,489 RevenueAnalytics.tsx
+               1 File(s)         10,489 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\operations\marketingai-intelligence-dashboard-v2
+
+03/19/2026  10:28 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:19 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:27 PM             1,937 preview.html
+03/19/2026  10:28 PM           167,051 preview.png
+02/26/2026  02:19 PM             1,388 README.md
+               4 File(s)        170,653 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\operations\marketingai-intelligence-dashboard-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:28 PM    <DIR>          ..
+02/26/2026  02:19 PM            11,214 MarketingAITile.tsx
+02/26/2026  02:19 PM            11,950 SalesEnablementTile.tsx
+               2 File(s)         23,164 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\operations\marketingai-neural-dashboard-v2
+
+03/19/2026  10:28 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:19 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:27 PM             1,987 preview.html
+03/19/2026  10:28 PM           167,182 preview.png
+02/26/2026  02:19 PM             1,320 README.md
+               4 File(s)        170,766 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\operations\marketingai-neural-dashboard-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:28 PM    <DIR>          ..
+02/26/2026  02:19 PM            11,214 MarketingAITile.tsx
+02/26/2026  02:19 PM            11,950 SalesEnablementTile.tsx
+               2 File(s)         23,164 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\operations\martech-ai-dashboard-engine-v2
+
+03/18/2026  11:42 AM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:18 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+02/26/2026  02:18 PM            21,816 martechtile-v2.html
+03/19/2026  10:28 PM            52,878 preview.png
+02/26/2026  02:18 PM             3,363 README.md
+               4 File(s)         78,334 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\operations\martech-ai-dashboard-engine-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/18/2026  11:42 AM    <DIR>          ..
+02/26/2026  02:18 PM            17,827 MarTechTile.tsx
+               1 File(s)         17,827 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\operations\pipeline-command-center-v2
+
+03/19/2026  10:28 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:21 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:27 PM             2,074 preview.html
+03/19/2026  10:28 PM           165,226 preview.png
+02/26/2026  02:21 PM             1,991 README.md
+               4 File(s)        169,568 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\operations\pipeline-command-center-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:28 PM    <DIR>          ..
+02/26/2026  02:21 PM            14,012 PipelineDashboard.tsx
+               1 File(s)         14,012 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\operations\revenue-systems-data-flow-v2
+
+03/18/2026  11:42 AM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:18 PM               277 .gitignore
+02/26/2026  02:18 PM            13,868 app-v2.html
+03/19/2026  10:28 PM           227,998 preview.png
+02/26/2026  02:18 PM             4,848 README.md
+02/26/2026  02:18 PM               363 RevenueData-Flow.tsx
+02/26/2026  02:18 PM            13,690 revenuesystems-v2.html
+               6 File(s)        261,044 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\operations\revops-data-sync-mesh-tile-v2
+
+03/19/2026  10:28 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:19 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:27 PM             2,031 preview.html
+03/19/2026  10:28 PM           169,979 preview.png
+02/26/2026  02:19 PM             1,174 README.md
+               4 File(s)        173,461 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\operations\revops-data-sync-mesh-tile-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:28 PM    <DIR>          ..
+02/26/2026  02:19 PM            10,027 FleetTile.tsx
+02/26/2026  02:19 PM             9,981 RevOpsMeshTile.tsx
+               2 File(s)         20,008 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\operations\revops-mesh-dashboard-v2
+
+03/19/2026  10:28 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:22 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:27 PM             1,900 preview.html
+03/19/2026  10:28 PM           166,366 preview.png
+02/26/2026  02:22 PM               573 README.md
+               4 File(s)        169,116 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\operations\revops-mesh-dashboard-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:28 PM    <DIR>          ..
+02/26/2026  02:22 PM            18,852 RevOpsDashboard.tsx
+               1 File(s)         18,852 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\operations\revops-neural-dashboard-v2
+
+03/19/2026  10:28 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:21 PM               277 .gitignore
+03/19/2026  10:27 PM             2,074 preview.html
+03/19/2026  10:28 PM           166,722 preview.png
+02/26/2026  02:21 PM             2,182 README.md
+02/26/2026  02:21 PM            17,390 RevOpsDash.tsx
+               5 File(s)        188,645 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\operations\systems-operations-hero-component-v2
+
+03/19/2026  10:28 PM    <DIR>          .
+03/18/2026  10:18 AM    <DIR>          ..
+02/26/2026  02:20 PM               277 .gitignore
+03/18/2026  09:07 AM    <DIR>          components
+03/19/2026  10:27 PM             1,865 preview.html
+03/19/2026  10:28 PM           165,213 preview.png
+02/26/2026  02:20 PM             1,461 README.md
+               4 File(s)        168,816 bytes
+
+ Directory of C:\GitProd\GTMStack_Animations\gtmstack_animations\animations\operations\systems-operations-hero-component-v2\components
+
+03/18/2026  09:07 AM    <DIR>          .
+03/19/2026  10:28 PM    <DIR>          ..
+02/26/2026  02:20 PM             8,170 SystemOperationsTile.tsx
+               1 File(s)          8,170 bytes
+
+     Total Files Listed:
+             796 File(s)     23,046,802 bytes
+             740 Dir(s)  379,932,741,632 bytes free

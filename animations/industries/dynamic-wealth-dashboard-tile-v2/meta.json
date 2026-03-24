@@ -1,0 +1,19 @@
+{
+  "id": "dynamic-wealth-dashboard-tile-v2",
+  "title": "Dynamic Wealth Dashboard Tile",
+  "description": "Dynamic Wealth Dashboard Tile — GTMStack animation for industries use cases.",
+  "tags": [
+    "industries",
+    "dynamic",
+    "wealth",
+    "dashboard",
+    "tile"
+  ],
+  "category": "other",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/industries/dynamic-wealth-dashboard-tile-v2/preview.png",
+  "componentPath": "animations/industries/dynamic-wealth-dashboard-tile-v2/components/FinancialTile.tsx"
+}

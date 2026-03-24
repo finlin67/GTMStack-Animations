@@ -1,0 +1,13 @@
+{
+  "id": "growth-ai-animation",
+  "title": "Growth AI Animation",
+  "description": "Animated AI-themed growth hero component exposed through the canonical content model.",
+  "tags": ["ai", "growth", "hero"],
+  "category": "hero",
+  "published": true,
+  "featured": true,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/growth-ai-animation/thumbnail.png",
+  "componentPath": "animations/growth-ai-animation/component.tsx"
+}

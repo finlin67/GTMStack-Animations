@@ -6,17 +6,31 @@
 
 ## Summary
 
-- Projects found: 32
-- Exported: 32
-- Missing README: 3
+- Projects found: 129
+- Exported: 129
+- Missing README: 0
 - Missing thumbnail (no preview/central): 0
-- ID conflicts resolved: 2
+- ID conflicts resolved: 6
 
 ## ID conflict notes
 
-- Duplicate id for base `components`; using category-prefixed id `abm-components`.
-- Duplicate id for base `components`; using `abm-components-2` (category-prefixed, with numeric suffix).
+- Duplicate id for base `enterprise-sales-motion-dashboard-v2`; using category-prefixed id `industries-enterprise-sales-motion-dashboard-v2`.
+- Duplicate id for base `marketingai-neural-dashboard-v2`; using category-prefixed id `dashboard-tiles-marketingai-neural-dashboard-v2`.
+- Duplicate id for base `marketingai-intelligence-dashboard-v2`; using category-prefixed id `dashboard-tiles-marketingai-intelligence-dashboard-v2`.
+- Duplicate id for base `lifecycle-engine-dashboard-v2`; using category-prefixed id `dashboard-tiles-lifecycle-engine-dashboard-v2`.
+- Duplicate id for base `infracore-deepdive-dashboard-v2`; using category-prefixed id `dashboard-tiles-infracore-deepdive-dashboard-v2`.
+- Duplicate id for base `industrial-roi-dashboard-v2`; using category-prefixed id `dashboard-tiles-industrial-roi-dashboard-v2`.
 
 ## Skipped paths
 
-_(none)_
+- `animations` — Could not determine category
+- `animations/operations/marketing-analytics-dashboard-v2` — No entry file found (.html/.tsx/.ts)
+- `animations/operations/marketing-analytics-carousel-v2` — No entry file found (.html/.tsx/.ts)
+- `animations/operations/analytics-pro-dashboard-v2` — No entry file found (.html/.tsx/.ts)
+- `animations/industries/nonprofithero-impact-visualization-v3` — No entry file found (.html/.tsx/.ts)
+- `animations/industries/hippa-executive-insight-summary-v2` — No entry file found (.html/.tsx/.ts)
+- `animations/industries/fintech-growth-studio-v2` — No entry file found (.html/.tsx/.ts)
+- `animations/industries/fintech-growth-animated-sales-tile-v2` — No entry file found (.html/.tsx/.ts)
+- `animations/industries/engineering-excellence-workflow-tile-v2` — No entry file found (.html/.tsx/.ts)
+- `animations/dashboard-tiles/plg-journey-dashboard-v2` — No entry file found (.html/.tsx/.ts)
+- `animations/abm/elite-abm-analytics-tile-v2` — No entry file found (.html/.tsx/.ts)

@@ -1,0 +1,18 @@
+{
+  "id": "growthflow-seo-engine-v2",
+  "title": "Growthflow Seo Engine",
+  "description": "Growthflow Seo Engine — GTMStack animation for digital demand use cases.",
+  "tags": [
+    "digital-demand",
+    "growthflow",
+    "seo",
+    "engine"
+  ],
+  "category": "hero",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/digital-demand/growthflow-seo-engine-v2/preview.png",
+  "componentPath": "animations/digital-demand/growthflow-seo-engine-v2/components/SEOAnimation.tsx"
+}

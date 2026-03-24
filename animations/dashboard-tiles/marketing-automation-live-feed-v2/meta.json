@@ -1,0 +1,19 @@
+{
+  "id": "marketing-automation-live-feed-v2",
+  "title": "Marketing Automation Live Feed",
+  "description": "Marketing Automation Live Feed — GTMStack animation for dashboard tiles use cases.",
+  "tags": [
+    "dashboard-tiles",
+    "marketing",
+    "automation",
+    "live",
+    "feed"
+  ],
+  "category": "card",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/dashboard-tiles/marketing-automation-live-feed-v2/preview.png",
+  "componentPath": "animations/dashboard-tiles/marketing-automation-live-feed-v2/Marketing-Automation-Live-Feed.tsx"
+}

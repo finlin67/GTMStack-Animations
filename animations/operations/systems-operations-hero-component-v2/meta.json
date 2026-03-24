@@ -1,0 +1,18 @@
+{
+  "id": "systems-operations-hero-component-v2",
+  "title": "Systems Operations Hero Component",
+  "description": "Systems Operations Hero Component — GTMStack animation for operations use cases.",
+  "tags": [
+    "operations",
+    "systems",
+    "hero",
+    "component"
+  ],
+  "category": "hero",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/operations/systems-operations-hero-component-v2/preview.png",
+  "componentPath": "animations/operations/systems-operations-hero-component-v2/components/SystemOperationsTile.tsx"
+}

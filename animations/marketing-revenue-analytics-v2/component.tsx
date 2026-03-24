@@ -1,0 +1,1 @@
+export { default } from "../operations/marketing-revenue-analytics-v2/components/RevenueAnalytics";

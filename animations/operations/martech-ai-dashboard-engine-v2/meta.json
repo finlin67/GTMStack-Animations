@@ -1,0 +1,18 @@
+{
+  "id": "martech-ai-dashboard-engine-v2",
+  "title": "Martech Ai Dashboard Engine",
+  "description": "Martech Ai Dashboard Engine — GTMStack animation for operations use cases.",
+  "tags": [
+    "operations",
+    "martech",
+    "dashboard",
+    "engine"
+  ],
+  "category": "card",
+  "published": true,
+  "featured": false,
+  "createdAt": "2026-03-23T20:00:00.000Z",
+  "updatedAt": "2026-03-23T20:00:00.000Z",
+  "thumbnail": "animations/operations/martech-ai-dashboard-engine-v2/preview.png",
+  "componentPath": "animations/operations/martech-ai-dashboard-engine-v2/components/MarTechTile.tsx"
+}
