@@ -6,3 +6,4 @@ build/
 .env
 .env.*
 *.log
+scripts/list-animations-csv.js
