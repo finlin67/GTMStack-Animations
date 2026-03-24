@@ -1,5 +1,7 @@
 # Systems Operations Hero Component
 
+A responsive hero component featuring the Systems Operations tile with animated KPIs and integration highlights.
+
 ## Description
 
 This project showcases a dynamic and visually appealing hero section component designed for a modern SaaS or technology company's landing page. It features a central "Systems Operations Tile" that animates key performance indicators (KPIs) and system integrations in a sleek, futuristic interface. The component is fully responsive, built to be self-contained, and leverages modern frontend technologies to deliver a high-performance, engaging user experience right out of the box.

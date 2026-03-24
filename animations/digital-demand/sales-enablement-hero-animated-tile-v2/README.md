@@ -1,5 +1,7 @@
 # Sales Enablement Hero Animated Tile
 
+An animated sales enablement hero tile highlighting win-rate lift, cycle time, and pipeline velocity.
+
 ## Description
 
 This project showcases an animated, interactive tile component extracted from a modern SaaS sales enablement platform's landing page. The component is designed to be a high-fidelity, standalone visual element that displays key performance indicators like "Win Rate Boost" and "Sales Cycle" reduction. It's built to be fully responsive and self-contained, using dynamic animations with Framer Motion to create an engaging user experience. The tile is a perfect example of how to isolate complex UI sections from a static design into reusable, production-ready React components.

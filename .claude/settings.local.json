@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(powershell -Command \"\\(Get-WmiObject Win32_Process -Filter ''ProcessId=24988''\\).CommandLine\")"
+    ]
+  }
+}

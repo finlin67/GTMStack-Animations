@@ -1,6 +1,8 @@
 
 # MarTech AI Landing Page Component
 
+A standalone MarTech ecosystem tile with animated service nodes and live KPI cards.
+
 ## Description
 
 This project showcases a standalone, animated React component extracted from a larger MarTech AI landing page prototype. The primary component, `MarTechTile`, is a dynamic visualization of a marketing technology ecosystem. It features a central hub with connecting nodes representing different services like CRM and Automation, along with real-time metric cards that update with a subtle "jitter" effect to simulate live data. The component is built to be fully responsive and self-contained.

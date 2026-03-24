@@ -1,5 +1,7 @@
 # Nexus AI Stakeholder Portal
 
+A futuristic stakeholder portal tile showing AI deployment KPIs, milestones, and collaboration signals.
+
 ## Description
 
 The Nexus AI Stakeholder Portal is a high-fidelity, futuristic dashboard designed for monitoring real-time AI/ML project deployments. It provides a comprehensive, at-a-glance view of key performance indicators such as model accuracy, compute utilization, and latency. The interface features collaborative milestone tracking, allowing teams to stay aligned on project progress from data ingestion to security audits. Leveraging the Google Gemini API, the portal generates concise, actionable insights to keep stakeholders informed. The entire experience is wrapped in a sleek, responsive UI with fluid animations to enhance data visualization.

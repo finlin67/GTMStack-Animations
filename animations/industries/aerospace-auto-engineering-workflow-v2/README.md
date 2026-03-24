@@ -1,5 +1,7 @@
 # AeroAuto Engage | Engineering Workflow
 
+A high-fidelity dashboard simulating aerospace and automotive engineering workflows with live KPI telemetry.
+
 ## Description
 
 AeroAuto Engage is a high-fidelity dashboard designed to simulate and manage complex engineering workflows within the aerospace and automotive animations/animations\industries. It provides a clean, futuristic interface for visualizing a standard 36-month product qualification cycle. The dashboard displays key performance indicators (KPIs) like project duration, compliance scores, and optimization metrics with subtle, real-time animations to simulate an active system. The core feature is the "AI Engineering Analyst," which leverages the Google Gemini API to dynamically generate technical validation roadmaps and conceptual blueprint-style images for any user-specified component, offering instant, intelligent project insights.

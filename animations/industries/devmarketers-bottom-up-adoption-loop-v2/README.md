@@ -1,5 +1,7 @@
 # DevMarketers - Bottom-Up Adoption Loop
 
+A standalone dashboard tile visualizing bottom-up developer adoption metrics with live activity signals.
+
 ## Description
 
 This project showcases a sophisticated, single-file React component designed to simulate a real-time developer marketing dashboard. It visually represents the "Bottom-Up Adoption Loop," a key growth strategy for developer-focused SaaS products. The interface provides a premium, "glassmorphic" feel with dynamic data updates to create an engaging user experience. Originally built as a prototype, it has been refactored into a standalone component for easy integration into modern web applications, such as those built with Next.js or Vite. The component is fully self-contained, responsive, and leverages modern frontend technologies for smooth animations and a polished aesthetic.

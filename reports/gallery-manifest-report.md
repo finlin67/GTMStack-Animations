@@ -6,8 +6,8 @@
 
 ## Summary
 
-- Projects found: 129
-- Exported: 129
+- Projects found: 127
+- Exported: 127
 - Missing README: 0
 - Missing thumbnail (no preview/central): 0
 - ID conflicts resolved: 6
@@ -24,6 +24,8 @@
 ## Skipped paths
 
 - `animations` — Could not determine category
+- `animations/operations/revops-neural-dashboard-v2` — No entry file found (.html/.tsx/.ts)
+- `animations/operations/revops-mesh-dashboard-v2` — No entry file found (.html/.tsx/.ts)
 - `animations/operations/marketing-analytics-dashboard-v2` — No entry file found (.html/.tsx/.ts)
 - `animations/operations/marketing-analytics-carousel-v2` — No entry file found (.html/.tsx/.ts)
 - `animations/operations/analytics-pro-dashboard-v2` — No entry file found (.html/.tsx/.ts)

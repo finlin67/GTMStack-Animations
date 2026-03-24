@@ -1,6 +1,8 @@
 
 # OpsFlow Marketing Tile
 
+A 600x600 animated tile visualizing marketing operations workflows, governance, and throughput KPIs.
+
 ## Description
 
 This project is a standalone React component, `MarketingOperationsTile`, extracted from a larger SaaS landing page concept called "OpsFlow". The component is a 600x600 animated tile designed to visually represent a marketing animations/animations\operations command center. It highlights concepts like data governance, process optimization, and tech stack integration through a dynamic and engaging interface. The tile uses smooth animations and data visualizations to display key performance indicators such as data accuracy and throughput velocity, making it an eye-catching hero element for a marketing technology product.

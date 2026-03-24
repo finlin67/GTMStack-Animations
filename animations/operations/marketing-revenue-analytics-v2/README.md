@@ -1,20 +1,13 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Marketing Revenue Analytics
 
-# Run and deploy your AI Studio app
+A high-fidelity revenue analytics dashboard component highlighting pipeline health, attribution, and performance trends.
 
-This contains everything you need to run your app locally.
+## Description
 
-View your app in AI Studio: https://ai.studio/apps/drive/15_AKsxhbjDxCS_v0OmbW00kGuxeGFOho
+This project delivers a premium, dark-mode analytics dashboard built as a standalone React component. It emphasizes key revenue signals such as pipeline velocity, ROI, and multi-channel performance, with animated KPIs and data streams to convey real-time momentum. The layout is optimized for a 600x600 tile while preserving clarity and hierarchy for executive review.
 
-## Run Locally
+## Tech Stack
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- React
+- Tailwind CSS
+- Framer Motion
