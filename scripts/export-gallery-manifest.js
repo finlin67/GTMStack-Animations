@@ -95,6 +95,40 @@ function listDirSafe(dir) {
   }
 }
 
+function safeReadText(filePath) {
+  try {
+    return fs.readFileSync(filePath, "utf8");
+  } catch {
+    return "";
+  }
+}
+
+function isPlaceholderPreviewHtml(filePath) {
+  const source = safeReadText(filePath);
+  if (!source) return false;
+
+  return (
+    source.includes("Gallery thumbnail placeholder (Option B)") ||
+    source.includes("Run and deploy your AI Studio app") ||
+    source.includes("This contains everything you need to run your app locally.")
+  );
+}
+
+function scoreHtmlCandidate(fileName) {
+  const lower = fileName.toLowerCase();
+  let score = 0;
+
+  if (lower.includes("app-v2")) score += 50;
+  if (lower === "app.html") score += 34;
+  if (lower.includes("index")) score += 24;
+  if (lower.includes("demo")) score += 20;
+  if (lower.includes("main")) score += 16;
+  if (lower.includes("tile")) score += 10;
+  if (lower.includes("preview")) score -= 40;
+
+  return score;
+}
+
 function isCanonicalContentDir(dir) {
   const entries = listDirSafe(dir);
   let hasMeta = false;
@@ -169,8 +203,7 @@ function* walkProjectDirs(rootDir) {
 
 function findEntryFile(projectDir) {
   const entries = listDirSafe(projectDir);
-  let indexHtml = null;
-  let firstHtml = null;
+  const htmlCandidates = [];
   let indexTsx = null;
   let appTsx = null;
   let firstTsx = null;
@@ -181,11 +214,9 @@ function findEntryFile(projectDir) {
     const lower = entry.name.toLowerCase();
     const full = path.join(projectDir, entry.name);
     if (lower.endsWith(".html")) {
-      if (lower === "index.html") {
-        indexHtml = full;
-        continue;
+      if (!isPlaceholderPreviewHtml(full)) {
+        htmlCandidates.push(full);
       }
-      if (!firstHtml) firstHtml = full;
       continue;
     }
     if (lower.endsWith(".tsx")) {
@@ -206,7 +237,12 @@ function findEntryFile(projectDir) {
     }
   }
 
-  const entryAbs = indexHtml || firstHtml || indexTsx || appTsx || firstTsx || firstTs;
+  htmlCandidates.sort((a, b) => {
+    const scoreDiff = scoreHtmlCandidate(path.basename(b)) - scoreHtmlCandidate(path.basename(a));
+    return scoreDiff || a.localeCompare(b);
+  });
+
+  const entryAbs = htmlCandidates[0] || indexTsx || appTsx || firstTsx || firstTs;
   if (!entryAbs) {
     return null;
   }
@@ -222,6 +258,9 @@ function findEntryFile(projectDir) {
 function findFallbackEntryInSubdirs(projectDir) {
   // Last-resort fallback for projects where entry is nested under src/components.
   const stack = [projectDir];
+  const htmlCandidates = [];
+  let tsxEntry = null;
+  let tsEntry = null;
   while (stack.length) {
     const dir = stack.pop();
     const entries = listDirSafe(dir);
@@ -234,13 +273,48 @@ function findFallbackEntryInSubdirs(projectDir) {
       }
       if (!entry.isFile()) continue;
       const lower = entry.name.toLowerCase();
-      if (lower.endsWith(".html")) return { entryAbs: full, entryType: "html" };
-      if (lower === "index.tsx" || lower === "app.tsx") return { entryAbs: full, entryType: "tsx" };
-      if (lower.endsWith(".tsx")) return { entryAbs: full, entryType: "tsx" };
-      if (lower.endsWith(".ts")) return { entryAbs: full, entryType: "ts" };
+      if (lower.endsWith(".html")) {
+        if (!isPlaceholderPreviewHtml(full)) {
+          htmlCandidates.push(full);
+        }
+        continue;
+      }
+      if (!tsxEntry && (lower === "index.tsx" || lower === "app.tsx" || lower.endsWith(".tsx"))) {
+        tsxEntry = full;
+        continue;
+      }
+      if (!tsEntry && lower.endsWith(".ts")) {
+        tsEntry = full;
+      }
     }
   }
+
+  htmlCandidates.sort((a, b) => {
+    const scoreDiff = scoreHtmlCandidate(path.basename(b)) - scoreHtmlCandidate(path.basename(a));
+    return scoreDiff || a.localeCompare(b);
+  });
+
+  if (htmlCandidates.length) return { entryAbs: htmlCandidates[0], entryType: "html" };
+  if (tsxEntry) return { entryAbs: tsxEntry, entryType: "tsx" };
+  if (tsEntry) return { entryAbs: tsEntry, entryType: "ts" };
   return null;
+}
+
+function findMetaFile(projectDir) {
+  const metaPath = path.join(projectDir, "meta.json");
+  if (!fs.existsSync(metaPath)) return null;
+  return metaPath;
+}
+
+function readMeta(projectDir) {
+  const metaPath = findMetaFile(projectDir);
+  if (!metaPath) return null;
+
+  try {
+    return JSON.parse(fs.readFileSync(metaPath, "utf8"));
+  } catch {
+    return null;
+  }
 }
 
 function findReadme(projectDir) {
@@ -495,6 +569,8 @@ async function main() {
     }
     const category = segments[0];
 
+    const meta = readMeta(projectDir);
+
     let entry = findEntryFile(projectDir);
     if (!entry) {
       entry = findFallbackEntryInSubdirs(projectDir);
@@ -503,7 +579,9 @@ async function main() {
       stats.skipped.push({ path: relProject, reason: "No entry file found (.html/.tsx/.ts)" });
       continue;
     }
-    const entryHtmlRel = pathRelativePosix(rootDir, entry.entryAbs);
+    const entryHtmlRel = entry.entryType === "html"
+      ? pathRelativePosix(rootDir, entry.entryAbs)
+      : "";
 
     const readmeAbs = findReadme(projectDir);
     let readmeRel = null;
@@ -524,7 +602,12 @@ async function main() {
     }
 
     const { previewRel, centralRel } = findThumbnailPaths(rootDir, relProject);
-    let thumbnailPath = previewRel || centralRel || null;
+    let thumbnailPath = null;
+    if (meta && typeof meta.thumbnail === "string" && meta.thumbnail.length > 0 && fs.existsSync(path.join(rootDir, meta.thumbnail))) {
+      thumbnailPath = meta.thumbnail.replace(/\\/g, "/");
+    } else {
+      thumbnailPath = previewRel || centralRel || null;
+    }
     if (!thumbnailPath) {
       stats.missingThumbnail += 1;
     }
@@ -539,18 +622,20 @@ async function main() {
       id,
       slug,
       animationId: animationIdMap[id] ?? undefined,
-      title,
+      title: meta && typeof meta.title === "string" && meta.title.trim() ? meta.title.trim() : title,
       category,
       projectPath: relProject,
       entryHtml: entryHtmlRel,
       entryType: entry.entryType,
       readmePath: readmeRel,
-      summary,
-      tags,
+      summary: meta && typeof meta.description === "string" && meta.description.trim() ? meta.description.trim() : summary,
+      tags: Array.isArray(meta && meta.tags) && meta.tags.length ? meta.tags : tags,
       thumbnailPath,
       githubUrl,
       githubReadmeUrl,
-      updatedAt: new Date().toISOString(),
+      updatedAt: meta && typeof meta.updatedAt === "string" && meta.updatedAt.trim()
+        ? meta.updatedAt
+        : new Date().toISOString(),
     };
 
     projects.push(project);
@@ -601,4 +686,3 @@ main().catch((err) => {
   console.error("Fatal error in gallery manifest exporter:", err);
   process.exitCode = 1;
 });
-
