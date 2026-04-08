@@ -1,13 +1,13 @@
 # Gallery Manifest Report
 
-- **Root**: `C:\GitProd\GTMStack_Animations\gtmstack_animations`
+- **Root**: `C:\GitProd\aqos\GTMStack-Animations`
 - **Source**: `animations`
 - **Out path**: `exports/gallery-manifest.json`
 
 ## Summary
 
-- Projects found: 129
-- Exported: 129
+- Projects found: 126
+- Exported: 126
 - Missing README: 0
 - Missing thumbnail (no preview/central): 0
 - ID conflicts resolved: 6
