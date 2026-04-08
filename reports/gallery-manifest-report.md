@@ -1,6 +1,6 @@
 # Gallery Manifest Report
 
-- **Root**: `C:\GitProd\GTMStack_Animations\gtmstack_animations`
+- **Root**: `C:\GitProd\aqos\GTMStack-Animations`
 - **Source**: `animations`
 - **Out path**: `exports/gallery-manifest.json`
 
