@@ -1,0 +1,821 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is C6F9-909D
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\abm\abm-campaign-radar-analysis-v2
+
+04/06/2026  01:02 PM            19,252 ABM-Radar-Analysis.tsx
+               1 File(s)         19,252 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\abm\abm-flow-premium-tile-v2
+
+04/06/2026  01:02 PM            19,166 ABMFlowTile.tsx
+               1 File(s)         19,166 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\abm\abm-network-dashboard-v2
+
+04/06/2026  01:02 PM            17,227 abm-network-dashboard.tsx
+               1 File(s)         17,227 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\abm\abm-network-dashboard-v2\components
+
+04/06/2026  01:02 PM                 0 NetworkTopology.tsx
+04/06/2026  01:02 PM                 0 StatCard.tsx
+04/06/2026  01:02 PM                 0 TouchpointRow.tsx
+               3 File(s)              0 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\abm\abm-pipeline-strategy-dashboard
+
+04/06/2026  01:02 PM            19,826 ABM-Pipeline-Strategy.tsx
+04/06/2026  01:02 PM               183 Dashboard.tsx
+               2 File(s)         20,009 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\abm\abm-pipeline-strategy-dashboard-v2
+
+04/06/2026  01:02 PM            19,826 ABM-Pipeline-Strategy.tsx
+               1 File(s)         19,826 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\abm\abm-pipeline-strategy-dashboard-v2\components
+
+04/06/2026  01:02 PM               183 Dashboard.tsx
+               1 File(s)            183 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\abm\abm-radar-analysis-v2
+
+04/06/2026  01:02 PM            22,637 ABM-Radar-Analysis.tsx
+               1 File(s)         22,637 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\abm\abm-success-visualizer-v2\components
+
+04/06/2026  01:02 PM             8,444 ABMPipeTrackerTile.tsx
+04/06/2026  01:02 PM             9,271 FleetTile.tsx
+               2 File(s)         17,715 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\abm-radar-analysis-v2
+
+04/06/2026  01:02 PM                74 component.tsx
+               1 File(s)             74 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\dashboard-tiles\advocacy-loop-dashboard-v2\components
+
+04/06/2026  01:02 PM            10,727 CaseSeqTile.tsx
+               1 File(s)         10,727 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\dashboard-tiles\apex-real-time-dashboard-v2
+
+04/06/2026  01:02 PM            17,729 DemandGen-Marketing.tsx
+               1 File(s)         17,729 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\dashboard-tiles\experience-dashboard-v2
+
+04/06/2026  01:02 PM            12,777 DemandGenFlow.tsx
+04/06/2026  01:02 PM                 0 Experiment-Engine-Dashboard-Tile.tsx
+               2 File(s)         12,777 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\dashboard-tiles\expertisehero-gtm-engine-visualization-v2\components
+
+04/06/2026  01:02 PM             8,767 GtmCoreTile.tsx
+               1 File(s)          8,767 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\dashboard-tiles\gtm-stack-data-sync-mesh-v2\components
+
+04/06/2026  01:02 PM            35,636 RevOpsDashboard.tsx
+               1 File(s)         35,636 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\dashboard-tiles\gtm-strategy-audience-tile-v2\components
+
+04/06/2026  01:02 PM            10,771 GTMAudienceTile.tsx
+               1 File(s)         10,771 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\dashboard-tiles\gtmstack-hero-tile-v2\components
+
+04/06/2026  01:02 PM             1,566 BackgroundGrid.tsx
+04/06/2026  01:02 PM            10,709 GTMStackHero.tsx
+               2 File(s)         12,275 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\dashboard-tiles\gtmstack-industry-template-v2\components
+
+04/06/2026  01:02 PM             3,419 CaseStudies.tsx
+04/06/2026  01:02 PM             4,357 CTA.tsx
+04/06/2026  01:02 PM             1,955 Footer.tsx
+04/06/2026  01:02 PM             7,260 Hero.tsx
+04/06/2026  01:02 PM             2,813 KeyEngagements.tsx
+04/06/2026  01:02 PM             7,376 Navbar.tsx
+04/06/2026  01:02 PM             2,805 Overview.tsx
+04/06/2026  01:02 PM             3,111 Services.tsx
+               8 File(s)         33,096 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\dashboard-tiles\gtmstack-route-planner-v2\components
+
+04/06/2026  01:02 PM            16,598 GTMStack.tsx
+               1 File(s)         16,598 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\dashboard-tiles\industrial-roi-dashboard-v2\components
+
+04/06/2026  01:02 PM            11,462 IndustrialDashboard.tsx
+               1 File(s)         11,462 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\dashboard-tiles\infracore-deepdive-dashboard-v2\components
+
+04/06/2026  01:02 PM            18,357 DashboardTile.tsx
+04/06/2026  01:02 PM             6,474 MicroservicesHealthTile.tsx
+               2 File(s)         24,831 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\dashboard-tiles\insightagency-strategy-dashboard-v2
+
+04/06/2026  01:02 PM            17,007 AgencyAnalysis.tsx
+               1 File(s)         17,007 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\dashboard-tiles\insightagency-strategy-dashboard-v2\components
+
+04/06/2026  01:02 PM                 0 AgencyAnalysis.tsx
+04/06/2026  01:02 PM                 0 LandingPage.tsx
+               2 File(s)              0 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\dashboard-tiles\lifecycle-engine-dashboard-v2
+
+04/06/2026  01:02 PM            24,752 Lifecycle Engine Dashboard.tsx
+04/06/2026  01:02 PM            20,847 Lifecycle-360.tsx
+04/06/2026  01:02 PM            23,899 Lifecycle-Engine-Dashboard.tsx
+               3 File(s)         69,498 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\dashboard-tiles\marketing-automation-live-feed-v2
+
+04/06/2026  01:02 PM            17,759 Marketing-Automation-Live-Feed.tsx
+               1 File(s)         17,759 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\dashboard-tiles\marketing-automation-workflow-v2\src\components
+
+04/06/2026  01:02 PM            27,601 MarketingAutomation.tsx
+               1 File(s)         27,601 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\dashboard-tiles\marketingai-intelligence-dashboard-v2\components
+
+04/06/2026  01:02 PM            11,214 MarketingAITile.tsx
+04/06/2026  01:02 PM            11,950 SalesEnablementTile.tsx
+               2 File(s)         23,164 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\dashboard-tiles\marketingai-neural-dashboard-v2\components
+
+04/06/2026  01:02 PM            11,214 MarketingAITile.tsx
+04/06/2026  01:02 PM            11,950 SalesEnablementTile.tsx
+               2 File(s)         23,164 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\dashboard-tiles\marketingflow-ai-workflow-v2
+
+04/06/2026  01:02 PM            18,038 Content-Marketing.tsx
+               1 File(s)         18,038 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\dashboard-tiles\quantum-data-field-analytics-v2\components
+
+04/06/2026  01:02 PM            22,134 DataOpsDash.tsx
+04/06/2026  01:02 PM                 0 QuantumDashboard.tsx
+               2 File(s)         22,134 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\dashboard-tiles\workflow-visualization-v2\components
+
+04/06/2026  01:02 PM             1,428 MetricCard.tsx
+04/06/2026  01:02 PM             5,972 WorkflowIllustration.tsx
+               2 File(s)          7,400 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\digital-demand\content-engagement-hero-v2\components
+
+04/06/2026  01:02 PM            15,203 CampaignTile.tsx
+04/06/2026  01:02 PM            15,646 ContentEngagementTile.tsx
+               2 File(s)         30,849 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\digital-demand\content-engagement-marketing-dashboard-v2
+
+04/06/2026  01:02 PM            21,075 Content-Engagement-Marketing.tsx
+               1 File(s)         21,075 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\digital-demand\content-marketing-kpi-dashboard-v2\components
+
+04/06/2026  01:02 PM            11,931 ContentGrowthDashboard.tsx
+04/06/2026  01:02 PM            11,891 SaaSGrowthDashboard.tsx
+               2 File(s)         23,822 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\digital-demand\content-marketing-with-ai-v2
+
+04/06/2026  01:02 PM            18,253 Content-Marketing.tsx
+               1 File(s)         18,253 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\digital-demand\demand-gen-hero-v2\components
+
+04/06/2026  01:02 PM            24,709 DemandGenerationHero.tsx
+               1 File(s)         24,709 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\digital-demand\demandgen-pipeline-hero-v2\components
+
+04/06/2026  01:02 PM             8,417 CampaignTile.tsx
+04/06/2026  01:02 PM            10,248 DashboardTile.tsx
+04/06/2026  01:02 PM            10,346 DemandGenTile.tsx
+04/06/2026  01:02 PM             8,436 SaaSPipeline.tsx
+               4 File(s)         37,447 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\digital-demand\demandgrowthhero-component-v2\components
+
+04/06/2026  01:02 PM            11,318 DemandGrowthTile.tsx
+               1 File(s)         11,318 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\digital-demand\driftguard-ai-monitor-v2
+
+04/06/2026  01:02 PM            10,371 DriftGuard.tsx
+               1 File(s)         10,371 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\digital-demand\driftguard-v2
+
+04/06/2026  01:02 PM             7,695 DriftGuard.tsx
+               1 File(s)          7,695 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\digital-demand\email-marketing-json-lottie-v2\components
+
+04/06/2026  01:02 PM             9,464 EmailMarketingHero.tsx
+               1 File(s)          9,464 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\digital-demand\esg-analytics-hub-v2
+
+04/06/2026  01:02 PM            17,270 EsgAnalyticsHub.tsx
+               1 File(s)         17,270 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\digital-demand\growth-ai-animation\components
+
+04/06/2026  01:02 PM            13,096 AIGrowth.tsx
+04/06/2026  01:02 PM             5,275 Footer.tsx
+04/06/2026  01:02 PM             3,526 Hero.tsx
+04/06/2026  01:02 PM             1,744 Navbar.tsx
+               4 File(s)         23,641 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\digital-demand\growth-ai-harmonic-quad-tone\components
+
+04/06/2026  01:02 PM             7,728 AIGrowth.tsx
+               1 File(s)          7,728 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\digital-demand\growthcore-component-extraction-v2
+
+04/06/2026  01:02 PM             8,432 FleetTile.tsx
+               1 File(s)          8,432 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\digital-demand\growthcore-component-extraction-v2\components
+
+04/06/2026  01:02 PM                 0 CustomerMarketingTile.tsx
+04/06/2026  01:02 PM                 0 DashboardPreview.tsx
+04/06/2026  01:02 PM                 0 FleetTile.tsx
+04/06/2026  01:02 PM                 0 GrowthMarketingTile.tsx
+               4 File(s)              0 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\digital-demand\growthflow-seo-engine-v2\components
+
+04/06/2026  01:02 PM               158 SEOAnimation.tsx
+               1 File(s)            158 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\digital-demand\growthsem-landing-page-v2\components
+
+04/06/2026  01:02 PM             8,898 CampaignTile.tsx
+04/06/2026  01:02 PM             8,899 GrowthSEMTile.tsx
+               2 File(s)         17,797 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\digital-demand\growththeme-ai-landing-v2\components
+
+04/06/2026  01:02 PM            11,974 ProductPhaseTile.tsx
+               1 File(s)         11,974 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\digital-demand\gtm-engine-visualization-hero-animation-v2\components
+
+04/06/2026  01:02 PM            14,720 GtmCoreTile.tsx
+               1 File(s)         14,720 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\digital-demand\gtm-product-strategy-audience-tile-v2\components
+
+04/06/2026  01:02 PM            10,420 GTMAudienceTile.tsx
+04/06/2026  01:02 PM            10,482 ProductGTMTile.tsx
+               2 File(s)         20,902 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\digital-demand\gtmstack-pro-hero-tile\components
+
+04/06/2026  01:02 PM             1,587 BackgroundGrid.tsx
+04/06/2026  01:02 PM            11,835 GTMStackHero.tsx
+               2 File(s)         13,422 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\digital-demand\infracore-deepdive-dashboard-v2\components
+
+04/06/2026  01:02 PM            18,357 DashboardTile.tsx
+04/06/2026  01:02 PM             6,474 MicroservicesHealthTile.tsx
+               2 File(s)         24,831 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\digital-demand\kpi-spotlight-mosaic-v2
+
+04/06/2026  01:02 PM            21,052 KpiSpotlightMosaic.tsx
+               1 File(s)         21,052 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\digital-demand\martech-ai-landing-page-component-v2\components
+
+04/06/2026  01:02 PM            15,359 MarTechTile.tsx
+               1 File(s)         15,359 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\digital-demand\neonvideo-marketing-landing-page-v2\components
+
+04/06/2026  01:02 PM             5,754 CampaignTile.tsx
+               1 File(s)          5,754 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\digital-demand\nexus-ai-stakeholder-portal-v2
+
+04/06/2026  01:02 PM            16,354 NexusStakeholderPortal.tsx
+               1 File(s)         16,354 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\digital-demand\omnichannel-live-analytics-tile-v2
+
+04/06/2026  01:02 PM            13,446 OmnichannelLiveAnalytics.tsx
+               1 File(s)         13,446 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\digital-demand\product-growth-hero-v2\components
+
+04/06/2026  01:02 PM            13,288 ProductPhaseTile.tsx
+               1 File(s)         13,288 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\digital-demand\sales-enablement-hero-animated-tile-v2\components
+
+04/06/2026  01:02 PM            14,070 SalesEnablementTile.tsx
+04/06/2026  01:02 PM            15,958 SalesHeroLandingPage.tsx
+               2 File(s)         30,028 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\digital-demand\sequence-ladder-analytics-tile-v2\components
+
+04/06/2026  01:02 PM            10,266 EmailLadderTile.tsx
+               1 File(s)         10,266 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\digital-demand\sequenceflow-animated-tile-v2
+
+04/06/2026  01:02 PM             6,772 EmailSeqTile.tsx
+               1 File(s)          6,772 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\digital-demand\strategist-os-dashboard-v2\components
+
+04/06/2026  01:02 PM            18,631 ContentStrategistDashboard.tsx
+               1 File(s)         18,631 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\digital-demand\strategyinsights-tile-component-v2\components
+
+04/06/2026  01:02 PM             7,398 StrategyInsightsTile.tsx
+               1 File(s)          7,398 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\digital-demand\vibrant-impact-dashboard-v2\components
+
+04/06/2026  01:02 PM             9,613 ImpactDashboard.tsx
+               1 File(s)          9,613 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\digital-demand\video-marketing-ai-distribution-hub-v2\components
+
+04/06/2026  01:02 PM             6,003 AnalyticsPanel.tsx
+04/06/2026  01:02 PM             2,029 Header.tsx
+04/06/2026  01:02 PM             1,083 StatsFooter.tsx
+04/06/2026  01:02 PM            11,005 VideoHub.tsx
+               4 File(s)         20,120 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\digital-demand\video-marketing-analytics-dashboard-v2
+
+04/06/2026  01:02 PM            16,484 Video-Marketing-Analytics-Tile.tsx
+               1 File(s)         16,484 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\events-media\agency-impact-dashboard-v2
+
+04/06/2026  01:02 PM            24,759 ImpactDashboard.tsx
+               1 File(s)         24,759 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\events-media\agency-performance-console-v2\components
+
+04/06/2026  01:02 PM            14,062 PerformanceConsole.tsx
+               1 File(s)         14,062 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\events-media\eoc-logistics-dashboard-v2
+
+04/06/2026  01:02 PM            14,050 EocLogisticsDashboard.tsx
+               1 File(s)         14,050 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\events-media\event-pulse-enterprise-dashboard-v2\components
+
+04/06/2026  01:02 PM            10,722 EventPulse.tsx
+04/06/2026  01:02 PM            10,621 ProductPhaseTile.tsx
+               2 File(s)         21,343 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\events-media\event-roi-analytics-dashboard-v2\components
+
+04/06/2026  01:02 PM            20,935 EventMarketingTile.tsx
+04/06/2026  01:02 PM            19,262 FleetTile.tsx
+               2 File(s)         40,197 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\events-media\eventpulse-enterprise-dashboard-v2\components
+
+04/06/2026  01:02 PM             8,284 EventMarketing.tsx
+04/06/2026  01:02 PM             8,286 ProductPhaseTile.tsx
+               2 File(s)         16,570 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\events-media\executive-logistics-dashboard-v2
+
+04/06/2026  01:02 PM            24,815 ExecutiveLogisticsDashboard.tsx
+               1 File(s)         24,815 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\events-media\executive-logistics-dashboard-v3
+
+04/06/2026  01:02 PM            24,815 ExecutiveLogisticsDashboard.tsx
+               1 File(s)         24,815 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\events-media\social-media-marketing-hero-tile-v2\components
+
+04/06/2026  01:02 PM            13,396 SocialMediaTile.tsx
+               1 File(s)         13,396 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\growth-ai-animation
+
+04/06/2026  01:02 PM                84 component.tsx
+               1 File(s)             84 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\industries\aerospace-auto-engineering-workflow-v2\components
+
+04/06/2026  01:02 PM            14,579 EngineeringWorkflow.tsx
+               1 File(s)         14,579 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\industries\automotive-hero-dashboard-component-v2\components
+
+04/06/2026  01:02 PM            12,924 AutoTile.tsx
+04/06/2026  01:02 PM             9,914 SalesEnablementTile.tsx
+               2 File(s)         22,838 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\industries\automotivehero-dashboard-component-v2\components
+
+04/06/2026  01:02 PM             6,792 AutomotiveTile.tsx
+04/06/2026  01:02 PM             6,780 SalesEnablementTile.tsx
+               2 File(s)         13,572 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\industries\automotivehero-growth-dashboard-tile-v2\components
+
+04/06/2026  01:02 PM            15,521 FleetTile.tsx
+04/06/2026  01:02 PM            15,531 OmniRetailTile.tsx
+               2 File(s)         31,052 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\industries\b2b-consulting-portfolio-gtmstack-pro
+
+04/06/2026  01:02 PM             5,766 constants.tsx
+               1 File(s)          5,766 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\industries\b2b-consulting-portfolio-gtmstack-pro\components
+
+04/06/2026  01:02 PM             5,697 Layout.tsx
+04/06/2026  01:02 PM             1,709 StatCard.tsx
+               2 File(s)          7,406 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\industries\b2b-consulting-portfolio-gtmstack-pro\pages
+
+04/06/2026  01:02 PM            10,200 About.tsx
+04/06/2026  01:02 PM            12,147 Expertise.tsx
+04/06/2026  01:02 PM             9,086 Home.tsx
+               3 File(s)         31,433 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\industries\clinical-holographic-control-surface-v2
+
+04/06/2026  01:02 PM            17,115 ClinicalHolographicControlSurface.tsx
+04/06/2026  01:02 PM            16,102 HolographicControlSurface.tsx
+               2 File(s)         33,217 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\industries\clinical-holographic-control-surface-v2\components
+
+04/06/2026  01:02 PM             1,692 ComplianceMatrix.tsx
+04/06/2026  01:02 PM             4,318 EvidenceTable.tsx
+04/06/2026  01:02 PM             2,069 Header.tsx
+04/06/2026  01:02 PM             1,991 HeroCard.tsx
+04/06/2026  01:02 PM             1,912 JourneyProgress.tsx
+04/06/2026  01:02 PM             1,772 ScoreCard.tsx
+04/06/2026  01:02 PM             4,024 Sparkline.tsx
+               7 File(s)         17,778 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\industries\clinical-holographic-control-surface-v2\hooks
+
+04/06/2026  01:02 PM             1,121 useSimulation.tsx
+04/06/2026  01:02 PM             1,233 useTheme.tsx
+               2 File(s)          2,354 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\industries\clinical-validation-surface-dash-v2\components
+
+04/06/2026  01:02 PM            16,071 ClinicalValidationTracker.tsx
+               1 File(s)         16,071 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\industries\cyberagency-lifecycle-engine-v2
+
+04/06/2026  01:02 PM            16,671 ApexShieldLifecycleEngine.tsx
+               1 File(s)         16,671 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\industries\cyberagency-lifecycle-engine-v2\components
+
+04/06/2026  01:02 PM                10 LifecycleEngine.tsx
+               1 File(s)             10 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\industries\devconsole-content-workflow-v2
+
+04/06/2026  01:02 PM            21,863 Developer-Marketing.tsx
+               1 File(s)         21,863 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\industries\devmarketers-bottom-up-adoption-loop-v2
+
+04/06/2026  01:02 PM            13,882 DevMarketers.tsx
+               1 File(s)         13,882 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\industries\dynamic-wealth-dashboard-tile-v2\components
+
+04/06/2026  01:02 PM            15,288 FinancialTile.tsx
+04/06/2026  01:02 PM            15,404 FleetTile.tsx
+04/06/2026  01:02 PM            15,291 WealthManageTile.tsx
+               3 File(s)         45,983 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\industries\edtech-compact-roi-funnel-v2\components
+
+04/06/2026  01:02 PM            13,849 CompactFunnelDashboard.tsx
+04/06/2026  01:02 PM            13,842 EdTech-ROI-Funnel.tsx
+               2 File(s)         27,691 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\industries\edtech-compact-roi-funnel-v3
+
+04/06/2026  01:02 PM            12,131 EdTechCompactROIFunnel.tsx
+               1 File(s)         12,131 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\industries\edtech-compact-roi-funnel-v3\components
+
+04/06/2026  01:02 PM                 0 CompactFunnelDashboard.tsx
+04/06/2026  01:02 PM                 0 EdTech-ROI-Funnel.tsx
+               2 File(s)              0 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\industries\edu-hero-analytics-dashboard-v2\components
+
+04/06/2026  01:02 PM            11,706 FleetTile.tsx
+04/06/2026  01:02 PM            10,066 HigherEDMarketingTile.tsx
+               2 File(s)         21,772 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\industries\edu-marketers-dashboard-v2
+
+04/06/2026  01:02 PM            14,238 EduMarketersDashboard.tsx
+               1 File(s)         14,238 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\industries\education-journey-k-12-ecosystem-v2
+
+04/06/2026  01:02 PM            21,702 EdJourneyK12Ecosystem.tsx
+               1 File(s)         21,702 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\industries\energyflow-minimal-dashboard-v2
+
+04/06/2026  01:02 PM            16,961 EnergyFlowDigital.tsx
+               1 File(s)         16,961 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\industries\engineering-excellence-workflow-system-v2
+
+04/06/2026  01:02 PM            23,277 EngineeringWorkflowSystem.tsx
+               1 File(s)         23,277 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\industries\enterprise-sales-motion-dashboard-v2
+
+04/06/2026  01:02 PM            22,096 EnterpriseSalesMotionDashboard.tsx
+               1 File(s)         22,096 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\industries\financial-technology-growth-tile-v2\components
+
+04/06/2026  01:02 PM            13,878 FinServTile.tsx
+04/06/2026  01:02 PM            11,896 SalesEnablementTile.tsx
+               2 File(s)         25,774 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\industries\finservtile-interactive-financial-data-visualization-v2
+
+04/06/2026  01:02 PM            10,216 FinServTile.tsx
+               1 File(s)         10,216 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\industries\finservtile-interactive-financial-data-visualization-v2\components
+
+04/06/2026  01:02 PM                 0 AUMChart.tsx
+04/06/2026  01:02 PM                 0 CentralHub.tsx
+04/06/2026  01:02 PM                 0 FloatingCard.tsx
+               3 File(s)              0 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\industries\fintech-growth-animated-sales-tile-v3\components
+
+04/06/2026  01:02 PM            11,966 FinServTile.tsx
+04/06/2026  01:02 PM            11,896 SalesEnablementTile.tsx
+               2 File(s)         23,862 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\industries\fintech-growth-studio-animated-sales-tile-v2\components
+
+04/06/2026  01:02 PM            11,966 FinServTile.tsx
+04/06/2026  01:02 PM            11,896 SalesEnablementTile.tsx
+               2 File(s)         23,862 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\industries\fleet-roi-calculator-v2\components
+
+04/06/2026  01:02 PM            13,782 FleetROICalculator.tsx
+               1 File(s)         13,782 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\industries\fleetoptima-driver-performance-tile-v2\components
+
+04/06/2026  01:02 PM             9,929 FleetTile.tsx
+               1 File(s)          9,929 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\industries\grid-master-cyber-infrastructure-dashboard-v2\components
+
+04/06/2026  01:02 PM             8,749 HealthCareTile.tsx
+04/06/2026  01:02 PM             8,753 UtilitiesTile.tsx
+               2 File(s)         17,502 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\industries\industrial-roi-dashboard-v2\components
+
+04/06/2026  01:02 PM            11,462 IndustrialDashboard.tsx
+               1 File(s)         11,462 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\industries\manufacturing-agency-dashboard-v2\components
+
+04/06/2026  01:02 PM            12,136 Manufacturing-LifecycleDashboard.tsx
+04/06/2026  01:02 PM            18,973 ManufacturingDashboard.tsx
+04/06/2026  01:02 PM            12,138 MfgLifecycleDashboard.tsx
+               3 File(s)         43,247 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\industries\manufacturing-hero-dashboard-tile-v2\components
+
+04/06/2026  01:02 PM            13,514 ManufacturingHeroTile.tsx
+04/06/2026  01:02 PM            13,790 SalesEnablementTile.tsx
+               2 File(s)         27,304 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\industries\manufacturinghero-dashboard-tile-v2\components
+
+04/06/2026  01:02 PM            13,514 ManufacturingHeroTile.tsx
+04/06/2026  01:02 PM            13,790 SalesEnablementTile.tsx
+               2 File(s)         27,304 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\industries\nexus-industrial-dashboard-v2
+
+04/06/2026  01:02 PM            17,617 ABM-Radar-Analysis.tsx
+04/06/2026  01:02 PM            20,100 Industrial-MFG-Tile.tsx
+               2 File(s)         37,717 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\industries\nexus-industrial-dashboard-v2\components
+
+04/06/2026  01:02 PM             2,105 Sidebar.tsx
+04/06/2026  01:02 PM             3,839 TelemetryGrid.tsx
+               2 File(s)          5,944 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\industries\nonprofithero-impact-visualization-v2\components
+
+04/06/2026  01:02 PM             8,242 HealthCareTile.tsx
+04/06/2026  01:02 PM            11,293 NGOSDOTile.tsx
+               2 File(s)         19,535 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\industries\oil-gas-performance-tile-component-v2\components
+
+04/06/2026  01:02 PM             9,463 HealthCareTile.tsx
+04/06/2026  01:02 PM             9,459 OilGasTile.tsx
+               2 File(s)         18,922 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\industries\powergrid-digital-modernization-dashboard-v2
+
+04/06/2026  01:02 PM            13,564 PowerGridDashboard.tsx
+               1 File(s)         13,564 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\industries\retail-pulse-analytics-tile-v2\components
+
+04/06/2026  01:02 PM            11,587 RetailTile.tsx
+04/06/2026  01:02 PM            11,579 SalesEnablementTile.tsx
+               2 File(s)         23,166 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\industries\saas-premium-analytics-component-v2\components
+
+04/06/2026  01:02 PM            11,279 PubSecTile.tsx
+               1 File(s)         11,279 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\industries\scalability-telemetry-radar-v2
+
+04/06/2026  01:02 PM            12,227 ScalabilityRadar.tsx
+               1 File(s)         12,227 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\industries\student-lifecycle-analytics-dashboard-v2\components
+
+04/06/2026  01:02 PM            19,595 EDUMarketingTile.tsx
+04/06/2026  01:02 PM            19,262 FleetTile.tsx
+               2 File(s)         38,857 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\industries\telco-ai-infrastructure-tile-v2\components
+
+04/06/2026  01:02 PM            15,842 TelcoAITile.tsx
+               1 File(s)         15,842 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\industries\utilities-command-center-tile-v2\components
+
+04/06/2026  01:02 PM            12,577 EnergyGridTile.tsx
+               1 File(s)         12,577 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\industries\waste-management-ai-hero-component-v2\components
+
+04/06/2026  01:02 PM            12,714 SystemsProcessTile.tsx
+04/06/2026  01:02 PM            12,338 WasteMan.tsx
+               2 File(s)         25,052 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\industries\wellv3-landing-page-health-journey-tile-v2\components
+
+04/06/2026  01:02 PM            14,603 HealthCareTile.tsx
+               1 File(s)         14,603 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\marketing-revenue-analytics-v2
+
+04/06/2026  01:02 PM                99 component.tsx
+               1 File(s)             99 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\operations\enterprise-sales-motion-dashboard-v2
+
+04/06/2026  01:02 PM            22,096 EnterpriseSalesMotionDashboard.tsx
+               1 File(s)         22,096 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\operations\lifecycle-engine-dashboard-v2
+
+04/06/2026  01:02 PM            24,752 Lifecycle Engine Dashboard.tsx
+04/06/2026  01:02 PM            20,847 Lifecycle-360.tsx
+04/06/2026  01:02 PM            23,899 Lifecycle-Engine-Dashboard.tsx
+               3 File(s)         69,498 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\operations\live-email-automation-ecosystem-v2
+
+04/06/2026  01:02 PM            15,046 Live-Email-Automation.tsx
+               1 File(s)         15,046 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\operations\live-email-automation-ecosystem-v2\components
+
+04/06/2026  01:02 PM               184 EmailAutomationComponent.tsx
+               1 File(s)            184 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\operations\live-email-automation-ecosystem-v3
+
+04/06/2026  01:02 PM            16,934 Live-Email-Automation.tsx
+               1 File(s)         16,934 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\operations\live-email-automation-ecosystem-v3\components
+
+04/06/2026  01:02 PM               184 EmailAutomationComponent.tsx
+               1 File(s)            184 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\operations\marketing-analytics-carousel-v3
+
+04/06/2026  01:02 PM            21,303 Marketing-Analytics-Carousel.tsx
+04/06/2026  01:02 PM            19,906 Marketing-Automation-Carousel.tsx
+               2 File(s)         41,209 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\operations\marketing-operations-workflow-tile-v2\components
+
+04/06/2026  01:02 PM             6,847 MarketingOperationsTile.tsx
+               1 File(s)          6,847 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\operations\marketing-revenue-analytics-v2\components
+
+04/06/2026  01:02 PM            10,489 RevenueAnalytics.tsx
+               1 File(s)         10,489 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\operations\marketingai-intelligence-dashboard-v2\components
+
+04/06/2026  01:02 PM            11,214 MarketingAITile.tsx
+04/06/2026  01:02 PM            11,950 SalesEnablementTile.tsx
+               2 File(s)         23,164 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\operations\marketingai-neural-dashboard-v2\components
+
+04/06/2026  01:02 PM            11,214 MarketingAITile.tsx
+04/06/2026  01:02 PM            11,950 SalesEnablementTile.tsx
+               2 File(s)         23,164 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\operations\martech-ai-dashboard-engine-v2\components
+
+04/06/2026  01:02 PM            17,827 MarTechTile.tsx
+               1 File(s)         17,827 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\operations\pipeline-command-center-v2\components
+
+04/06/2026  01:02 PM            14,012 PipelineDashboard.tsx
+               1 File(s)         14,012 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\operations\revenue-systems-data-flow-v2
+
+04/06/2026  01:02 PM               363 RevenueData-Flow.tsx
+               1 File(s)            363 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\operations\revops-data-sync-mesh-tile-v2\components
+
+04/06/2026  01:02 PM            10,027 FleetTile.tsx
+04/06/2026  01:02 PM             9,981 RevOpsMeshTile.tsx
+               2 File(s)         20,008 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\operations\systems-operations-hero-component-v2\components
+
+04/06/2026  01:02 PM             8,170 SystemOperationsTile.tsx
+               1 File(s)          8,170 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\pipeline-command-center-v2
+
+04/06/2026  01:02 PM                96 component.tsx
+               1 File(s)             96 bytes
+
+ Directory of C:\GitProd\aqos\GTMStack-Animations\animations\quantum-data-field-analytics-v2
+
+04/06/2026  01:02 PM               100 component.tsx
+               1 File(s)            100 bytes
+
+     Total Files Listed:
+             231 File(s)      2,538,419 bytes
+               0 Dir(s)  499,869,384,704 bytes free
