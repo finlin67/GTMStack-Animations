@@ -1,5 +1,7 @@
 # GrowthSEM Landing Page
 
+A GrowthSEM landing-page hero tile designed to showcase paid campaign performance, optimization, and efficiency gains.
+
 ## Description
 GrowthSEM is a modern, high-performance landing page prototype designed for an enterprise-grade SEM analytics platform. It showcases a sophisticated, self-contained visualization component that animates key performance metrics like ROAS, revenue lift, and optimized CPC in real-time. The interface utilizes a dark, data-centric design language with neon cyan accents to emphasize AI precision and futuristic tech. Built with performance in mind, the animations use hardware-accelerated transitions to ensure smooth playback across devices. The project demonstrates how to isolate complex UI logic into reusable React components while maintaining a cohesive visual identity.
 

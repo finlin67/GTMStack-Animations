@@ -1,4 +1,6 @@
-# ImpactAgency Dashboard
+# Agency Impact Dashboard
+
+An agency impact dashboard tile that presents engagement lifecycle progress, growth momentum, and measurable impact signals.
 
 ## Description
 ImpactAgency Dashboard is a high-fidelity, interactive platform designed for non-profits and social enterprises to track their donor engagement lifecycle. It visualizes the "Mission Journey" through an interactive Engagement Ladder, moving supporters from initial awareness to lifelong advocacy. The dashboard provides real-time metrics on retention rates, growth phases, and advocacy speed, all wrapped in a premium, cinematic dark-themed user interface.

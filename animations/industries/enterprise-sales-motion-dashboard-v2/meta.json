@@ -1,13 +1,12 @@
 {
   "id": "enterprise-sales-motion-dashboard-v2",
   "title": "Enterprise Sales Motion Dashboard",
-  "description": "Enterprise Sales Motion Dashboard — GTMStack animation for industries use cases.",
+  "description": "Enterprise sales-motion dashboard visualizing stakeholder movement, cycle progression, and deal execution momentum.",
   "tags": [
-    "industries",
-    "enterprise",
-    "sales",
-    "motion",
-    "dashboard"
+    "Enterprise Sales",
+    "Deal Progression",
+    "Stakeholder Analytics",
+    "Motion Dashboard"
   ],
   "category": "other",
   "published": true,

@@ -1,12 +1,12 @@
 {
   "id": "advocacy-loop-dashboard-v2",
   "title": "Advocacy Loop Dashboard",
-  "description": "Advocacy Loop Dashboard — GTMStack animation for dashboard tiles use cases.",
+  "description": "Advocacy loop dashboard showing referral momentum, engagement progression, and lifecycle conversion performance.",
   "tags": [
-    "dashboard-tiles",
-    "advocacy",
-    "loop",
-    "dashboard"
+    "Advocacy Analytics",
+    "Referral Loop",
+    "Engagement Dashboard",
+    "Conversion Performance"
   ],
   "category": "card",
   "published": true,

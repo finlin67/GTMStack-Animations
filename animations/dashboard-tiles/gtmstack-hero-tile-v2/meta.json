@@ -1,12 +1,12 @@
 {
   "id": "gtmstack-hero-tile-v2",
-  "title": "Gtmstack Hero Tile",
-  "description": "Gtmstack Hero Tile — GTMStack animation for dashboard tiles use cases.",
+  "title": "GTMStack Hero Tile",
+  "description": "GTMStack hero tile illustrating the transition from fragmented workflows to a unified operating model.",
   "tags": [
-    "dashboard-tiles",
-    "gtmstack",
-    "hero",
-    "tile"
+    "GTMStack",
+    "Hero Dashboard",
+    "Workflow Alignment",
+    "Operating Model"
   ],
   "category": "hero",
   "published": true,

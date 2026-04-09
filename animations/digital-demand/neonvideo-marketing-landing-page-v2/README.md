@@ -1,5 +1,7 @@
 # NeonVideo Marketing Landing Page
 
+A NeonVideo landing-page hero tile that showcases campaign impact, media performance, and conversion-focused presentation.
+
 ## Description
 This application is a high-performance SaaS landing page designed for a video marketing platform, featuring a premium dark mode aesthetic with golden accents. It highlights a complex, interactive "CampaignTile" hero component that utilizes parallax scrolling, dynamic hover effects, and floating animations to engage users immediately. The layout includes responsive feature grids, statistical breakdowns, and a call-to-action section, all styled with utility-first CSS for rapid development. The project demonstrates how to seamlessly integrate advanced motion graphics into a standard React application to boost conversion rates and user retention.
 

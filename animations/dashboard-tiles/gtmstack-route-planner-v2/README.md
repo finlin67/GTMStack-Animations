@@ -1,6 +1,6 @@
 # GTMStack Route Planner
 
-A premium, high-fidelity React component visualizing a strategic Go-To-Market roadmap. This project demonstrates complex UI animations, organic data simulation, and glassmorphic design principles using React, Framer Motion, and Tailwind CSS.
+A GTMStack route planner tile that tracks strategic waypoints, phase progression, and execution momentum.
 
 ## 🚀 Features
 

@@ -1,11 +1,12 @@
 {
   "id": "strategist-os-dashboard-v2",
-  "title": "Strategist Os Dashboard",
-  "description": "Strategist Os Dashboard — GTMStack animation for digital demand use cases.",
+  "title": "Strategist OS Dashboard",
+  "description": "Strategist dashboard visualizing content lifecycle velocity, execution status, and omni-channel performance signals.",
   "tags": [
-    "digital-demand",
-    "strategist",
-    "dashboard"
+    "Content Strategy",
+    "Operations Dashboard",
+    "Lifecycle Analytics",
+    "Omni-Channel"
   ],
   "category": "hero",
   "published": true,

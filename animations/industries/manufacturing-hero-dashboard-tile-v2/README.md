@@ -1,8 +1,7 @@
 # Manufacturing Hero Dashboard Tile
-<h1 align="center">Manufacturing Hero Dashboard Tile</h1>
 
 
-A high-performance, animated React component visualizing real-time factory metrics (OEE, Throughput, Savings). Extracted from a static design and enhanced with Framer Motion for smooth, data-driven interactions.
+A manufacturing hero dashboard tile that surfaces operational KPIs, throughput trends, and performance stabilization.
 
 ## Tech Stack
 *   **React 18+**

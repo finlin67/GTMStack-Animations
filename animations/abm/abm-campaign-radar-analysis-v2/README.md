@@ -1,7 +1,7 @@
 
-# Executive Dashboard Hero Tile
+# ABM Campaign Radar Analysis
 
-A responsive, high-fidelity React component designed for executive summaries, compliant with "Hero Tile" specifications (600x600px constraint).
+A compact ABM dashboard tile that visualizes campaign reach, engagement signals, and account momentum through a radar-style interface.
 
 ## Overview
 

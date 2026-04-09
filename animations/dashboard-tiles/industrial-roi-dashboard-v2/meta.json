@@ -1,12 +1,12 @@
 {
   "id": "industrial-roi-dashboard-v2",
-  "title": "Industrial Roi Dashboard",
-  "description": "Industrial Roi Dashboard — GTMStack animation for dashboard tiles use cases.",
+  "title": "Industrial ROI Dashboard",
+  "description": "Industrial performance dashboard that tracks ROI impact, operational efficiency, and rollout progress for manufacturing initiatives.",
   "tags": [
-    "dashboard-tiles",
-    "industrial",
-    "roi",
-    "dashboard"
+    "Industrial Analytics",
+    "ROI Dashboard",
+    "Operations Performance",
+    "Executive Reporting"
   ],
   "category": "card",
   "published": true,

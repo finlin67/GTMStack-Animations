@@ -1,6 +1,6 @@
 # Clinical Holographic Control Surface
 
-A high-performance, standalone React dashboard component constrained to a **600x600px** viewport. Designed with a dual-theme "Pulse Core" aesthetic, utilizing advanced Framer Motion path animations and SVG-based Sparklines.
+A clinical holographic control-surface tile that presents telemetry, validation status, and operational readiness in one view.
 
 ## ✨ Final Audit Status
 

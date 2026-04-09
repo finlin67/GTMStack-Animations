@@ -1,6 +1,6 @@
 # GrowthFlow SEO Engine
 
-An interactive, high-performance React component designed to visualize B2B SEO strategies and Demand Generation workflows. This project demonstrates complex UI animations, particle systems, and real-time state management using **React**, **Framer Motion**, and **Tailwind CSS**.
+A GrowthFlow SEO dashboard tile that highlights search visibility, ranking dynamics, and organic growth performance.
 
 ## 🚀 Features
 

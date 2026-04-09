@@ -1,4 +1,6 @@
-# AeroAuto Engage | Engineering Workflow
+# Aerospace Auto Engineering Workflow
+
+An engineering workflow tile for aerospace and automotive programs that highlights lifecycle progress, qualification risk, and readiness signals.
 
 A high-fidelity dashboard simulating aerospace and automotive engineering workflows with live KPI telemetry.
 

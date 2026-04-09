@@ -1,6 +1,6 @@
 # FleetOptima Driver Performance Tile
 
-A standalone, high-performance React component extracted from the FleetOptima dashboard system. This component visualizes driver metrics, weekly aggregates, and recent activity log in a rigid 600x600px dark-themed card.
+A FleetOptima tile that tracks driver behavior, weekly efficiency trends, and operational performance health.
 
 ## Tech Stack
 - **React 18+**: Functional components with hooks.

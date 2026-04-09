@@ -1,12 +1,12 @@
 {
   "id": "executive-logistics-dashboard-v3",
   "title": "Executive Logistics Dashboard",
-  "description": "Executive Logistics Dashboard — GTMStack animation for events media use cases.",
+  "description": "Advanced logistics dashboard for executive monitoring of route reliability, node health, and live distribution performance.",
   "tags": [
-    "events-media",
-    "executive",
-    "logistics",
-    "dashboard"
+    "Logistics Intelligence",
+    "Route Reliability",
+    "Node Health",
+    "Executive Monitoring"
   ],
   "category": "card",
   "published": true,

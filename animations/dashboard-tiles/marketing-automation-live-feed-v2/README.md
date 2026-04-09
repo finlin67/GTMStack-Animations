@@ -1,6 +1,6 @@
 # Marketing Automation Live Feed
 
-A high-fidelity, production-ready React component that visualizes a marketing automation pipeline in real-time. Designed as a dashboard widget (600x600px), it features a live conveyor belt animation, dynamic data processing stages, and simulated streaming logs.
+A marketing automation live-feed tile that presents queue flow, processing velocity, and routing performance in real time.
 
 ## Features
 

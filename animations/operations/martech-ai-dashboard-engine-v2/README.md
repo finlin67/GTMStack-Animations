@@ -1,6 +1,6 @@
 # MarTech AI Dashboard Engine
 
-🧠 **Context & Creative Strategy**
+An operations-oriented MarTech AI dashboard that presents system health, orchestration pathways, and optimization state at a glance.
 This project showcases a standalone, animated React component extracted from a larger MarTech AI landing page prototype. The primary component, `MarTechTile`, is a dynamic visualization of a marketing technology ecosystem. It represents the "living" nature of data flow in modern SaaS environments, moving away from static diagrams toward a high-performance engine aesthetic inspired by industrial control panels and modern IDEs.
 
 🎯 **Purpose & Value Proposition**

@@ -1,4 +1,6 @@
-# EdJourney K-12 Ecosystem Dashboard
+# Education Journey K-12 Ecosystem
+
+An education journey tile that maps K-12 demand signals, district timelines, and adoption readiness across the ecosystem.
 
 ## Description
 EdJourney is a high-fidelity intelligence dashboard designed to visualize the complex interplay between parent-led educational demand and district-level procurement cycles. By synchronizing real-time demand signals with rigid fiscal lifecycles, it provides K-12 agencies with actionable clarity on resource allocation and adoption efficacy. The app features a dynamic theme engine that transitions between a professional warm vanilla light mode and a modern slate-indigo deep mode, emphasizing surface elevation and glassmorphism.

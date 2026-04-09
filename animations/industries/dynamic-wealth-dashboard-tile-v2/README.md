@@ -1,6 +1,6 @@
 # Dynamic Wealth Dashboard Tile
 
-A high-performance, standalone React component that visualizes financial stability and growth metrics. It features a complex grid background with data stream animations, a central pulsing shield hub, interconnected avatar nodes, and a live SVG revenue projection chart.
+A dynamic wealth dashboard tile that presents portfolio performance, stability indicators, and forward-looking growth signals.
 
 ## Tech Stack
 - **Framework:** React 18+ (TypeScript)

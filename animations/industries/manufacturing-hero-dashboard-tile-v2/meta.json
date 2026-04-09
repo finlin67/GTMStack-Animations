@@ -1,13 +1,12 @@
 {
   "id": "manufacturing-hero-dashboard-tile-v2",
   "title": "Manufacturing Hero Dashboard Tile",
-  "description": "Manufacturing Hero Dashboard Tile — GTMStack animation for industries use cases.",
+  "description": "Manufacturing hero tile focused on operational KPIs, throughput trends, and performance stabilization signals.",
   "tags": [
-    "industries",
-    "manufacturing",
-    "hero",
-    "dashboard",
-    "tile"
+    "Manufacturing KPI",
+    "Throughput Analytics",
+    "Hero Dashboard",
+    "Operational Performance"
   ],
   "category": "hero",
   "published": true,

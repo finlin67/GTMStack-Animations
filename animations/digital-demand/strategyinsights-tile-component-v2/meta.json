@@ -1,12 +1,12 @@
 {
   "id": "strategyinsights-tile-component-v2",
-  "title": "Strategyinsights Tile Component",
-  "description": "Strategyinsights Tile Component — GTMStack animation for digital demand use cases.",
+  "title": "StrategyInsights Tile Component",
+  "description": "Strategy insights tile combining central intelligence, connected metrics, and decision-support visuals for growth planning.",
   "tags": [
-    "digital-demand",
-    "strategyinsights",
-    "tile",
-    "component"
+    "Strategy Insights",
+    "Decision Dashboard",
+    "Growth Planning",
+    "Tile Component"
   ],
   "category": "hero",
   "published": true,

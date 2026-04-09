@@ -1,12 +1,12 @@
 {
   "id": "gtmstack-industry-template-v2",
-  "title": "Gtmstack Industry Template",
-  "description": "Gtmstack Industry Template — GTMStack animation for dashboard tiles use cases.",
+  "title": "GTMStack Industry Template",
+  "description": "Industry template dashboard for GTM strategy presentation, service mapping, and operational planning.",
   "tags": [
-    "dashboard-tiles",
-    "gtmstack",
-    "industry",
-    "template"
+    "GTM Strategy",
+    "Industry Template",
+    "Service Mapping",
+    "Planning Dashboard"
   ],
   "category": "card",
   "published": true,

@@ -1,12 +1,12 @@
 {
   "id": "content-engagement-hero-v2",
   "title": "Content Engagement Hero",
-  "description": "Content Engagement Hero — GTMStack animation for digital demand use cases.",
+  "description": "Content engagement hero tile visualizing audience interaction, channel response, and campaign lift signals.",
   "tags": [
-    "digital-demand",
-    "content",
-    "engagement",
-    "hero"
+    "Content Engagement",
+    "Audience Analytics",
+    "Campaign Performance",
+    "Hero Dashboard"
   ],
   "category": "hero",
   "published": true,

@@ -1,6 +1,6 @@
 # DemandGrowthHero Component
 
-This project features a standalone, high-performance React component (`DemandGrowthTile`) extracted from a static B2B landing page. The component visualizes an isometric demand generation funnel with floating metrics, flowing data particles, and a glowing grid background. It is designed to be fully responsive while maintaining a strict 1:1 aspect ratio maxing at 600px.
+A demand growth hero component that combines funnel visualization, live metrics, and campaign flow in a single animated tile.
 
 ## Tech Stack
 *   **React 18+**

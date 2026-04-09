@@ -1,6 +1,6 @@
-# UtilitiesHero Command Center Tile
+# Utilities Command Center Tile
 
-A high-fidelity, data-dense React component representing an energy grid monitoring system. It features a rigid 600x600 layout, emerald-themed dark UI, and simulated real-time data fluctuations.
+A utilities command center tile that surfaces grid stability, load conditions, and infrastructure health indicators.
 
 ## Tech Stack
 *   **React 18+**

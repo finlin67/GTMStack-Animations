@@ -1,6 +1,6 @@
 # EOC Logistics Dashboard
 
-A brutalist, dark-mode logistics dashboard for emergency animations/animations\operations.
+An EOC logistics dashboard tile designed to track incident flow, route stability, and emergency operations performance.
 
 ## Features
 - **Real-time Data Simulation**: Tracks deviation, incidents, efficiency, and latency with organic jitter.

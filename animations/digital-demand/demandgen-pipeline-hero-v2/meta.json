@@ -1,12 +1,12 @@
 {
   "id": "demandgen-pipeline-hero-v2",
-  "title": "Demandgen Pipeline Hero",
-  "description": "Demandgen Pipeline Hero — GTMStack animation for digital demand use cases.",
+  "title": "DemandGen Pipeline Hero",
+  "description": "Animated demand generation hero showcasing funnel progression, lead velocity, and campaign stage performance.",
   "tags": [
-    "digital-demand",
-    "demandgen",
-    "pipeline",
-    "hero"
+    "Demand Generation",
+    "Pipeline Visualization",
+    "Lead Analytics",
+    "Hero Dashboard"
   ],
   "category": "hero",
   "published": true,

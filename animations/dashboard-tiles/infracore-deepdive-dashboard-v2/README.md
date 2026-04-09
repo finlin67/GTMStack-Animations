@@ -1,5 +1,7 @@
 # InfraCore DeepDive Dashboard
 
+An infrastructure-focused dashboard tile that presents microservice health, reliability signals, and live operational status in a compact layout.
+
 ## Description
 This project is a high-fidelity recreation of the "InfraCore DeepDive" infrastructure monitoring dashboard. It features a dark, glassmorphic UI with neon accents, real-time data visualization, and a responsive grid layout. The core highlight is the **MicroservicesHealthTile**, a self-contained, animated React component that visualizes the status of distributed services with dynamic pulse and hover effects.
 

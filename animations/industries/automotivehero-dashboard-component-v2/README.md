@@ -1,6 +1,6 @@
 # AutomotiveHero Dashboard Component
 
-A high-performance, dark-mode analytics dashboard layout focused on automotive sales metrics. The centerpiece is the `AutomotiveTile`, a standalone 600x600px React component that visualizes revenue data with framer-motion animations.
+An AutomotiveHero dashboard component that surfaces revenue movement, sales performance, and operating signals in a compact tile.
 
 ## Tech Stack
 *   **React 18+**

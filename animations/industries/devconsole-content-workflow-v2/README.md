@@ -1,6 +1,6 @@
-# DevConsole - Content Workflow
+# DevConsole Content Workflow
 
-A high-performance, aesthetically driven system console designed for managing content marketing lifecycles. This application combines real-time data visualization with AI-driven insights, wrapped in a high-fidelity "cyber-industrial" terminal interface.
+A DevConsole content workflow tile that visualizes production stages, live telemetry, and system optimization signals.
 
 ## 🚀 Overview
 

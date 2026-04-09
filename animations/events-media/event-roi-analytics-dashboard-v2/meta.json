@@ -1,13 +1,12 @@
 {
   "id": "event-roi-analytics-dashboard-v2",
-  "title": "Event Roi Analytics Dashboard",
-  "description": "Event Roi Analytics Dashboard — GTMStack animation for events media use cases.",
+  "title": "Event ROI Analytics Dashboard",
+  "description": "Event performance dashboard visualizing funnel progression, ROI trends, and campaign efficiency across media channels.",
   "tags": [
-    "events-media",
-    "event",
-    "roi",
-    "analytics",
-    "dashboard"
+    "Event Marketing",
+    "ROI Analytics",
+    "Funnel Visualization",
+    "Dashboard"
   ],
   "category": "card",
   "published": true,

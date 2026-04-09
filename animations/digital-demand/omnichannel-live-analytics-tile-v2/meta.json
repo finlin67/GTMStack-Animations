@@ -1,13 +1,12 @@
 {
   "id": "omnichannel-live-analytics-tile-v2",
   "title": "Omnichannel Live Analytics Tile",
-  "description": "Omnichannel Live Analytics Tile — GTMStack animation for digital demand use cases.",
+  "description": "Omnichannel analytics tile showing live channel performance, conversion behavior, and revenue impact visibility.",
   "tags": [
-    "digital-demand",
-    "omnichannel",
-    "live",
-    "analytics",
-    "tile"
+    "Omnichannel Analytics",
+    "Live Performance",
+    "Conversion Monitoring",
+    "Revenue Signals"
   ],
   "category": "hero",
   "published": true,

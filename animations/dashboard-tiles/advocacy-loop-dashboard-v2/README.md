@@ -1,6 +1,6 @@
-# Advocacy Loop Dashboard & CaseSeqTile Component
+# Advocacy Loop Dashboard
 
-🧠 **Context & Creative Strategy**
+An advocacy loop dashboard tile that visualizes referral momentum, engagement progression, and conversion performance.
 Visualizing intangible growth strategies like "Advocacy Loops" often results in static, unengaging text. This project was conceived to bridge the gap between abstract marketing theory and tangible user experience. By utilizing high-fidelity SVG path animations and synchronized state management, we transform a simple feedback loop into a living "Growth Engine" that tells a story through motion.
 
 🎯 **Purpose & Value Proposition**

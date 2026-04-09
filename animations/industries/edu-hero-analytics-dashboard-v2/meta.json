@@ -1,13 +1,12 @@
 {
   "id": "edu-hero-analytics-dashboard-v2",
-  "title": "Edu Hero Analytics Dashboard",
-  "description": "Edu Hero Analytics Dashboard — GTMStack animation for industries use cases.",
+  "title": "EduHero Analytics Dashboard",
+  "description": "Education analytics dashboard tile showing learner funnel movement, campaign performance, and institutional growth trends.",
   "tags": [
-    "industries",
-    "edu",
-    "hero",
-    "analytics",
-    "dashboard"
+    "Education Analytics",
+    "Learner Funnel",
+    "Growth Dashboard",
+    "Performance Metrics"
   ],
   "category": "hero",
   "published": true,

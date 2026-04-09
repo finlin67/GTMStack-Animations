@@ -1,6 +1,6 @@
-# Scalability Radar
+# Scalability Telemetry Radar
 
-A high-fidelity dashboard component visualizing system scalability, latency, and live telemetry. This "Hero Tile" is designed to be responsive, centering a fixed-aspect ratio dashboard within a flexible container.
+A scalability telemetry radar tile that highlights latency behavior, system growth, and live performance movement.
 
 ## Features
 

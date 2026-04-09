@@ -1,6 +1,6 @@
 # Student Lifecycle Analytics Dashboard
 
-A high-fidelity, standalone React component visualizing student enrollment data and projected growth. This project extracts a complex HTML/Tailwind widget into a reusable React component featuring smooth Framer Motion entrance animations for data visualization elements.
+A student lifecycle analytics tile that maps application flow, enrollment progression, and retention growth signals.
 
 ## Tech Stack
 *   **React 18+**

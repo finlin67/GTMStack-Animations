@@ -1,12 +1,12 @@
 {
   "id": "abm-pipeline-strategy-dashboard",
-  "title": "Abm Pipeline Strategy Dashboard",
-  "description": "Abm Pipeline Strategy Dashboard — GTMStack animation for abm use cases.",
+  "title": "ABM Pipeline Strategy Dashboard",
+  "description": "ABM strategy dashboard visualizing stage conversion, target account progression, and pipeline momentum.",
   "tags": [
-    "abm",
-    "pipeline",
-    "strategy",
-    "dashboard"
+    "ABM Strategy",
+    "Pipeline Dashboard",
+    "Conversion Analytics",
+    "Account Progression"
   ],
   "category": "card",
   "published": true,

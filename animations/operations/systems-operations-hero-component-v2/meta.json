@@ -1,12 +1,12 @@
 {
   "id": "systems-operations-hero-component-v2",
   "title": "Systems Operations Hero Component",
-  "description": "Systems Operations Hero Component — GTMStack animation for operations use cases.",
+  "description": "Systems operations hero component focused on core infrastructure KPIs, service status, and execution stability.",
   "tags": [
-    "operations",
-    "systems",
-    "hero",
-    "component"
+    "Systems Operations",
+    "Infrastructure KPI",
+    "Service Monitoring",
+    "Hero Dashboard"
   ],
   "category": "hero",
   "published": true,

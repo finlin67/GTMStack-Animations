@@ -1,6 +1,6 @@
-# ExpertiseHero GTM Engine Visualization
+# GTM Engine Visualization Hero Animation
 
-A high-fidelity, production-ready React component extracted from the ExpertiseHero landing page. It features the "GTM Core Tile"—an animated hub-and-spoke visualization displaying core growth metrics with satellite nodes.
+A GTM hero animation tile that presents connected strategy nodes, growth signals, and performance pathways in one visual system.
 
 ## Tech Stack
 *   **React 18+**

@@ -1,6 +1,6 @@
-# PubSecTile Component
+# SaaS Premium Analytics Component
 
-A high-fidelity, standalone React component designed for public sector dashboards. It features a 600x600px visualization of a "Hybrid Cloud AI Core" ingestion process, animated using Framer Motion.
+A premium SaaS analytics component that combines live metric visualization, data flow storytelling, and executive dashboard presentation.
 
 ## Tech Stack
 - **React 18+**

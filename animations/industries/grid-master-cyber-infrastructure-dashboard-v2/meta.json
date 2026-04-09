@@ -1,14 +1,12 @@
 {
   "id": "grid-master-cyber-infrastructure-dashboard-v2",
   "title": "Grid Master Cyber Infrastructure Dashboard",
-  "description": "Grid Master Cyber Infrastructure Dashboard — GTMStack animation for industries use cases.",
+  "description": "Cyber infrastructure dashboard visualizing grid resilience, system telemetry, and operational risk signals in real time.",
   "tags": [
-    "industries",
-    "grid",
-    "master",
-    "cyber",
-    "infrastructure",
-    "dashboard"
+    "Cyber Infrastructure",
+    "Grid Monitoring",
+    "Telemetry Dashboard",
+    "Risk Analytics"
   ],
   "category": "other",
   "published": true,

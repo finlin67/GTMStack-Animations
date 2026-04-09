@@ -1,6 +1,6 @@
-# Vidiomark AI Distribution Hub - Hero Tile
+# Video Marketing AI Distribution Hub
 
-A high-performance, single-file 'Hero Tile' dashboard built with React, Tailwind CSS, Framer Motion, and Google's Gemini AI.
+A video marketing AI distribution hub tile that highlights channel strategy, campaign reach, and predicted performance signals.
 
 ## Key Features
 - **Adaptive 600x600 Container**: Responsive square layout optimized for dashboard integration.

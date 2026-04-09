@@ -1,12 +1,12 @@
 {
   "id": "eoc-logistics-dashboard-v2",
-  "title": "Eoc Logistics Dashboard",
-  "description": "Eoc Logistics Dashboard — GTMStack animation for events media use cases.",
+  "title": "EOC Logistics Dashboard",
+  "description": "EOC logistics dashboard tile visualizing incident flow, route stability, and emergency operations performance.",
   "tags": [
-    "events-media",
-    "eoc",
-    "logistics",
-    "dashboard"
+    "EOC Analytics",
+    "Logistics Monitoring",
+    "Incident Response",
+    "Operations Dashboard"
   ],
   "category": "card",
   "published": true,

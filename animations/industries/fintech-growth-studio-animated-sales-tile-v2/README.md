@@ -1,6 +1,6 @@
-# Fintech Growth Animated Sales Tile
+# FinTech Growth Studio Animated Sales Tile
 
-This project contains a high-fidelity recreation of a fintech landing page featuring a complex, interactive data visualization component (`FinServTile`).
+A FinTech animated sales tile that visualizes revenue trajectory, pipeline momentum, and growth-stage performance.
 
 ## Description
 The core focus is the `FinServTile` component: a self-contained, 600x600 responsive React component. It features orbiting rings, floating data cards with organic motion, and SVG chart animations. The component uses Framer Motion for high-performance animations (including draggability) and Tailwind CSS for precise styling, perfectly mimicking the provided design spec.

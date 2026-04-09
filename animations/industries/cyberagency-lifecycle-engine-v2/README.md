@@ -1,6 +1,6 @@
-# ApexShield Lifecycle Engine
+# CyberAgency Lifecycle Engine
 
-ApexShield is a premium, high-fidelity security visualization dashboard designed to align executive strategy with technical remediation workflows. It provides a real-time view of the vulnerability implementation lifecycle, moving from identification to full CISO-approved deployment. The application utilizes a "High-Fidelity Surface" approach, delivering an elevated user interface with deep aesthetic depth through glassmorphism and soft elevation. Dynamic telemetry simulation ensures the data feels alive and responsive to organizational changes.
+A cybersecurity lifecycle tile that maps audit-to-deployment progress with live risk and remediation visibility.
 
 ## Tech Stack
 - **Framework:** React 19 (Functional Components & Hooks)

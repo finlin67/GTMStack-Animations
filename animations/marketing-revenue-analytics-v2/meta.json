@@ -1,8 +1,13 @@
 {
   "id": "marketing-revenue-analytics-v2",
   "title": "Marketing Revenue Analytics",
-  "description": "Revenue analytics visualization card for marketing operations performance.",
-  "tags": ["operations", "analytics", "revenue"],
+  "description": "Marketing revenue analytics tile showing attribution impact, channel efficiency, and revenue trend direction.",
+  "tags": [
+    "Revenue Analytics",
+    "Marketing Attribution",
+    "Channel Performance",
+    "Growth Trends"
+  ],
   "category": "card",
   "published": true,
   "featured": false,

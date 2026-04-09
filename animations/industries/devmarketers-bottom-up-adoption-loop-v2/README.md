@@ -1,4 +1,6 @@
-# DevMarketers - Bottom-Up Adoption Loop
+# DevMarketers Bottom-Up Adoption Loop
+
+A DevMarketers adoption-loop tile built to show product-led expansion, activation momentum, and growth feedback cycles.
 
 A standalone dashboard tile visualizing bottom-up developer adoption metrics with live activity signals.
 

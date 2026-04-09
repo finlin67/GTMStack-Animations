@@ -1,13 +1,12 @@
 {
   "id": "devmarketers-bottom-up-adoption-loop-v2",
-  "title": "Devmarketers Bottom Up Adoption Loop",
-  "description": "Devmarketers Bottom Up Adoption Loop — GTMStack animation for industries use cases.",
+  "title": "DevMarketers Bottom-Up Adoption Loop",
+  "description": "Bottom-up adoption dashboard visualizing product-led growth loops, user expansion, and activation momentum.",
   "tags": [
-    "industries",
-    "devmarketers",
-    "bottom",
-    "adoption",
-    "loop"
+    "Product-Led Growth",
+    "Adoption Loop",
+    "Developer Marketing",
+    "Growth Dashboard"
   ],
   "category": "other",
   "published": true,

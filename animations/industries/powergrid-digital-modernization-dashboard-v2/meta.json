@@ -1,13 +1,12 @@
 {
   "id": "powergrid-digital-modernization-dashboard-v2",
-  "title": "Powergrid Digital Modernization Dashboard",
-  "description": "Powergrid Digital Modernization Dashboard — GTMStack animation for industries use cases.",
+  "title": "PowerGrid Digital Modernization Dashboard",
+  "description": "Digital modernization dashboard for power grids showing capital deployment, reliability improvements, and lifecycle progress.",
   "tags": [
-    "industries",
-    "powergrid",
-    "digital",
-    "modernization",
-    "dashboard"
+    "PowerGrid Analytics",
+    "Digital Modernization",
+    "Reliability Monitoring",
+    "Capital Performance"
   ],
   "category": "other",
   "published": true,

@@ -1,6 +1,6 @@
 # MarketingAI Neural Dashboard
 
-A high-fidelity dashboard interface featuring a standalone, animated neural network visualization tile using React, Tailwind CSS, and Framer Motion.
+A neural-style MarketingAI dashboard tile that highlights model activity, insight generation, and campaign decision flow.
 
 ## Component: MarketingAITile
 

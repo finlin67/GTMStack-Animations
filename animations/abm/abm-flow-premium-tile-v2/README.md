@@ -1,5 +1,7 @@
 # ABM Flow Premium Tile
 
+A premium ABM visualization tile designed to show account flow, stage velocity, and pipeline health in a compact executive-friendly layout.
+
 ## 🧠 Context & Creative Strategy
 The ABM Flow Premium Tile is designed to provide a high-impact, real-time visualization of Account-Based Marketing (ABM) funnels. It bridges the gap between raw data and executive-level storytelling by using a particle-based "flow" that represents accounts moving through the pipeline.
 

@@ -1,6 +1,6 @@
 # KPI Spotlight Mosaic
 
-A high-fidelity, animated executive dashboard component built with React, Framer Motion, and Tailwind CSS.
+An animated KPI mosaic built to highlight core metrics, trend shifts, and status indicators in one executive-ready view.
 
 ## Features
 

@@ -1,13 +1,12 @@
 {
   "id": "content-marketing-kpi-dashboard-v2",
-  "title": "Content Marketing Kpi Dashboard",
-  "description": "Content Marketing Kpi Dashboard — GTMStack animation for digital demand use cases.",
+  "title": "Content Marketing KPI Dashboard",
+  "description": "Content marketing dashboard focused on KPI movement, funnel contribution, and growth outcomes across campaign stages.",
   "tags": [
-    "digital-demand",
-    "content",
-    "marketing",
-    "kpi",
-    "dashboard"
+    "Content Marketing",
+    "KPI Dashboard",
+    "Growth Analytics",
+    "Funnel Performance"
   ],
   "category": "hero",
   "published": true,

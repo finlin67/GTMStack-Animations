@@ -1,8 +1,13 @@
 {
   "id": "quantum-data-field-analytics-v2",
   "title": "Quantum Data Field Analytics",
-  "description": "Data-ops and analytics dashboard tile with animated operational metrics.",
-  "tags": ["dashboard", "analytics", "data"],
+  "description": "Data field analytics tile visualizing system telemetry, analytic density, and operational signal performance.",
+  "tags": [
+    "Data Analytics",
+    "Operational Telemetry",
+    "Signal Monitoring",
+    "Dashboard Metrics"
+  ],
   "category": "card",
   "published": true,
   "featured": false,

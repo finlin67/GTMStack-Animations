@@ -1,4 +1,6 @@
-# Growth.AI - Harmonic Quad-Tone
+# Growth AI Harmonic Quad Tone
+
+A growth-focused AI hero tile that blends harmonic motion, metric emphasis, and performance storytelling for marketing use cases.
 
 ## Description
 This project showcases a high-performance React landing page featuring the "Harmonic Quad-Tone" AI growth visualization. The centerpiece is a self-contained, 600x600 floating tile component (`AIGrowth.tsx`) that uses Framer Motion for organic, physics-based animations to simulate a live data dashboard. It demonstrates strict component isolation, modern TypeScript practices, and responsive Tailwind styling suitable for drop-in use within larger Next.js or Vite applications.

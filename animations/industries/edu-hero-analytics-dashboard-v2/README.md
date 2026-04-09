@@ -1,6 +1,6 @@
 # EduHero Analytics Dashboard
 
-A responsive, high-performance SaaS landing page featuring a sophisticated data visualization component.
+An EduHero analytics tile that visualizes learner funnel progress, campaign outcomes, and growth trends for education teams.
 
 ## Description
 This project demonstrates the extraction and modernization of a complex UI section into a standalone React component (`HigherEDMarketingTile`). It features a 600x600px aspect-ratio dashboard tile containing animated funnel charts and SVGs graphs. The component uses Framer Motion for smooth entry animations on the bars and stroke drawing effects on the line chart, replacing static CSS keyframes with JavaScript-controlled physics.

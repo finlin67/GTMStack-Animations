@@ -1,5 +1,7 @@
 # Content Marketing KPI Dashboard
 
+A content marketing KPI dashboard tile designed to show stage-by-stage workflow performance and measurable growth outcomes.
+
 ## Description
 The SaaS Growth Visualizer is an interactive, animated dashboard component designed to showcase a content marketing workflow and its impact on growth metrics. It features a dark-themed UI with glowing neon accents, representing stages like Ideation, Writing, Design, and Publishing connected by animated data paths. The dashboard includes real-time simulated data updates for key performance indicators such as Visitor Growth and Lead Generation, which pulse and animate to draw attention to positive trends. It serves as a high-fidelity visual prototype for SaaS analytics or marketing platforms.
 

@@ -1,5 +1,7 @@
 # Omnichannel Live Analytics Tile
 
+An omnichannel live analytics tile that presents channel performance, conversion behavior, and revenue impact in one view.
+
 ## Description
 The Omnichannel Live Analytics Tile is a high-fidelity, standalone dashboard designed to provide a real-time bird's-eye view of business performance across multiple sales channels. This compact 600x600px interface leverages glassmorphism aesthetics and vibrant neon accents to deliver critical data visualizations with clarity and style. It features a dynamic conversion funnel, live activity feeds, and essential KPIs like total sales, ROI, and active traffic. The application uses simulated real-time data to demonstrate its capability for rapid situational awareness and cross-platform monitoring.
 

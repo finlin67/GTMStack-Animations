@@ -1,13 +1,12 @@
 {
   "id": "student-lifecycle-analytics-dashboard-v2",
   "title": "Student Lifecycle Analytics Dashboard",
-  "description": "Student Lifecycle Analytics Dashboard — GTMStack animation for industries use cases.",
+  "description": "Student lifecycle dashboard visualizing application flow, enrollment progression, and retention-oriented growth metrics.",
   "tags": [
-    "industries",
-    "student",
-    "lifecycle",
-    "analytics",
-    "dashboard"
+    "Student Analytics",
+    "Enrollment Funnel",
+    "Lifecycle Dashboard",
+    "Education Growth"
   ],
   "category": "other",
   "published": true,

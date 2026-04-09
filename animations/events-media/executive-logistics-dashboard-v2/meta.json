@@ -1,12 +1,12 @@
 {
   "id": "executive-logistics-dashboard-v2",
   "title": "Executive Logistics Dashboard",
-  "description": "Executive Logistics Dashboard — GTMStack animation for events media use cases.",
+  "description": "Executive logistics dashboard visualizing network throughput, route status, and operational efficiency across global nodes.",
   "tags": [
-    "events-media",
-    "executive",
-    "logistics",
-    "dashboard"
+    "Logistics Analytics",
+    "Executive Dashboard",
+    "Route Monitoring",
+    "Operational Efficiency"
   ],
   "category": "card",
   "published": true,

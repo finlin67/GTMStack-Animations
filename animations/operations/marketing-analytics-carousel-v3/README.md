@@ -1,6 +1,6 @@
 # Marketing Analytics Carousel
 
-A premium, high-fidelity marketing analytics dashboard prototype. This project demonstrates a "living" UI component designed as a 1:1 square tile, featuring a rotating 3D KPI carousel, real-time simulated data streams, and organic sparkline visualizations using Framer Motion.
+A marketing analytics carousel tile designed to cycle key metrics, trend changes, and campaign context in real time.
 
 ## Features
 

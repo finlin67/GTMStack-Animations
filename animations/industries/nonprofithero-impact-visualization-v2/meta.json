@@ -1,12 +1,12 @@
 {
   "id": "nonprofithero-impact-visualization-v2",
-  "title": "Nonprofithero Impact Visualization",
-  "description": "Nonprofithero Impact Visualization — GTMStack animation for industries use cases.",
+  "title": "NonProfitHero Impact Visualization",
+  "description": "Nonprofit impact visualization tile showing donor journey progression, program engagement, and outcome momentum.",
   "tags": [
-    "industries",
-    "nonprofithero",
-    "impact",
-    "visualization"
+    "Nonprofit Analytics",
+    "Impact Visualization",
+    "Donor Journey",
+    "Engagement Metrics"
   ],
   "category": "hero",
   "published": true,

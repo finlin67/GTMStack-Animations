@@ -1,6 +1,6 @@
-# AI Waste Management Hero Component
+# Waste Management AI Hero Component
 
-This project exports a high-performance, standalone React component visualizing an AI-driven system process. It features a central CPU node pulsing with activity, connected via animated data pipelines to input sensors and output optimization metrics. The component mimics a futuristic dashboard tile, using particle effects and smooth counting animations to represent system efficiency gains.
+A waste management AI hero tile that presents system flow, optimization performance, and operational efficiency signals.
 
 ## Tech Stack
 - **React 18+**: Core framework.

@@ -1,14 +1,12 @@
 {
   "id": "social-media-marketing-hero-tile-v2",
   "title": "Social Media Marketing Hero Tile",
-  "description": "Social Media Marketing Hero Tile — GTMStack animation for events media use cases.",
+  "description": "Social media hero tile that visualizes viral momentum, channel engagement, and campaign amplification metrics.",
   "tags": [
-    "events-media",
-    "social",
-    "media",
-    "marketing",
-    "hero",
-    "tile"
+    "Social Media Marketing",
+    "Viral Analytics",
+    "Channel Engagement",
+    "Hero Dashboard"
   ],
   "category": "hero",
   "published": true,

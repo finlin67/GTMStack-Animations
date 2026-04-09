@@ -1,11 +1,12 @@
 {
   "id": "driftguard-ai-monitor-v2",
-  "title": "Driftguard Ai Monitor",
-  "description": "Driftguard Ai Monitor — GTMStack animation for digital demand use cases.",
+  "title": "DriftGuard AI Monitor",
+  "description": "AI monitoring dashboard that highlights model drift signals, performance stability, and alert-ready operational status.",
   "tags": [
-    "digital-demand",
-    "driftguard",
-    "monitor"
+    "AI Monitoring",
+    "Model Drift",
+    "Performance Stability",
+    "Operations Dashboard"
   ],
   "category": "hero",
   "published": true,

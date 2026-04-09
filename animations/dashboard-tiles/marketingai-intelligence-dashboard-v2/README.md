@@ -1,8 +1,7 @@
 # MarketingAI Intelligence Dashboard
-<h1 align="center">MarketingAI Intelligence Dashboard</h1>
 
 
-A high-fidelity dashboard interface featuring a standalone, animated neural network visualization tile using React, Tailwind CSS, and Framer Motion.
+A MarketingAI intelligence tile that visualizes ingestion signals, decision outputs, and optimization performance in real time.
 
 ## Component: MarketingAITile
 

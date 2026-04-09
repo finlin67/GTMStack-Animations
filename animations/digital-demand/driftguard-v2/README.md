@@ -1,4 +1,6 @@
-# DriftGuard - AI Performance & Drift Alerts
+# DriftGuard
+
+A compact DriftGuard dashboard that highlights model drift, performance variance, and real-time alert signals for operations teams.
 
 A compact monitoring tile for AI model accuracy, drift signals, and real-time alerting.
 

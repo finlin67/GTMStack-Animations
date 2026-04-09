@@ -1,6 +1,6 @@
 # Manufacturing Agency Dashboard
 
-A high-fidelity, interactive precision manufacturing lifecycle dashboard. This application provides real-time visualization of production performance and simulates the "Marketing Impact" on operational metrics.
+A manufacturing agency dashboard tile that visualizes lifecycle efficiency, yield movement, and process impact signals.
 
 ## 🚀 Overview
 

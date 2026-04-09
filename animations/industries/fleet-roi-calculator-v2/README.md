@@ -1,7 +1,7 @@
 
 # Fleet ROI Calculator
 
-A responsive "Hero Tile" React component that simulates a fleet management ROI calculator. This component is designed to be a self-contained, high-fidelity UI element suitable for dashboards or landing pages.
+A fleet ROI calculator tile built to estimate savings impact, efficiency improvements, and performance gains from scenario changes.
 
 ## Features
 

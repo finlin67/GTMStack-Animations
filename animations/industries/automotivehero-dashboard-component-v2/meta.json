@@ -1,12 +1,12 @@
 {
   "id": "automotivehero-dashboard-component-v2",
-  "title": "Automotivehero Dashboard Component",
-  "description": "Automotivehero Dashboard Component — GTMStack animation for industries use cases.",
+  "title": "AutomotiveHero Dashboard Component",
+  "description": "Automotive dashboard component focused on revenue trajectory, performance indicators, and showroom-to-sale visibility.",
   "tags": [
-    "industries",
-    "automotivehero",
-    "dashboard",
-    "component"
+    "Automotive Analytics",
+    "Revenue Dashboard",
+    "Sales Performance",
+    "Hero Component"
   ],
   "category": "hero",
   "published": true,

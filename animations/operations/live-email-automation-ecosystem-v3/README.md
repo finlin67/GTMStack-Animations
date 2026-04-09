@@ -1,6 +1,6 @@
 # Live Email Automation Ecosystem
 
-A production-ready SaaS premium dashboard component built with React, Framer Motion, and Tailwind CSS.
+An updated email automation ecosystem tile highlighting orchestration flow, channel timing, and engagement lift signals.
 
 ## Features
 - **Real-time Stats Engine**: Organic jittering revenue and performance metrics for a "live" feel.

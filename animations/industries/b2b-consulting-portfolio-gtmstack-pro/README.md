@@ -1,4 +1,6 @@
-# GTMStack.pro
+# B2B Consulting Portfolio GTMStack Pro
+
+A GTM consulting portfolio tile designed to communicate strategic capabilities, service scope, and execution credibility.
 
 ## Description
 GTMStack.pro is a high-performance B2B consulting portfolio designed to showcase expertise in Go-To-Market strategies for SaaS companies. The application features a sophisticated "Deep Space" aesthetic with interactive elements, including a filterable expertise matrix, animated statistics, and a chronological professional timeline. Users can explore services through a responsive grid layout that supports detailed expansion and smooth transitions, providing a premium browsing experience. The site serves as a dynamic digital hub for potential clients to review case studies, understand service offerings, and initiate engagement.

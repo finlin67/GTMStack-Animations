@@ -1,6 +1,6 @@
 # StrategyInsights Tile Component
 
-This project features a high-fidelity recreation of the StrategyInsights landing page hero section, focusing on the standalone `StrategyInsightsTile` component. The component visualizes a central intelligence hub with floating metrics cards and connectivity graphs using smooth animations.
+A StrategyInsights tile component that blends intelligence signals, connected metrics, and planning context for strategic decisions.
 
 ## Tech Stack
 - **React 18+** (TypeScript)

@@ -1,12 +1,12 @@
 {
   "id": "edu-marketers-dashboard-v2",
-  "title": "Edu Marketers Dashboard",
-  "description": "Edu Marketers Dashboard — GTMStack animation for industries use cases.",
+  "title": "EduMarketers Dashboard",
+  "description": "EdTech marketer dashboard presenting dual-path adoption signals, campaign efficiency, and stakeholder-ready growth metrics.",
   "tags": [
-    "industries",
-    "edu",
-    "marketers",
-    "dashboard"
+    "EdTech Marketing",
+    "Adoption Analytics",
+    "Campaign Dashboard",
+    "Growth Insights"
   ],
   "category": "other",
   "published": true,

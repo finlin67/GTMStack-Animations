@@ -1,13 +1,12 @@
 {
   "id": "retail-pulse-analytics-tile-v2",
   "title": "Retail Pulse Analytics Tile",
-  "description": "Retail Pulse Analytics Tile — GTMStack animation for industries use cases.",
+  "description": "Retail analytics tile tracking traffic-to-conversion performance, engagement pulse, and revenue trend direction.",
   "tags": [
-    "industries",
-    "retail",
-    "pulse",
-    "analytics",
-    "tile"
+    "Retail Analytics",
+    "Conversion Metrics",
+    "Engagement Pulse",
+    "Revenue Dashboard"
   ],
   "category": "other",
   "published": true,

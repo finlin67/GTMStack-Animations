@@ -1,6 +1,6 @@
 # EventPulse Enterprise Dashboard
 
-This project demonstrates the extraction and conversion of a legacy HTML/CSS/Vanilla JS component into a modern, isolated React component with enhanced animations.
+An EventPulse enterprise tile that highlights event engagement dynamics, performance visibility, and conversion flow.
 
 ## Tech Stack
 *   **React 18+**

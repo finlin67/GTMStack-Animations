@@ -1,13 +1,12 @@
 {
   "id": "sequence-ladder-analytics-tile-v2",
   "title": "Sequence Ladder Analytics Tile",
-  "description": "Sequence Ladder Analytics Tile — GTMStack animation for digital demand use cases.",
+  "description": "Sequence analytics tile that tracks campaign progression from send to conversion through a ladder-style performance view.",
   "tags": [
-    "digital-demand",
-    "sequence",
-    "ladder",
-    "analytics",
-    "tile"
+    "Sequence Analytics",
+    "Conversion Funnel",
+    "Email Performance",
+    "Dashboard Tile"
   ],
   "category": "hero",
   "published": true,

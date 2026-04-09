@@ -1,11 +1,12 @@
 {
   "id": "marketingflow-ai-workflow-v2",
-  "title": "Marketingflow Ai Workflow",
-  "description": "Marketingflow Ai Workflow — GTMStack animation for dashboard tiles use cases.",
+  "title": "MarketingFlow AI Workflow",
+  "description": "Workflow visualization for AI-assisted content operations, from planning through optimization and performance feedback.",
   "tags": [
-    "dashboard-tiles",
-    "marketingflow",
-    "workflow"
+    "AI Workflow",
+    "Content Operations",
+    "Marketing Automation",
+    "Performance Analytics"
   ],
   "category": "card",
   "published": true,

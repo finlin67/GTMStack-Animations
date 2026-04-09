@@ -1,4 +1,10 @@
 # InsightAgency Strategy Dashboard
+<<<<<<< HEAD
+
+An InsightAgency strategy dashboard tile that highlights opportunity planning, expansion signals, and strategic prioritization.
+
+=======
+>>>>>>> 11d54d9527299c40d02b4088a28ef2a33fd33582
 
 A strategy optimization dashboard tile that highlights adoption signals and advocacy readiness.
 

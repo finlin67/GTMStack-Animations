@@ -1,13 +1,12 @@
 {
   "id": "engineering-excellence-workflow-system-v2",
   "title": "Engineering Excellence Workflow System",
-  "description": "Engineering Excellence Workflow System — GTMStack animation for industries use cases.",
+  "description": "Engineering workflow system tile presenting lifecycle execution, system load, and delivery readiness in a compact view.",
   "tags": [
-    "industries",
-    "engineering",
-    "excellence",
-    "workflow",
-    "system"
+    "Engineering Operations",
+    "Workflow System",
+    "Execution Monitoring",
+    "Delivery Readiness"
   ],
   "category": "other",
   "published": true,

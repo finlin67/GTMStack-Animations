@@ -1,6 +1,6 @@
 # ABM Pipeline Strategy Dashboard
 
-A high-fidelity, interactive React component visualizing an Account-Based Marketing (ABM) strategy pipeline. This project demonstrates complex UI animations, real-time data simulation, and a "SaaS Premium" dark-mode aesthetic using Tailwind CSS and Framer Motion.
+An ABM pipeline strategy tile that highlights stage conversion, target account progression, and pipeline momentum.
 
 ## 🧠 Context & Creative Strategy
 

@@ -1,7 +1,7 @@
 
-# Executive Logistics Dashboard Hero Tile
+# Executive Logistics Dashboard
 
-A highly visual, interactive dashboard widget simulating a real-time global supply chain overview. It features a dynamically updating map with moving route packets, pulsing hub nodes, and fluctuating statistics.
+An executive logistics dashboard tile that presents global route activity, throughput signals, and operational efficiency metrics.
 
 ## Features
 

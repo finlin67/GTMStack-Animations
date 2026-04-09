@@ -1,5 +1,7 @@
 # Content Engagement Hero
 
+A content engagement hero tile that surfaces audience interaction, channel response, and campaign lift trends.
+
 ## Description
 The Content Engagement Hero is a highly interactive, standalone React component designed to visualize complex content marketing workflows. It features a striking glassmorphism aesthetic with neon accents, simulating a futuristic command center for managing content distribution across multiple channels like Blog, Social, Email, and Video. The component showcases advanced animation techniques using Framer Motion, including sequential staggered reveals, floating metric cards with organic vertical oscillation, and smooth number counting effects. It serves as a polished "hero" element for SaaS landing pages, demonstrating the potential for rich, data-driven UI experiences in modern web applications.
 

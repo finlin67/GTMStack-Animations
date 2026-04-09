@@ -1,12 +1,12 @@
 {
   "id": "marketingai-intelligence-dashboard-v2",
-  "title": "Marketingai Intelligence Dashboard",
-  "description": "Marketingai Intelligence Dashboard — GTMStack animation for dashboard tiles use cases.",
+  "title": "MarketingAI Intelligence Dashboard",
+  "description": "MarketingAI dashboard visualizing intelligence flows, campaign signals, and optimization outputs in a modern control-tile format.",
   "tags": [
-    "dashboard-tiles",
-    "marketingai",
-    "intelligence",
-    "dashboard"
+    "MarketingAI",
+    "Intelligence Dashboard",
+    "Campaign Analytics",
+    "Data Flow"
   ],
   "category": "card",
   "published": true,

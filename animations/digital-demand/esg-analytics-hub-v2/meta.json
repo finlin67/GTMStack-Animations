@@ -1,12 +1,12 @@
 {
   "id": "esg-analytics-hub-v2",
-  "title": "Esg Analytics Hub",
-  "description": "Esg Analytics Hub — GTMStack animation for digital demand use cases.",
+  "title": "ESG Analytics Hub",
+  "description": "ESG analytics dashboard visualizing sustainability metrics, trend movement, and governance performance signals.",
   "tags": [
-    "digital-demand",
-    "esg",
-    "analytics",
-    "hub"
+    "ESG Analytics",
+    "Sustainability Metrics",
+    "Governance Dashboard",
+    "Data Visualization"
   ],
   "category": "hero",
   "published": true,

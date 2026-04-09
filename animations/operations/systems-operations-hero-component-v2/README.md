@@ -1,6 +1,10 @@
 # Systems Operations Hero Component
 
+<<<<<<< HEAD
+A systems operations hero tile that communicates infrastructure KPI health, service status, and execution stability.
+=======
 A responsive hero component featuring the Systems Operations tile with animated KPIs and integration highlights.
+>>>>>>> 11d54d9527299c40d02b4088a28ef2a33fd33582
 
 ## Description
 

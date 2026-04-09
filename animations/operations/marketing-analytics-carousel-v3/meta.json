@@ -1,12 +1,12 @@
 {
   "id": "marketing-analytics-carousel-v3",
   "title": "Marketing Analytics Carousel",
-  "description": "Marketing Analytics Carousel — GTMStack animation for operations use cases.",
+  "description": "Marketing analytics carousel tile showcasing rotating KPI focus, trend shifts, and real-time campaign context.",
   "tags": [
-    "operations",
-    "marketing",
-    "analytics",
-    "carousel"
+    "Marketing Analytics",
+    "KPI Carousel",
+    "Campaign Trends",
+    "Real-Time Dashboard"
   ],
   "category": "card",
   "published": true,

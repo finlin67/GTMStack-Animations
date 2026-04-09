@@ -1,6 +1,6 @@
 # Industrial ROI Dashboard
 
-A premium, production-ready ROI dashboard designed for industrial manufacturing environments. This application provides high-fidelity visualizations of key performance indicators (KPIs) with a focus on aesthetics, real-time feedback, and executive-level reporting.
+An industrial analytics dashboard tile designed to communicate ROI, efficiency gains, and rollout performance for executive review.
 
 ## 🚀 Key Features
 

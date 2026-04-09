@@ -1,6 +1,10 @@
 # Nexus AI Stakeholder Portal
 
+<<<<<<< HEAD
+A Nexus AI portal tile built for stakeholder visibility across model health, delivery milestones, and operational metrics.
+=======
 A futuristic stakeholder portal tile showing AI deployment KPIs, milestones, and collaboration signals.
+>>>>>>> 11d54d9527299c40d02b4088a28ef2a33fd33582
 
 ## Description
 

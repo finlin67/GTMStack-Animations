@@ -1,11 +1,12 @@
 {
   "id": "abm-network-dashboard-v2",
-  "title": "Abm Network Dashboard",
-  "description": "Abm Network Dashboard — GTMStack animation for abm use cases.",
+  "title": "ABM Network Dashboard",
+  "description": "Interactive ABM network dashboard showing relationships between accounts, channels, and engagement signals in real time.",
   "tags": [
-    "abm",
-    "network",
-    "dashboard"
+    "ABM",
+    "Network Visualization",
+    "Engagement Analytics",
+    "Dashboard"
   ],
   "category": "card",
   "published": true,

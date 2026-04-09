@@ -1,6 +1,6 @@
-# EventPulse Enterprise Dashboard
+# Event Pulse Enterprise Dashboard
 
-A high-fidelity marketing analytics dashboard featuring a complex, animated SVG visualization for the "Event Impact" pipeline.
+An enterprise event dashboard tile built to visualize event funnel progression, audience momentum, and campaign impact.
 
 ## Description
 

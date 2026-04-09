@@ -1,13 +1,12 @@
 {
   "id": "video-marketing-analytics-dashboard-v2",
   "title": "Video Marketing Analytics Dashboard",
-  "description": "Video Marketing Analytics Dashboard — GTMStack animation for digital demand use cases.",
+  "description": "Video analytics dashboard tracking engagement, retention, and campaign lift for marketing performance teams.",
   "tags": [
-    "digital-demand",
-    "video",
-    "marketing",
-    "analytics",
-    "dashboard"
+    "Video Analytics",
+    "Engagement Metrics",
+    "Retention Dashboard",
+    "Marketing Performance"
   ],
   "category": "hero",
   "published": true,

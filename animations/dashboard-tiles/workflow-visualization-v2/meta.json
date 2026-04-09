@@ -1,11 +1,12 @@
 {
   "id": "workflow-visualization-v2",
   "title": "Workflow Visualization",
-  "description": "Workflow Visualization — GTMStack animation for dashboard tiles use cases.",
+  "description": "Workflow visualization tile focused on stage progression, process health, and execution continuity.",
   "tags": [
-    "dashboard-tiles",
-    "workflow",
-    "visualization"
+    "Workflow Analytics",
+    "Process Visualization",
+    "Execution Monitoring",
+    "Dashboard Tile"
   ],
   "category": "card",
   "published": true,

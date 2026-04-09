@@ -1,8 +1,13 @@
 {
   "id": "growth-ai-animation",
   "title": "Growth AI Animation",
-  "description": "Animated AI-themed growth hero component exposed through the canonical content model.",
-  "tags": ["ai", "growth", "hero"],
+  "description": "AI growth hero animation tile highlighting performance acceleration, engagement movement, and strategic momentum.",
+  "tags": [
+    "AI Growth",
+    "Hero Animation",
+    "Engagement Trends",
+    "Performance Signals"
+  ],
   "category": "hero",
   "published": true,
   "featured": true,

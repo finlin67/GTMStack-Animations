@@ -1,12 +1,12 @@
 {
   "id": "nexus-ai-stakeholder-portal-v2",
-  "title": "Nexus Ai Stakeholder Portal",
-  "description": "Nexus Ai Stakeholder Portal — GTMStack animation for digital demand use cases.",
+  "title": "Nexus AI Stakeholder Portal",
+  "description": "AI stakeholder portal dashboard showing deployment health, model performance, and cross-team milestone visibility.",
   "tags": [
-    "digital-demand",
-    "nexus",
-    "stakeholder",
-    "portal"
+    "AI Dashboard",
+    "Stakeholder Reporting",
+    "Model Performance",
+    "Operations Visibility"
   ],
   "category": "hero",
   "published": true,

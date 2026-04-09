@@ -1,6 +1,6 @@
-# WellV3 Landing Page & Health Journey Tile
+# WellV3 Landing Page Health Journey Tile
 
-A modern, high-fidelity conversion of a medical SaaS landing page, featuring a dedicated, interactive "Health Journey" visualization component.
+A WellV3 health journey tile that presents patient progression, wellness milestones, and care engagement signals.
 
 ## Description
 This project demonstrates the extraction of a complex UI widget from a static HTML/Tailwind design into a fully functional React component. The `HealthCareTile` features smooth Framer Motion animations, interactive step selection, and simulated real-time data updates (heart rate). The main application wraps this tile in a responsive, production-ready landing page layout.

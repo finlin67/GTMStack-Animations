@@ -1,5 +1,7 @@
 # GrowthCore Component Extraction
 
+A reusable GrowthCore component tile that visualizes retention trends, engagement movement, and growth metrics in a polished layout.
+
 ## Description
 This project is a faithful React + Tailwind migration of the GrowthCore SaaS landing page, featuring a complex extracted component: `CustomerMarketingTile`. The `CustomerMarketingTile` is a 600x600 animated data visualization module that demonstrates net retention, user avatars, and growth metrics with entrance animations. It simulates a "production-ready" dashboard element found in modern enterprise SaaS applications.
 

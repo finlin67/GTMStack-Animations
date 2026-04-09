@@ -1,6 +1,10 @@
 # Sequence Ladder Analytics Tile
 
+<<<<<<< HEAD
+A sequence ladder analytics tile that visualizes campaign progression, conversion efficiency, and end-to-end funnel performance.
+=======
 A ladder-style analytics tile that visualizes sequence performance and conversion momentum.
+>>>>>>> 11d54d9527299c40d02b4088a28ef2a33fd33582
 
 ## Context & Creative Strategy
 

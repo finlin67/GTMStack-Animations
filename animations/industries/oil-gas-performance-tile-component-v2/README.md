@@ -1,5 +1,7 @@
 # Oil & Gas Performance Tile Component
 
+An oil and gas performance tile that communicates efficiency shifts, cost dynamics, and production yield signals.
+
 ## Description
 This project features a high-fidelity, animated React component (`OilGasTile.tsx`) extracted from an executive dashboard design. It visualizes key performance metrics (Efficiency Delta, Cost Alpha, Net Yield) using an orbiting node layout. The component utilizes Framer Motion to provide organic floating animations, pulsing effects, and SVG path drawing sequences, serving as a visually engaging centerpiece for data-heavy applications.
 

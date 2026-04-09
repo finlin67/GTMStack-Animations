@@ -1,12 +1,12 @@
 {
   "id": "insightagency-strategy-dashboard-v2",
-  "title": "Insightagency Strategy Dashboard",
-  "description": "Insightagency Strategy Dashboard — GTMStack animation for dashboard tiles use cases.",
+  "title": "InsightAgency Strategy Dashboard",
+  "description": "Strategy dashboard focused on account expansion signals, planning workflows, and opportunity prioritization.",
   "tags": [
-    "dashboard-tiles",
-    "insightagency",
-    "strategy",
-    "dashboard"
+    "Strategy Analytics",
+    "Opportunity Planning",
+    "Account Expansion",
+    "Dashboard"
   ],
   "category": "card",
   "published": true,

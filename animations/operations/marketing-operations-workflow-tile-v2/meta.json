@@ -1,12 +1,12 @@
 {
   "id": "marketing-operations-workflow-tile-v2",
   "title": "Marketing Operations Workflow Tile",
-  "description": "Marketing Operations Workflow Tile — GTMStack animation for operations use cases.",
+  "description": "Marketing operations tile visualizing process handoffs, system alignment, and throughput performance across workflow stages.",
   "tags": [
-    "operations",
-    "marketing",
-    "workflow",
-    "tile"
+    "Marketing Operations",
+    "Workflow Management",
+    "Process Analytics",
+    "Throughput Monitoring"
   ],
   "category": "card",
   "published": true,

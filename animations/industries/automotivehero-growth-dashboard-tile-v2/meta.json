@@ -1,13 +1,12 @@
 {
   "id": "automotivehero-growth-dashboard-tile-v2",
-  "title": "Automotivehero Growth Dashboard Tile",
-  "description": "Automotivehero Growth Dashboard Tile — GTMStack animation for industries use cases.",
+  "title": "AutomotiveHero Growth Dashboard Tile",
+  "description": "Growth dashboard tile for automotive teams showing lead movement, journey progression, and conversion momentum.",
   "tags": [
-    "industries",
-    "automotivehero",
-    "growth",
-    "dashboard",
-    "tile"
+    "Automotive Growth",
+    "Lead Journey",
+    "Conversion Analytics",
+    "Dashboard Tile"
   ],
   "category": "hero",
   "published": true,

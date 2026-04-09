@@ -1,6 +1,6 @@
 # GTMStack Industry Template
 
-A dynamic, high-performance landing page template designed for GTM (Go-To-Market) strategy consulting. Built with React, TypeScript, Tailwind CSS, and Framer Motion.
+A GTMStack industry template tile designed for strategy presentation, service mapping, and operational planning.
 
 ## 🎨 Design System & Color Palette
 

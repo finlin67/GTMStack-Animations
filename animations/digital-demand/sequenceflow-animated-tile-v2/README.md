@@ -1,4 +1,6 @@
-# SequenceFlow Dashboard
+# SequenceFlow Animated Tile
+
+A SequenceFlow animated tile that presents outreach stages, engagement motion, and performance outcomes in a compact format.
 
 ## 🧠 Context & Creative Strategy
 The SequenceFlow Dashboard is designed as a high-fidelity visual tool for email marketers to track the performance of their automated sequences. The "Ladder" visualization provides a vertical narrative of a campaign's journey, from the initial "Sent" event down to the final "ROAS" calculation. The strategy focuses on using **glassmorphism** and **gradient kinetic energy** to transform dry statistics into a compelling visual story.

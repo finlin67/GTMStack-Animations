@@ -1,4 +1,6 @@
-# FinServTile: Interactive Financial Data Visualization
+# FinServTile Interactive Financial Data Visualization
+
+A FinServTile dashboard component that presents portfolio metrics, growth indicators, and interactive financial signal mapping.
 
 ## 🧠 Context & Creative Strategy
 This project is a high-fidelity UI component representing a dashboard for a financial services or fintech platform. The creative strategy is to move beyond static, boring charts and tables by creating a "living" interface that feels dynamic and responsive. By using animation and a spatial, 3D-like layout, we make data exploration more intuitive and engaging, turning a mundane dashboard into a premium user experience.

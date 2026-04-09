@@ -1,12 +1,12 @@
 {
   "id": "manufacturing-agency-dashboard-v2",
   "title": "Manufacturing Agency Dashboard",
-  "description": "Manufacturing Agency Dashboard — GTMStack animation for industries use cases.",
+  "description": "Manufacturing dashboard tile for agency reporting on lifecycle efficiency, yield movement, and process impact.",
   "tags": [
-    "industries",
-    "manufacturing",
-    "agency",
-    "dashboard"
+    "Manufacturing Analytics",
+    "Lifecycle Dashboard",
+    "Yield Monitoring",
+    "Agency Reporting"
   ],
   "category": "other",
   "published": true,

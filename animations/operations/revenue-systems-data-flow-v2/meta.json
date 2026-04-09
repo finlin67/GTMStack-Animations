@@ -1,13 +1,12 @@
 {
   "id": "revenue-systems-data-flow-v2",
   "title": "Revenue Systems Data Flow",
-  "description": "Revenue Systems Data Flow — GTMStack animation for operations use cases.",
+  "description": "Revenue systems dashboard tile mapping data flow, pipeline health, and operational performance indicators.",
   "tags": [
-    "operations",
-    "revenue",
-    "systems",
-    "data",
-    "flow"
+    "Revenue Analytics",
+    "Data Flow",
+    "Pipeline Health",
+    "Operations Dashboard"
   ],
   "category": "card",
   "published": true,

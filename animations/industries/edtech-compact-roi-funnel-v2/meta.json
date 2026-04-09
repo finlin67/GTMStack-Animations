@@ -1,13 +1,12 @@
 {
   "id": "edtech-compact-roi-funnel-v2",
-  "title": "Edtech Compact Roi Funnel",
-  "description": "Edtech Compact Roi Funnel — GTMStack animation for industries use cases.",
+  "title": "EdTech Compact ROI Funnel",
+  "description": "Compact EdTech ROI funnel visualizing learner acquisition stages, efficiency metrics, and enrollment conversion impact.",
   "tags": [
-    "industries",
-    "edtech",
-    "compact",
-    "roi",
-    "funnel"
+    "EdTech Analytics",
+    "ROI Funnel",
+    "Enrollment Conversion",
+    "Marketing Performance"
   ],
   "category": "other",
   "published": true,

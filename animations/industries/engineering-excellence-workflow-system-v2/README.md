@@ -1,6 +1,6 @@
-# Engineering Excellence Workflow Tile
+# Engineering Excellence Workflow System
 
-A high-fidelity 36-month engineering workflow visualization designed for aerospace and manufacturing systems, optimized as a responsive Hero Tile.
+An engineering workflow tile focused on lifecycle execution, system status, and delivery readiness for technical teams.
 
 ## Component Overview
 

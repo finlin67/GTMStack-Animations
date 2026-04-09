@@ -1,6 +1,6 @@
 # Event ROI Analytics Dashboard
 
-A high-fidelity, standalone React component visualizing event marketing performance, registration funnels, and ROAS. This project extracts a complex HTML/Tailwind widget into a reusable React component featuring smooth Framer Motion entrance animations for data visualization elements.
+An event analytics dashboard focused on funnel performance, ROI movement, and campaign efficiency across channels.
 
 ## Tech Stack
 *   **React 18+**

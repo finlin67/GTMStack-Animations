@@ -1,6 +1,6 @@
-# RetailTech Command Center
+# DriftGuard AI Monitor
 
-A high-fidelity, cybernetic retail analytics dashboard designed for the next generation of digital commerce monitoring. This application features a futuristic "Cyber Command" aesthetic with real-time data visualization, interactive controls, and responsive motion effects.
+A DriftGuard monitoring tile that surfaces drift risk, model performance stability, and operational alert signals in real time.
 
 ## 🚀 Features
 

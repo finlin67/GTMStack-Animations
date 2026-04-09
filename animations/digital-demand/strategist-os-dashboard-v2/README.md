@@ -1,6 +1,6 @@
 # Strategist OS Dashboard
 
-A high-fidelity, cyberpunk-styled content strategist dashboard built with React, Tailwind CSS, and Framer Motion. This application simulates a futuristic "Strategist Operating System" featuring real-time metrics, lifecycle pipelines, and engagement analytics, all wrapped in a sleek glassmorphism aesthetic.
+A Strategist OS dashboard tile that surfaces lifecycle progress, execution velocity, and multi-channel performance at a glance.
 
 ## Features
 

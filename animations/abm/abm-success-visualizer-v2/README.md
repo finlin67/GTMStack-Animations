@@ -1,6 +1,6 @@
-# ABM Success Viz Component
+# ABM Success Visualizer
 
-A high-fidelity, animated React component visualizing Account-Based Marketing (ABM) success metrics. This standalone tile features a premium dark UI with gold accents, smooth entrance animations, and counting number effects, perfectly replicating the "Elite Enterprise" dashboard aesthetic.
+An ABM success visualizer tile that presents account outcomes, campaign impact, and growth signal movement.
 
 ## Tech Stack
 - **React 18+**: Component architecture.

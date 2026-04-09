@@ -1,8 +1,7 @@
 # Retail Pulse Analytics Tile
-<h1 align="center">Retail Pulse Analytics Tile</h1>
 
 
-This project features a high-fidelity recreation of the "RetailTile" from the RetailPulse landing page, extracted into a standalone, production-ready React component. The tile visualizes retail analytics data (Store Visits, Conversions, Revenue) with organic "live" jitter animations and floating elements.
+A retail pulse analytics tile designed to show traffic, conversion behavior, and revenue trend direction.
 
 ## Tech Stack
 - **React 18+**: Component architecture and state management.

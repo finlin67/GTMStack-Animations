@@ -1,12 +1,12 @@
 {
   "id": "agency-impact-dashboard-v2",
   "title": "Agency Impact Dashboard",
-  "description": "Agency Impact Dashboard — GTMStack animation for events media use cases.",
+  "description": "Agency impact dashboard visualizing supporter engagement, growth momentum, and measurable program outcomes.",
   "tags": [
-    "events-media",
-    "agency",
-    "impact",
-    "dashboard"
+    "Agency Analytics",
+    "Impact Reporting",
+    "Engagement Lifecycle",
+    "Dashboard"
   ],
   "category": "card",
   "published": true,

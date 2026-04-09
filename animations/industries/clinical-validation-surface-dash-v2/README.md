@@ -1,4 +1,6 @@
-# Clinical Validation Surface Dash
+# Clinical Validation Surface Dashboard
+
+A clinical validation surface dashboard tile that highlights protocol status, compliance progression, and quality signals.
 
 ## Description
 A premium clinical validation dashboard featuring a "High-Fidelity Surface" approach. It dynamically selects between a Professional Light (Warm Vanilla) or Modern Deep (Navy) theme on load, utilizing surface elevation, glassmorphism, and a curated accent palette of Deep Blue, Sunset Orange, and Gold.

@@ -1,6 +1,10 @@
 # Sales Enablement Hero Animated Tile
 
+<<<<<<< HEAD
+A sales enablement hero tile that visualizes productivity gains, win-rate lift, and cycle-time improvements.
+=======
 An animated sales enablement hero tile highlighting win-rate lift, cycle time, and pipeline velocity.
+>>>>>>> 11d54d9527299c40d02b4088a28ef2a33fd33582
 
 ## Description
 

@@ -1,6 +1,6 @@
-# Product Growth Hero - Animated Tile Component
+# Product Growth Hero
 
-### 🧠 Context & Creative Strategy
+A product growth hero tile that combines activation, expansion, and retention insights for executive-level storytelling.
 This project is an exploration of creating a single, high-fidelity "hero" component that visualizes a conceptual SaaS product growth engine. The creative strategy is to distill complex business metrics (like retention, expansion, and network effects) into a beautiful, glanceable, and dynamic animation. It's designed to be the visual centerpiece of a dashboard or landing page, communicating product health and momentum in a compelling way.
 
 ### 🎯 Purpose & Value Proposition

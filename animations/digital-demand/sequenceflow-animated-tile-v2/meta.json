@@ -1,12 +1,12 @@
 {
   "id": "sequenceflow-animated-tile-v2",
-  "title": "Sequenceflow Animated Tile",
-  "description": "Sequenceflow Animated Tile — GTMStack animation for digital demand use cases.",
+  "title": "SequenceFlow Animated Tile",
+  "description": "Animated sequence dashboard that visualizes outreach stages, engagement movement, and return-on-channel performance.",
   "tags": [
-    "digital-demand",
-    "sequenceflow",
-    "animated",
-    "tile"
+    "SequenceFlow",
+    "Email Automation",
+    "Engagement Analytics",
+    "Animated Dashboard"
   ],
   "category": "hero",
   "published": true,

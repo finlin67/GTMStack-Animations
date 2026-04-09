@@ -1,12 +1,12 @@
 {
   "id": "cyberagency-lifecycle-engine-v2",
-  "title": "Cyberagency Lifecycle Engine",
-  "description": "Cyberagency Lifecycle Engine — GTMStack animation for industries use cases.",
+  "title": "CyberAgency Lifecycle Engine",
+  "description": "Security lifecycle engine dashboard showing audit progress, remediation flow, and deployment readiness signals.",
   "tags": [
-    "industries",
-    "cyberagency",
-    "lifecycle",
-    "engine"
+    "Cybersecurity Analytics",
+    "Lifecycle Engine",
+    "Risk Monitoring",
+    "Operations Dashboard"
   ],
   "category": "other",
   "published": true,

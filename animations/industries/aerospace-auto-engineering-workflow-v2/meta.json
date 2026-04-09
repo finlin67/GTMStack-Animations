@@ -1,13 +1,12 @@
 {
   "id": "aerospace-auto-engineering-workflow-v2",
   "title": "Aerospace Auto Engineering Workflow",
-  "description": "Aerospace Auto Engineering Workflow — GTMStack animation for industries use cases.",
+  "description": "Engineering workflow dashboard for aerospace and automotive programs, visualizing qualification stages, risk, and delivery readiness.",
   "tags": [
-    "industries",
-    "aerospace",
-    "auto",
-    "engineering",
-    "workflow"
+    "Engineering Workflow",
+    "Aerospace",
+    "Automotive",
+    "Program Analytics"
   ],
   "category": "other",
   "published": true,

@@ -1,6 +1,6 @@
 # Lifecycle Engine Dashboard
 
-A high-density, futuristic React dashboard designed to visualize user lifecycle metrics, system performance, and live engagement feeds. This project demonstrates complex UI composition, real-time data simulation ("organic jitter"), and smooth animations using Framer Motion.
+A lifecycle engine dashboard tile that visualizes user-stage movement, retention patterns, and telemetry trends.
 
 ## 🚀 Features
 

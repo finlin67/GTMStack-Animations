@@ -1,12 +1,12 @@
 {
   "id": "lifecycle-engine-dashboard-v2",
   "title": "Lifecycle Engine Dashboard",
-  "description": "Lifecycle Engine Dashboard — GTMStack animation for dashboard tiles use cases.",
+  "description": "Lifecycle engine dashboard showing user-stage movement, retention dynamics, and live performance telemetry.",
   "tags": [
-    "dashboard-tiles",
-    "lifecycle",
-    "engine",
-    "dashboard"
+    "Lifecycle Analytics",
+    "Retention Dashboard",
+    "Performance Telemetry",
+    "User Journey"
   ],
   "category": "card",
   "published": true,

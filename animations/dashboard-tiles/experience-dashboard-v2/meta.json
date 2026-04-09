@@ -1,11 +1,12 @@
 {
   "id": "experience-dashboard-v2",
   "title": "Experience Dashboard",
-  "description": "Experience Dashboard — GTMStack animation for dashboard tiles use cases.",
+  "description": "Experience-focused dashboard tile visualizing growth signals, conversion movement, and channel performance for demand teams.",
   "tags": [
-    "dashboard-tiles",
-    "experience",
-    "dashboard"
+    "Experience Analytics",
+    "Growth Dashboard",
+    "Conversion Tracking",
+    "Demand Generation"
   ],
   "category": "card",
   "published": true,

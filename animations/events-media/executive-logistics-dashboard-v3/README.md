@@ -1,6 +1,6 @@
 # Executive Logistics Dashboard
 
-A high-fidelity, interactive logistics dashboard featuring real-time node simulation, advanced route filtering, and persistent data visualization using a 'Modern Deep' surface design.
+An executive logistics monitoring tile focused on route reliability, node health, and real-time distribution performance.
 
 ### Tech Stack
 * **React 19** for UI and state management.

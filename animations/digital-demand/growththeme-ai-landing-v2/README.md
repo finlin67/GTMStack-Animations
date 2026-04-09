@@ -1,6 +1,6 @@
 # GrowthTheme AI Landing
 
-🧠 **Context & Creative Strategy**
+A GrowthTheme AI landing hero tile that communicates connected growth signals, platform intelligence, and conversion performance.
 The GrowthTheme project is envisioned as a high-conversion, "premium dark" SaaS landing page. The creative strategy centers around the concept of a "Growth Engine"—visualizing complex AI data processing as an organic, living network of information. By using floating nodes and dynamic SVG paths, the UI communicates real-time intelligence and connectivity.
 
 🎯 **Purpose & Value Proposition**

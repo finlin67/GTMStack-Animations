@@ -1,12 +1,12 @@
 {
   "id": "growthcore-component-extraction-v2",
-  "title": "Growthcore Component Extraction",
-  "description": "Growthcore Component Extraction — GTMStack animation for digital demand use cases.",
+  "title": "GrowthCore Component Extraction",
+  "description": "Extracted GrowthCore visualization component presenting retention, engagement, and growth performance in a reusable hero module.",
   "tags": [
-    "digital-demand",
-    "growthcore",
-    "component",
-    "extraction"
+    "GrowthCore",
+    "Component Library",
+    "Retention Analytics",
+    "Hero Module"
   ],
   "category": "hero",
   "published": true,

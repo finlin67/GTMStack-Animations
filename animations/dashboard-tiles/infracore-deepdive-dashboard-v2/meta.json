@@ -1,12 +1,12 @@
 {
   "id": "infracore-deepdive-dashboard-v2",
-  "title": "Infracore Deepdive Dashboard",
-  "description": "Infracore Deepdive Dashboard — GTMStack animation for dashboard tiles use cases.",
+  "title": "InfraCore DeepDive Dashboard",
+  "description": "Infrastructure analytics dashboard that visualizes service health, system reliability, and operational status with animated signal cues.",
   "tags": [
-    "dashboard-tiles",
-    "infracore",
-    "deepdive",
-    "dashboard"
+    "Infrastructure Monitoring",
+    "Service Health",
+    "Operations Dashboard",
+    "Data Visualization"
   ],
   "category": "card",
   "published": true,

@@ -1,14 +1,12 @@
 {
   "id": "oil-gas-performance-tile-component-v2",
-  "title": "Oil Gas Performance Tile Component",
-  "description": "Oil Gas Performance Tile Component — GTMStack animation for industries use cases.",
+  "title": "Oil & Gas Performance Tile Component",
+  "description": "Oil and gas performance tile tracking operational efficiency, cost dynamics, and yield performance indicators.",
   "tags": [
-    "industries",
-    "oil",
-    "gas",
-    "performance",
-    "tile",
-    "component"
+    "Oil & Gas Analytics",
+    "Operational Efficiency",
+    "Yield Dashboard",
+    "Cost Performance"
   ],
   "category": "other",
   "published": true,

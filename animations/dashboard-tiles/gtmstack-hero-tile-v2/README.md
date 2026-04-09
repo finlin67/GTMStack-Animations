@@ -1,5 +1,7 @@
 # GTMStack Hero Tile
 
+A GTMStack hero tile that visualizes workflow alignment and progression toward a unified operating model.
+
 ## Description
 This project features a high-fidelity, animated 600x600 hero tile designed for GTMStack, a consulting brand. The animation visualizes a three-phase journey: "Chaos" (scattered elements), "Routes" (connecting pathways representing integration), and "Stack" (an organized, vertically aligned technology stack). It serves as a visual metaphor for turning operational complexity into clarity and alignment.
 

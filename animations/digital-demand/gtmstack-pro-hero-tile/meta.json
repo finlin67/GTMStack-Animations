@@ -1,13 +1,12 @@
 {
   "id": "gtmstack-pro-hero-tile",
-  "title": "Gtmstack Pro Hero Tile",
-  "description": "Gtmstack Pro Hero Tile — GTMStack animation for digital demand use cases.",
+  "title": "GTMStack Pro Hero Tile",
+  "description": "Premium GTMStack hero tile illustrating operational alignment from fragmented workflows to a unified go-to-market system.",
   "tags": [
-    "digital-demand",
-    "gtmstack",
-    "pro",
-    "hero",
-    "tile"
+    "GTMStack",
+    "Go-To-Market",
+    "Workflow Alignment",
+    "Hero Tile"
   ],
   "category": "hero",
   "published": true,

@@ -1,14 +1,12 @@
 {
   "id": "gtm-product-strategy-audience-tile-v2",
-  "title": "Gtm Product Strategy Audience Tile",
-  "description": "Gtm Product Strategy Audience Tile — GTMStack animation for digital demand use cases.",
+  "title": "GTM Product Strategy Audience Tile",
+  "description": "Product strategy tile focused on GTM audience mapping, messaging structure, and market-positioning signals.",
   "tags": [
-    "digital-demand",
-    "gtm",
-    "product",
-    "strategy",
-    "audience",
-    "tile"
+    "GTM Product Strategy",
+    "Audience Mapping",
+    "Messaging Framework",
+    "Dashboard Tile"
   ],
   "category": "hero",
   "published": true,

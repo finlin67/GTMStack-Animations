@@ -1,7 +1,7 @@
 
-# ESG Analytics Hub - Hero Tile
+# ESG Analytics Hub
 
-A high-performance, single-file React component designed for AI Studio. This dashboard visualizes real-time environmental, social, and governance (ESG) metrics with a premium glassmorphism aesthetic.
+An ESG analytics hub tile built to present environmental, social, and governance performance in a concise executive format.
 
 ## Features
 

@@ -1,12 +1,12 @@
 {
   "id": "energyflow-minimal-dashboard-v2",
-  "title": "Energyflow Minimal Dashboard",
-  "description": "Energyflow Minimal Dashboard — GTMStack animation for industries use cases.",
+  "title": "EnergyFlow Minimal Dashboard",
+  "description": "Minimal energy operations dashboard visualizing asset health, workflow status, and efficiency performance signals.",
   "tags": [
-    "industries",
-    "energyflow",
-    "minimal",
-    "dashboard"
+    "Energy Analytics",
+    "Operations Dashboard",
+    "Asset Monitoring",
+    "Efficiency Tracking"
   ],
   "category": "other",
   "published": true,

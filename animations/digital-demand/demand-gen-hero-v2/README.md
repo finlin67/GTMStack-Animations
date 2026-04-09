@@ -1,5 +1,7 @@
 # Demand Gen Hero
 
+A demand gen hero tile that highlights funnel progression, conversion behavior, and pipeline acceleration signals.
+
 ## Description
 Demand Gen Hero is a high-fidelity, interactive React component that visualizes a marketing demand generation funnel. It uses an isometric design to track the flow of potential customers through Awareness, Interest, Decision, and Action stages, brought to life with animated particle systems simulating lead velocity. The dashboard displays real-time simulated data for critical metrics including Impressions, Cost Per Lead (CPL), Customer Acquisition Cost (CAC), and conversion rates between funnel stages. It serves as a powerful UI prototype for enterprise analytics dashboards.
 

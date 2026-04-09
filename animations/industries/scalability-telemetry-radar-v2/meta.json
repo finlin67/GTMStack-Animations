@@ -1,12 +1,12 @@
 {
   "id": "scalability-telemetry-radar-v2",
   "title": "Scalability Telemetry Radar",
-  "description": "Scalability Telemetry Radar — GTMStack animation for industries use cases.",
+  "description": "Scalability radar dashboard visualizing latency patterns, asset growth, and live telemetry performance trends.",
   "tags": [
-    "industries",
-    "scalability",
-    "telemetry",
-    "radar"
+    "Scalability Analytics",
+    "Telemetry Radar",
+    "Latency Monitoring",
+    "Performance Dashboard"
   ],
   "category": "other",
   "published": true,

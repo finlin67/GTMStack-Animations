@@ -1,13 +1,12 @@
 {
   "id": "clinical-holographic-control-surface-v2",
   "title": "Clinical Holographic Control Surface",
-  "description": "Clinical Holographic Control Surface — GTMStack animation for industries use cases.",
+  "description": "Clinical control-surface dashboard visualizing care-system telemetry, validation status, and operational readiness signals.",
   "tags": [
-    "industries",
-    "clinical",
-    "holographic",
-    "control",
-    "surface"
+    "Clinical Analytics",
+    "Control Surface",
+    "Telemetry Dashboard",
+    "Operational Readiness"
   ],
   "category": "other",
   "published": true,

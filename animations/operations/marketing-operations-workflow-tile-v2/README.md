@@ -1,5 +1,7 @@
 
-# OpsFlow Marketing Tile
+# Marketing Operations Workflow Tile
+
+A marketing operations workflow tile that highlights process handoffs, system alignment, and throughput performance.
 
 A 600x600 animated tile visualizing marketing operations workflows, governance, and throughput KPIs.
 

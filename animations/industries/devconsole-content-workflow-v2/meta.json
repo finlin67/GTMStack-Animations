@@ -1,12 +1,12 @@
 {
   "id": "devconsole-content-workflow-v2",
-  "title": "Devconsole Content Workflow",
-  "description": "Devconsole Content Workflow — GTMStack animation for industries use cases.",
+  "title": "DevConsole Content Workflow",
+  "description": "Developer-style content workflow console tracking production stages, telemetry health, and optimization guidance.",
   "tags": [
-    "industries",
-    "devconsole",
-    "content",
-    "workflow"
+    "Content Workflow",
+    "Developer Console",
+    "Telemetry Dashboard",
+    "Operations"
   ],
   "category": "other",
   "published": true,

@@ -1,5 +1,7 @@
 # AutomotiveHero Growth Dashboard Tile
 
+An automotive growth tile that visualizes lead progression, conversion momentum, and pipeline direction across the journey.
+
 ## Description
 This project features a high-fidelity **1:1 Dashboard Tile** extracted from the AutomotiveHero interface. It uses a "Cockpit" layout strategy to present complex lead journey data in a 600x600px square frame.
 

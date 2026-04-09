@@ -1,12 +1,12 @@
 {
   "id": "fleet-roi-calculator-v2",
-  "title": "Fleet Roi Calculator",
-  "description": "Fleet Roi Calculator — GTMStack animation for industries use cases.",
+  "title": "Fleet ROI Calculator",
+  "description": "Fleet ROI calculator tile that models savings impact, operational efficiency, and performance gains from scenario inputs.",
   "tags": [
-    "industries",
-    "fleet",
-    "roi",
-    "calculator"
+    "Fleet Analytics",
+    "ROI Calculator",
+    "Operational Efficiency",
+    "Savings Modeling"
   ],
   "category": "other",
   "published": true,

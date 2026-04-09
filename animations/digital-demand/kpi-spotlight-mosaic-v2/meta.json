@@ -1,12 +1,12 @@
 {
   "id": "kpi-spotlight-mosaic-v2",
-  "title": "Kpi Spotlight Mosaic",
-  "description": "Kpi Spotlight Mosaic — GTMStack animation for digital demand use cases.",
+  "title": "KPI Spotlight Mosaic",
+  "description": "Animated KPI mosaic that surfaces core performance metrics, trend movement, and system status in a single hero view.",
   "tags": [
-    "digital-demand",
-    "kpi",
-    "spotlight",
-    "mosaic"
+    "KPI",
+    "Performance Analytics",
+    "Dashboard",
+    "Mosaic"
   ],
   "category": "hero",
   "published": true,

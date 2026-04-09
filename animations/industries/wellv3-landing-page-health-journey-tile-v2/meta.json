@@ -1,15 +1,12 @@
 {
   "id": "wellv3-landing-page-health-journey-tile-v2",
-  "title": "Wellv3 Landing Page Health Journey Tile",
-  "description": "Wellv3 Landing Page Health Journey Tile — GTMStack animation for industries use cases.",
+  "title": "WellV3 Landing Page Health Journey Tile",
+  "description": "Health journey tile for WellV3 visualizing patient progression, wellness milestones, and care engagement metrics.",
   "tags": [
-    "industries",
-    "wellv3",
-    "landing",
-    "page",
-    "health",
-    "journey",
-    "tile"
+    "Health Journey",
+    "Wellness Analytics",
+    "Patient Progression",
+    "Care Engagement"
   ],
   "category": "other",
   "published": true,

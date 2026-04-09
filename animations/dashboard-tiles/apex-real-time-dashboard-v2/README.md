@@ -1,4 +1,6 @@
-# Apex Real-Time Dashboard (Experiment Engine v2.0)
+# Apex Real-Time Dashboard
+
+A high-fidelity real-time dashboard tile for tracking experiment velocity, campaign performance, and efficiency trends at a glance.
 
 ## 🧠 Context & Creative Strategy
 The Apex Dashboard bridges the gap between high-velocity performance data and executive-level clarity. Designed for real-time visualization, it uses mock organic jitter and socket state simulations to demonstrate how a live marketing environment behaves under active optimization.

@@ -1,6 +1,6 @@
 # Video Marketing Analytics Dashboard
 
-A premium SaaS-style video engagement dashboard built with React, Framer Motion, and Tailwind CSS. This application simulates a high-end analytics platform for content creators and marketers, featuring real-time data visualization and interactive elements.
+A video marketing analytics tile built to visualize engagement quality, retention behavior, and campaign performance trends.
 
 ## Features
 

@@ -1,4 +1,6 @@
-# ABM Network Dashboard v2
+# ABM Network Dashboard
+
+An interactive ABM network dashboard that maps touchpoints, engagement pathways, and pipeline signals for high-level campaign oversight.
 
 ## Description
 A real-time account-based marketing network topology and engagement dashboard featuring interactive data visualization. This application visualizes complex marketing data in a high-fidelity, compact interface.

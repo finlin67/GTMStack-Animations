@@ -1,13 +1,12 @@
 {
   "id": "utilities-command-center-tile-v2",
   "title": "Utilities Command Center Tile",
-  "description": "Utilities Command Center Tile — GTMStack animation for industries use cases.",
+  "description": "Utilities command center tile showing grid stability, operational load, and critical infrastructure health status.",
   "tags": [
-    "industries",
-    "utilities",
-    "command",
-    "center",
-    "tile"
+    "Utilities Analytics",
+    "Grid Stability",
+    "Command Center",
+    "Infrastructure Health"
   ],
   "category": "other",
   "published": true,

@@ -1,6 +1,6 @@
-# NonProfitHero - Impact Visualization
+# NonProfitHero Impact Visualization
 
-This project features a high-fidelity recreation of the NonProfitHero landing page with a specialized, animated React component for the "Global Impact" data visualization.
+A NonProfitHero impact tile designed to visualize donor journey flow, engagement depth, and measurable outcome momentum.
 
 ## Description
 The core focus is the `<NGOSDOTile />` component. This component visualizes the "Donor Journey" using a circular loop concept. It utilizes SVG for precision drawing and Framer Motion for organic animations (drawing path arcs, pulsing indicators, and floating cards). The tile is fully responsive and self-contained.

@@ -1,6 +1,6 @@
 # PowerGrid Digital Modernization Dashboard
 
-A high-fidelity industrial interface optimized for real-time monitoring of power grid infrastructure investments and ESG metrics.
+A PowerGrid modernization tile built to present capital progress, reliability uplift, and lifecycle execution signals.
 
 ### Key Features
 - **Hero Tile Optimization**: Designed specifically for 600x600 square viewports with adaptive font scaling and grid refactoring.

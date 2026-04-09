@@ -1,7 +1,7 @@
 
 # Enterprise Sales Motion Dashboard
 
-A premium SaaS sales lifecycle management interface designed for high-touch enterprise deal tracking. This dashboard provides a dynamic, interactive visualization of the sales journey from discovery to implementation.
+An enterprise sales-motion dashboard tile that tracks stakeholder movement, cycle progression, and deal execution momentum.
 
 This project is a single, standalone React component named `EnterpriseSalesMotionDashboard`.
 

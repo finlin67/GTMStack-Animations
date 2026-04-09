@@ -1,7 +1,11 @@
 
 # MarTech AI Landing Page Component
 
+<<<<<<< HEAD
+A polished MarTech AI hero component that visualizes connected platform services, data flow, and live operational signals.
+=======
 A standalone MarTech ecosystem tile with animated service nodes and live KPI cards.
+>>>>>>> 11d54d9527299c40d02b4088a28ef2a33fd33582
 
 ## Description
 

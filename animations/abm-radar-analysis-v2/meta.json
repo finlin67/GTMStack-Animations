@@ -1,8 +1,13 @@
 {
   "id": "abm-radar-analysis-v2",
   "title": "ABM Radar Analysis",
-  "description": "Radar-style ABM performance dashboard tile exposed through a canonical wrapper entry.",
-  "tags": ["abm", "dashboard", "radar"],
+  "description": "Radar-style ABM analysis tile visualizing account engagement intensity, pipeline signals, and campaign momentum.",
+  "tags": [
+    "ABM Analytics",
+    "Radar Visualization",
+    "Account Engagement",
+    "Pipeline Insights"
+  ],
   "category": "card",
   "published": true,
   "featured": true,

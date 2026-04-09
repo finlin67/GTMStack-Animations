@@ -1,13 +1,13 @@
 {
   "id": "martech-ai-landing-page-component-v2",
-  "title": "Martech Ai Landing Page Component",
-  "description": "Martech Ai Landing Page Component — GTMStack animation for digital demand use cases.",
+  "title": "MarTech AI Landing Page Component",
+  "description": "Animated MarTech AI hero component that maps platform services, data connections, and live performance signals.",
   "tags": [
-    "digital-demand",
-    "martech",
-    "landing",
-    "page",
-    "component"
+    "MarTech",
+    "AI",
+    "Marketing Technology",
+    "Landing Page",
+    "Hero Component"
   ],
   "category": "hero",
   "published": true,

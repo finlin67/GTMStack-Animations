@@ -1,6 +1,6 @@
 # GTM Strategy Audience Tile
 
-A standalone, high-performance React component visualizing a "Product Marketing Strategy Hub" framework. This component was extracted from a static HTML prototype and converted into a dynamic, interactive React component with smooth animations.
+A strategy-focused GTM tile that visualizes audience definition, market context, and messaging structure for launch planning.
 
 ## Description
 

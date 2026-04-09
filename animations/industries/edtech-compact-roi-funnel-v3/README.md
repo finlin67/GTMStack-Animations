@@ -1,5 +1,8 @@
 # EdTech Compact ROI Funnel
 
+<<<<<<< HEAD
+A compact EdTech ROI funnel tile that visualizes stage conversion, campaign efficiency, and enrollment growth outcomes.
+=======
 A compact ROI funnel visualization tailored for education technology growth and conversion tracking.
 
 ## Description
@@ -11,3 +14,4 @@ This tile presents the key stages of an education funnel in a clean, high-contra
 - React
 - Tailwind CSS
 - Framer Motion
+>>>>>>> 11d54d9527299c40d02b4088a28ef2a33fd33582

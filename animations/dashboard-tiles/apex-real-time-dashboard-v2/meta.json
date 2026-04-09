@@ -1,13 +1,12 @@
 {
   "id": "apex-real-time-dashboard-v2",
-  "title": "Apex Real Time Dashboard",
-  "description": "Apex Real Time Dashboard — GTMStack animation for dashboard tiles use cases.",
+  "title": "Apex Real-Time Dashboard",
+  "description": "Real-time demand dashboard highlighting live experiment metrics, performance shifts, and campaign efficiency in one compact view.",
   "tags": [
-    "dashboard-tiles",
-    "apex",
-    "real",
-    "time",
-    "dashboard"
+    "Real-Time Analytics",
+    "Demand Generation",
+    "Performance Dashboard",
+    "Experiment Monitoring"
   ],
   "category": "card",
   "published": true,

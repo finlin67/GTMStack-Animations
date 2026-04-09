@@ -1,6 +1,6 @@
-# TelcoAI Infrastructure Tile
+# Telco AI Infrastructure Tile
 
-A high-performance, self-contained data visualization component designed for next-generation telecommunications dashboards. It simulates a live "predictive engine" environment with pulsing nodes, flowing data streams, and a real-time ticker, all styled with a cyberpunk/dark-mode aesthetic.
+A telco AI infrastructure tile that visualizes network intelligence, service load, and predictive operations performance.
 
 ## Tech Stack
 

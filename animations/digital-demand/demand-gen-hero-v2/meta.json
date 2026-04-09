@@ -1,12 +1,12 @@
 {
   "id": "demand-gen-hero-v2",
   "title": "Demand Gen Hero",
-  "description": "Demand Gen Hero — GTMStack animation for digital demand use cases.",
+  "description": "Demand generation hero tile visualizing funnel progression, conversion flow, and pipeline acceleration.",
   "tags": [
-    "digital-demand",
-    "demand",
-    "gen",
-    "hero"
+    "Demand Generation",
+    "Funnel Analytics",
+    "Conversion Flow",
+    "Hero Tile"
   ],
   "category": "hero",
   "published": true,

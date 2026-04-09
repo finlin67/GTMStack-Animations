@@ -1,6 +1,6 @@
 # Content Engagement Marketing Dashboard
 
-A high-fidelity React component that visualizes a modern content marketing workflow. Designed as a "tile" or "widget" for dashboards and landing pages, it features real-time simulated data, organic animations, and a futuristic glassmorphic UI.
+A content engagement marketing dashboard tile built to visualize distribution performance and channel effectiveness.
 
 ## Features
 

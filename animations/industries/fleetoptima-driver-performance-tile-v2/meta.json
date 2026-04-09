@@ -1,13 +1,12 @@
 {
   "id": "fleetoptima-driver-performance-tile-v2",
-  "title": "Fleetoptima Driver Performance Tile",
-  "description": "Fleetoptima Driver Performance Tile — GTMStack animation for industries use cases.",
+  "title": "FleetOptima Driver Performance Tile",
+  "description": "Driver performance tile showing fleet-level behavior, weekly efficiency patterns, and operational performance status.",
   "tags": [
-    "industries",
-    "fleetoptima",
-    "driver",
-    "performance",
-    "tile"
+    "Fleet Performance",
+    "Driver Analytics",
+    "Operational Dashboard",
+    "Efficiency Metrics"
   ],
   "category": "other",
   "published": true,

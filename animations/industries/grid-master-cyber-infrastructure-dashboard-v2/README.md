@@ -1,6 +1,6 @@
-# Grid Master // Cyber-Infrastructure Dashboard
+# Grid Master Cyber Infrastructure Dashboard
 
-🧠 **Context & Creative Strategy**
+A Grid Master dashboard tile that presents cyber infrastructure telemetry, operational risk posture, and resilience signals.
 The Grid Master Dashboard is a high-fidelity visual experiment in "Cyber-Infrastructure" monitoring. The creative strategy centers on the concept of "Information Density with Clarity"—mimicking the aesthetic of 1990s sci-fi HUDs (Heads-Up Displays) but built with modern, performant web technologies. It uses layered SVG paths and Framer Motion to create a sense of mechanical depth and real-time computation.
 
 🎯 **Purpose & Value Proposition**

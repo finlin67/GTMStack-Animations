@@ -1,13 +1,12 @@
 {
   "id": "content-engagement-marketing-dashboard-v2",
   "title": "Content Engagement Marketing Dashboard",
-  "description": "Content Engagement Marketing Dashboard — GTMStack animation for digital demand use cases.",
+  "description": "Content engagement dashboard tracking distribution performance, engagement quality, and channel effectiveness.",
   "tags": [
-    "digital-demand",
-    "content",
-    "engagement",
-    "marketing",
-    "dashboard"
+    "Content Marketing",
+    "Engagement Dashboard",
+    "Distribution Analytics",
+    "Channel Performance"
   ],
   "category": "hero",
   "published": true,

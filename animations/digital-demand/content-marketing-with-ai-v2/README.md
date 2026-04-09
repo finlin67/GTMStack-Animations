@@ -1,6 +1,6 @@
-# MarketingFlow AI Workflow
+# Content Marketing with AI
 
-Strategic Content Automation & Insight Engine. This high-fidelity dashboard visualizes a complete content marketing pipeline—from initial ideation to viral engagement optimization.
+A content marketing with AI dashboard tile focused on workflow execution, distribution strategy, and optimization signals.
 
 ## 🚀 Overview
 

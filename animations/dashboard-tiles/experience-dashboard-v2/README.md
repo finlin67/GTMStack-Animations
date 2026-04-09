@@ -1,6 +1,6 @@
-# Demand Gen Flow
+# Experience Dashboard
 
-A high-fidelity, B2B-optimized performance dashboard tile designed for modern enterprise SaaS landing pages. Featuring optimized SVG animations, deep slate aesthetics, and real-time metric simulations.
+A polished experience dashboard tile built to surface growth momentum, conversion health, and campaign performance in a single panel.
 
 ## 🧠 Context & Creative Strategy
 The "Demand Gen Flow" is a premium dashboard component designed to visualize high-velocity marketing experiments. It intentionally moves away from heavy, generic chart libraries in favor of high-performance SVG paths animated with Framer Motion to convey the feeling of speed, precision, and enterprise reliability.

@@ -1,6 +1,6 @@
 # ExpertiseHero GTM Engine Visualization
 
-A high-fidelity, production-ready React component extracted from the ExpertiseHero landing page. It features the "GTM Core Tile"—an animated hub-and-spoke visualization displaying core growth metrics with satellite nodes.
+An ExpertiseHero GTM engine tile that maps strategic growth nodes, signal pathways, and execution momentum.
 
 ## Tech Stack
 *   **Next.js / React 18+**

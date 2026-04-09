@@ -1,12 +1,12 @@
 {
   "id": "agency-performance-console-v2",
   "title": "Agency Performance Console",
-  "description": "Agency Performance Console — GTMStack animation for events media use cases.",
+  "description": "Performance console for agencies to monitor campaign velocity, benchmark movement, and system health indicators.",
   "tags": [
-    "events-media",
-    "agency",
-    "performance",
-    "console"
+    "Agency Performance",
+    "Campaign Monitoring",
+    "Benchmark Analytics",
+    "Operations Console"
   ],
   "category": "card",
   "published": true,

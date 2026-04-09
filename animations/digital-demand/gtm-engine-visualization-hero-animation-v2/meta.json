@@ -1,14 +1,12 @@
 {
   "id": "gtm-engine-visualization-hero-animation-v2",
-  "title": "Gtm Engine Visualization Hero Animation",
-  "description": "Gtm Engine Visualization Hero Animation — GTMStack animation for digital demand use cases.",
+  "title": "GTM Engine Visualization Hero Animation",
+  "description": "Hero animation that visualizes the GTM engine as connected growth nodes, live metrics, and strategy flow paths.",
   "tags": [
-    "digital-demand",
-    "gtm",
-    "engine",
-    "visualization",
-    "hero",
-    "animation"
+    "GTM Strategy",
+    "Engine Visualization",
+    "Hero Animation",
+    "Growth Analytics"
   ],
   "category": "hero",
   "published": true,

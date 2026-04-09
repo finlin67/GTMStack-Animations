@@ -1,6 +1,6 @@
 # Agency Performance Console
 
-A high-performance, real-time SaaS dashboard designed for monitoring content lifecycle and engagement telemetry. This application features a sleek, data-dense interface with organic animations and live state management.
+An agency performance console tile that surfaces campaign velocity, benchmark position, and operational system health.
 
 ## ✨ Key Features
 

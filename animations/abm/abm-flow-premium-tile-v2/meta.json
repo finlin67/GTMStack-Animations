@@ -1,12 +1,12 @@
 {
   "id": "abm-flow-premium-tile-v2",
-  "title": "Abm Flow Premium Tile",
-  "description": "Abm Flow Premium Tile — GTMStack animation for abm use cases.",
+  "title": "ABM Flow Premium Tile",
+  "description": "Premium ABM flow tile that visualizes target accounts progressing from activation to revenue stages in a compact card layout.",
   "tags": [
-    "abm",
-    "flow",
-    "premium",
-    "tile"
+    "ABM",
+    "Pipeline Flow",
+    "Revenue Operations",
+    "Dashboard Tile"
   ],
   "category": "card",
   "published": true,

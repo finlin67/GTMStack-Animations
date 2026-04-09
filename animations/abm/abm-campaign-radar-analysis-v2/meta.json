@@ -1,12 +1,12 @@
 {
   "id": "abm-campaign-radar-analysis-v2",
-  "title": "Abm Campaign Radar Analysis",
-  "description": "Abm Campaign Radar Analysis — GTMStack animation for abm use cases.",
+  "title": "ABM Campaign Radar Analysis",
+  "description": "Animated ABM radar dashboard that maps campaign coverage, engagement intensity, and account movement across target segments.",
   "tags": [
-    "abm",
-    "campaign",
-    "radar",
-    "analysis"
+    "ABM",
+    "Campaign Analytics",
+    "Radar Visualization",
+    "Pipeline Strategy"
   ],
   "category": "card",
   "published": true,

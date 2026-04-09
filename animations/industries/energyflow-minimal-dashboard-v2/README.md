@@ -1,6 +1,6 @@
-# EnergyFlowDigital
+# EnergyFlow Minimal Dashboard
 
-A high-fidelity industrial dashboard component visualizing engineering lifecycle and commercialization metrics for heavy industry.
+An EnergyFlow dashboard tile that highlights asset status, workflow progression, and efficiency signals in a minimal layout.
 
 ## Features
 

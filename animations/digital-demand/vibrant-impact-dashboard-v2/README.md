@@ -1,6 +1,6 @@
 # Vibrant Impact Dashboard
 
-The Impact Dashboard is a responsive, analytics-focused React component with a high-energy 'Vibrant Consumer' aesthetic. It features an interactive engagement funnel, animated KPI cards, and dynamic bar charts, all presented with frosted glass widgets on a midnight indigo base. This component is built to be easily embeddable, providing a clear and engaging overview of an organization's impact, with a layout constrained to a 600x600 viewport for focused displays.
+A vibrant impact dashboard tile designed to communicate engagement progression, KPI movement, and performance outcomes at a glance.
 
 ## Tech Stack
 

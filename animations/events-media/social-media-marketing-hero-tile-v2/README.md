@@ -1,5 +1,7 @@
 # Social Media Marketing Hero Tile
 
+A social media marketing hero tile designed to spotlight viral momentum, engagement depth, and campaign amplification.
+
 ## Description
 This project exports a high-performance, standalone React component (`SocialMediaTile`) that visualizes "viral" data metrics with a futuristic, cyberpunk/glassmorphism aesthetic. It features complex layered animations including expanding ripples, floating 3D elements, SVG path tracing, and interactive hovering states on data widgets. The design is strictly 600x600px to serve as a dashboard hero element or marketing feature.
 

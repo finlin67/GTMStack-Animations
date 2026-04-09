@@ -1,13 +1,12 @@
 {
   "id": "financial-technology-growth-tile-v2",
   "title": "Financial Technology Growth Tile",
-  "description": "Financial Technology Growth Tile — GTMStack animation for industries use cases.",
+  "description": "Financial technology growth tile visualizing sales momentum, portfolio movement, and performance intelligence.",
   "tags": [
-    "industries",
-    "financial",
-    "technology",
-    "growth",
-    "tile"
+    "FinTech Analytics",
+    "Growth Dashboard",
+    "Sales Intelligence",
+    "Financial Performance"
   ],
   "category": "other",
   "published": true,

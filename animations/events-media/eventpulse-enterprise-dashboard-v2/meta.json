@@ -1,12 +1,12 @@
 {
   "id": "eventpulse-enterprise-dashboard-v2",
-  "title": "Eventpulse Enterprise Dashboard",
-  "description": "Eventpulse Enterprise Dashboard — GTMStack animation for events media use cases.",
+  "title": "EventPulse Enterprise Dashboard",
+  "description": "EventPulse enterprise dashboard focused on event performance visibility, engagement signals, and conversion flow.",
   "tags": [
-    "events-media",
-    "eventpulse",
-    "enterprise",
-    "dashboard"
+    "EventPulse",
+    "Enterprise Events",
+    "Engagement Analytics",
+    "Conversion Dashboard"
   ],
   "category": "card",
   "published": true,

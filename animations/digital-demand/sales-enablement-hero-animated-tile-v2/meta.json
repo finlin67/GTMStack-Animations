@@ -1,14 +1,12 @@
 {
   "id": "sales-enablement-hero-animated-tile-v2",
   "title": "Sales Enablement Hero Animated Tile",
-  "description": "Sales Enablement Hero Animated Tile — GTMStack animation for digital demand use cases.",
+  "description": "Sales enablement hero tile focused on rep productivity, win-rate lift, and cycle-time improvement metrics.",
   "tags": [
-    "digital-demand",
-    "sales",
-    "enablement",
-    "hero",
-    "animated",
-    "tile"
+    "Sales Enablement",
+    "Revenue Performance",
+    "Win Rate Analytics",
+    "Hero Dashboard"
   ],
   "category": "hero",
   "published": true,

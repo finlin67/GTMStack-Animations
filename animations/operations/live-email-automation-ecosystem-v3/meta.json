@@ -1,13 +1,12 @@
 {
   "id": "live-email-automation-ecosystem-v3",
   "title": "Live Email Automation Ecosystem",
-  "description": "Live Email Automation Ecosystem — GTMStack animation for operations use cases.",
+  "description": "Updated live email automation ecosystem tile focused on orchestration flow, channel timing, and engagement lift.",
   "tags": [
-    "operations",
-    "live",
-    "email",
-    "automation",
-    "ecosystem"
+    "Email Automation",
+    "Workflow Orchestration",
+    "Engagement Analytics",
+    "Operations Dashboard"
   ],
   "category": "card",
   "published": true,

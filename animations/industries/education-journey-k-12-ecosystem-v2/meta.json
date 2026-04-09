@@ -1,12 +1,12 @@
 {
   "id": "education-journey-k-12-ecosystem-v2",
-  "title": "Education Journey K 12 Ecosystem",
-  "description": "Education Journey K 12 Ecosystem — GTMStack animation for industries use cases.",
+  "title": "Education Journey K-12 Ecosystem",
+  "description": "K-12 ecosystem dashboard mapping parent demand, district cycles, and education adoption readiness across stages.",
   "tags": [
-    "industries",
-    "education",
-    "journey",
-    "ecosystem"
+    "K-12 Analytics",
+    "Education Ecosystem",
+    "Adoption Journey",
+    "Program Insights"
   ],
   "category": "other",
   "published": true,

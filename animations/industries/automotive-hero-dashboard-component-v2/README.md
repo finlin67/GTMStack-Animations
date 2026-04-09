@@ -1,5 +1,7 @@
 # Automotive Hero Dashboard Component
 
+An automotive hero dashboard tile that shows buyer-journey progression, conversion signals, and revenue momentum.
+
 ## Description
 This project features a high-fidelity, animated sales enablement tile designed for automotive analytics dashboards. It visualizes the customer journey curve from awareness to purchase, highlighting key metrics like incremental revenue and conversion rates. The component is fully isolated and responsive within its aspect ratio, replacing legacy SVG implementations with performant React code.
 

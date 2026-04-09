@@ -1,6 +1,6 @@
 # EdTech Compact ROI Funnel
 
-A dark-themed, glassmorphic ROI funnel dashboard designed for EdTech marketing agencies.
+An EdTech compact ROI funnel tile designed to show acquisition flow, conversion efficiency, and enrollment impact.
 
 ## Features
 
