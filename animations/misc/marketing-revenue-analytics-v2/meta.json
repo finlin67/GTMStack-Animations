@@ -13,6 +13,6 @@
   "featured": false,
   "createdAt": "2026-03-23T20:00:00.000Z",
   "updatedAt": "2026-03-23T20:00:00.000Z",
-  "thumbnail": "animations/marketing-revenue-analytics-v2/thumbnail.png",
-  "componentPath": "animations/marketing-revenue-analytics-v2/component.tsx"
+  "thumbnail": "animations/misc/marketing-revenue-analytics-v2/thumbnail.png",
+  "componentPath": "animations/misc/marketing-revenue-analytics-v2/component.tsx"
 }

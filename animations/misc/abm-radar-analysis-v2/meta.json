@@ -13,6 +13,6 @@
   "featured": true,
   "createdAt": "2026-03-23T20:00:00.000Z",
   "updatedAt": "2026-03-23T20:00:00.000Z",
-  "thumbnail": "animations/abm-radar-analysis-v2/thumbnail.png",
-  "componentPath": "animations/abm-radar-analysis-v2/component.tsx"
+  "thumbnail": "animations/misc/abm-radar-analysis-v2/thumbnail.png",
+  "componentPath": "animations/misc/abm-radar-analysis-v2/component.tsx"
 }

@@ -6,8 +6,8 @@
 
 ## Summary
 
-- Projects found: 125
-- Exported: 125
+- Projects found: 123
+- Exported: 123
 - Missing README: 0
 - Missing thumbnail (no preview/central): 0
 - ID conflicts resolved: 6

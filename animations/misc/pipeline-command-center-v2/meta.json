@@ -13,6 +13,6 @@
   "featured": false,
   "createdAt": "2026-03-23T20:00:00.000Z",
   "updatedAt": "2026-03-23T20:00:00.000Z",
-  "thumbnail": "animations/pipeline-command-center-v2/thumbnail.png",
-  "componentPath": "animations/pipeline-command-center-v2/component.tsx"
+  "thumbnail": "animations/misc/pipeline-command-center-v2/thumbnail.png",
+  "componentPath": "animations/misc/pipeline-command-center-v2/component.tsx"
 }

@@ -14,6 +14,9 @@
     "scaffold:meta": "tsx scripts/scaffold-meta.ts",
     "scaffold:meta:dry": "tsx scripts/scaffold-meta.ts --dry-run",
     "validate:meta": "tsx scripts/validate-meta.ts",
+    "validate:missing": "node scripts/validate-missing-assets.js",
+    "move:missing": "node scripts/move-missing-assets.js --apply",
+    "move:missing:dry": "node scripts/move-missing-assets.js --dry-run",
     "build:index": "tsx scripts/build-index.ts",
     "build:content": "npm run validate:meta && npm run build:index"
   },
