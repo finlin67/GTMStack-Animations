@@ -27,13 +27,13 @@ const REPO_MAIN_BRANCH = "main";
  *
  * Example:
  *   {
- *     "revenue-systems-data-flow-v2": "revenue-systems-data-flow-v2",
- *     "martech-ai-dashboard-engine-v2": "martech-ai-dashboard-engine-v2",
+ *     "revenue-systems-data-flow-v2": "rev-ops-mesh-tile",
+ *     "martech-ai-dashboard-engine-v2": "mar-tech-tile",
  *   }
  */
 const animationIdMap = {
-  "revenue-systems-data-flow-v2": "revenue-systems-data-flow-v2",
-  "martech-ai-dashboard-engine-v2": "martech-ai-dashboard-engine-v2",
+  "revenue-systems-data-flow-v2": "rev-ops-mesh-tile",
+  "martech-ai-dashboard-engine-v2": "mar-tech-tile",
 };
 
 function parseArgs(argv) {

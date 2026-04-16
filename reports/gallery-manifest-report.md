@@ -6,17 +6,15 @@
 
 ## Summary
 
-- Projects found: 123
-- Exported: 123
+- Projects found: 113
+- Exported: 113
 - Missing README: 0
 - Missing thumbnail (no preview/central): 0
-- ID conflicts resolved: 6
+- ID conflicts resolved: 4
 
 ## ID conflict notes
 
 - Duplicate id for base `enterprise-sales-motion-dashboard-v2`; using category-prefixed id `industries-enterprise-sales-motion-dashboard-v2`.
-- Duplicate id for base `marketingai-neural-dashboard-v2`; using category-prefixed id `dashboard-tiles-marketingai-neural-dashboard-v2`.
-- Duplicate id for base `marketingai-intelligence-dashboard-v2`; using category-prefixed id `dashboard-tiles-marketingai-intelligence-dashboard-v2`.
 - Duplicate id for base `lifecycle-engine-dashboard-v2`; using category-prefixed id `dashboard-tiles-lifecycle-engine-dashboard-v2`.
 - Duplicate id for base `infracore-deepdive-dashboard-v2`; using category-prefixed id `dashboard-tiles-infracore-deepdive-dashboard-v2`.
 - Duplicate id for base `industrial-roi-dashboard-v2`; using category-prefixed id `dashboard-tiles-industrial-roi-dashboard-v2`.

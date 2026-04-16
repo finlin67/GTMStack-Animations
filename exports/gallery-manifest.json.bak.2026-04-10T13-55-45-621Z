@@ -23,7 +23,7 @@
   {
     "id": "revenue-systems-data-flow-v2",
     "slug": "revenue-systems-data-flow-v2",
-    "animationId": "rev-ops-mesh-tile",
+    "animationId": "revenue-systems-data-flow-v2",
     "title": "Revenue Systems Data Flow",
     "category": "operations",
     "projectPath": "animations/operations/revenue-systems-data-flow-v2",
@@ -61,12 +61,12 @@
     "thumbnailPath": "animations/operations/pipeline-command-center-v2/preview.png",
     "githubUrl": "https://github.com/finlin67/GTMStack-Animations/tree/main/animations/operations/pipeline-command-center-v2",
     "githubReadmeUrl": "https://github.com/finlin67/GTMStack-Animations/blob/main/animations/operations/pipeline-command-center-v2/README.md",
-    "updatedAt": "2026-04-10T20:47:52.539Z"
+    "updatedAt": "2026-04-10T12:15:33.481Z"
   },
   {
     "id": "martech-ai-dashboard-engine-v2",
     "slug": "martech-ai-dashboard-engine-v2",
-    "animationId": "mar-tech-tile",
+    "animationId": "martech-ai-dashboard-engine-v2",
     "title": "MarTech AI Dashboard Engine",
     "category": "operations",
     "projectPath": "animations/operations/martech-ai-dashboard-engine-v2",
@@ -103,7 +103,7 @@
     "thumbnailPath": "animations/operations/marketingai-neural-dashboard-v2/preview.png",
     "githubUrl": "https://github.com/finlin67/GTMStack-Animations/tree/main/animations/operations/marketingai-neural-dashboard-v2",
     "githubReadmeUrl": "https://github.com/finlin67/GTMStack-Animations/blob/main/animations/operations/marketingai-neural-dashboard-v2/README.md",
-    "updatedAt": "2026-04-10T20:47:52.541Z"
+    "updatedAt": "2026-04-10T12:15:33.483Z"
   },
   {
     "id": "marketingai-intelligence-dashboard-v2",
@@ -123,7 +123,7 @@
     "thumbnailPath": "animations/operations/marketingai-intelligence-dashboard-v2/preview.png",
     "githubUrl": "https://github.com/finlin67/GTMStack-Animations/tree/main/animations/operations/marketingai-intelligence-dashboard-v2",
     "githubReadmeUrl": "https://github.com/finlin67/GTMStack-Animations/blob/main/animations/operations/marketingai-intelligence-dashboard-v2/README.md",
-    "updatedAt": "2026-04-10T20:47:52.541Z"
+    "updatedAt": "2026-04-10T12:15:33.484Z"
   },
   {
     "id": "marketing-revenue-analytics-v2",
@@ -144,7 +144,7 @@
     "thumbnailPath": "animations/operations/marketing-revenue-analytics-v2/preview.png",
     "githubUrl": "https://github.com/finlin67/GTMStack-Animations/tree/main/animations/operations/marketing-revenue-analytics-v2",
     "githubReadmeUrl": "https://github.com/finlin67/GTMStack-Animations/blob/main/animations/operations/marketing-revenue-analytics-v2/README.md",
-    "updatedAt": "2026-04-10T20:47:52.542Z"
+    "updatedAt": "2026-04-10T12:15:33.485Z"
   },
   {
     "id": "marketing-operations-workflow-tile-v2",
@@ -165,6 +165,27 @@
     "thumbnailPath": "animations/operations/marketing-operations-workflow-tile-v2/preview.png",
     "githubUrl": "https://github.com/finlin67/GTMStack-Animations/tree/main/animations/operations/marketing-operations-workflow-tile-v2",
     "githubReadmeUrl": "https://github.com/finlin67/GTMStack-Animations/blob/main/animations/operations/marketing-operations-workflow-tile-v2/README.md",
+    "updatedAt": "2026-03-23T20:00:00.000Z"
+  },
+  {
+    "id": "marketing-analytics-carousel-v3",
+    "slug": "marketing-analytics-carousel-v3",
+    "title": "Marketing Analytics Carousel",
+    "category": "operations",
+    "projectPath": "animations/operations/marketing-analytics-carousel-v3",
+    "entryHtml": "animations/operations/marketing-analytics-carousel-v3/app-v2.html",
+    "entryType": "html",
+    "readmePath": "animations/operations/marketing-analytics-carousel-v3/README.md",
+    "summary": "Marketing analytics carousel tile showcasing rotating KPI focus, trend shifts, and real-time campaign context.",
+    "tags": [
+      "Marketing Analytics",
+      "KPI Carousel",
+      "Campaign Trends",
+      "Real-Time Dashboard"
+    ],
+    "thumbnailPath": "animations/operations/marketing-analytics-carousel-v3/preview.png",
+    "githubUrl": "https://github.com/finlin67/GTMStack-Animations/tree/main/animations/operations/marketing-analytics-carousel-v3",
+    "githubReadmeUrl": "https://github.com/finlin67/GTMStack-Animations/blob/main/animations/operations/marketing-analytics-carousel-v3/README.md",
     "updatedAt": "2026-03-23T20:00:00.000Z"
   },
   {
@@ -227,7 +248,7 @@
     "thumbnailPath": "animations/operations/lifecycle-engine-dashboard-v2/preview.png",
     "githubUrl": "https://github.com/finlin67/GTMStack-Animations/tree/main/animations/operations/lifecycle-engine-dashboard-v2",
     "githubReadmeUrl": "https://github.com/finlin67/GTMStack-Animations/blob/main/animations/operations/lifecycle-engine-dashboard-v2/README.md",
-    "updatedAt": "2026-04-10T20:47:52.545Z"
+    "updatedAt": "2026-04-10T12:15:33.490Z"
   },
   {
     "id": "enterprise-sales-motion-dashboard-v2",
@@ -248,7 +269,7 @@
     "thumbnailPath": "animations/operations/enterprise-sales-motion-dashboard-v2/preview.png",
     "githubUrl": "https://github.com/finlin67/GTMStack-Animations/tree/main/animations/operations/enterprise-sales-motion-dashboard-v2",
     "githubReadmeUrl": "https://github.com/finlin67/GTMStack-Animations/blob/main/animations/operations/enterprise-sales-motion-dashboard-v2/README.md",
-    "updatedAt": "2026-04-10T20:47:52.546Z"
+    "updatedAt": "2026-04-10T12:15:33.490Z"
   },
   {
     "id": "utilities-command-center-tile-v2",
@@ -314,6 +335,48 @@
     "updatedAt": "2026-03-23T20:00:00.000Z"
   },
   {
+    "id": "scalability-telemetry-radar-v2",
+    "slug": "scalability-telemetry-radar-v2",
+    "title": "Scalability Telemetry Radar",
+    "category": "industries",
+    "projectPath": "animations/industries/scalability-telemetry-radar-v2",
+    "entryHtml": "animations/industries/scalability-telemetry-radar-v2/app-v2.html",
+    "entryType": "html",
+    "readmePath": "animations/industries/scalability-telemetry-radar-v2/README.md",
+    "summary": "Scalability radar dashboard visualizing latency patterns, asset growth, and live telemetry performance trends.",
+    "tags": [
+      "Scalability Analytics",
+      "Telemetry Radar",
+      "Latency Monitoring",
+      "Performance Dashboard"
+    ],
+    "thumbnailPath": "animations/industries/scalability-telemetry-radar-v2/preview.png",
+    "githubUrl": "https://github.com/finlin67/GTMStack-Animations/tree/main/animations/industries/scalability-telemetry-radar-v2",
+    "githubReadmeUrl": "https://github.com/finlin67/GTMStack-Animations/blob/main/animations/industries/scalability-telemetry-radar-v2/README.md",
+    "updatedAt": "2026-03-23T20:00:00.000Z"
+  },
+  {
+    "id": "saas-premium-analytics-component-v2",
+    "slug": "saas-premium-analytics-component-v2",
+    "title": "SaaS Premium Analytics Component",
+    "category": "industries",
+    "projectPath": "animations/industries/saas-premium-analytics-component-v2",
+    "entryHtml": "animations/industries/saas-premium-analytics-component-v2/app-v2.html",
+    "entryType": "html",
+    "readmePath": "animations/industries/saas-premium-analytics-component-v2/README.md",
+    "summary": "Premium SaaS analytics component showcasing live performance indicators, data flow, and executive-ready metric blocks.",
+    "tags": [
+      "SaaS",
+      "Analytics",
+      "Executive Dashboard",
+      "Data Visualization"
+    ],
+    "thumbnailPath": "animations/industries/saas-premium-analytics-component-v2/preview.png",
+    "githubUrl": "https://github.com/finlin67/GTMStack-Animations/tree/main/animations/industries/saas-premium-analytics-component-v2",
+    "githubReadmeUrl": "https://github.com/finlin67/GTMStack-Animations/blob/main/animations/industries/saas-premium-analytics-component-v2/README.md",
+    "updatedAt": "2026-03-23T20:00:00.000Z"
+  },
+  {
     "id": "retail-pulse-analytics-tile-v2",
     "slug": "retail-pulse-analytics-tile-v2",
     "title": "Retail Pulse Analytics Tile",
@@ -332,6 +395,27 @@
     "thumbnailPath": "animations/industries/retail-pulse-analytics-tile-v2/preview.png",
     "githubUrl": "https://github.com/finlin67/GTMStack-Animations/tree/main/animations/industries/retail-pulse-analytics-tile-v2",
     "githubReadmeUrl": "https://github.com/finlin67/GTMStack-Animations/blob/main/animations/industries/retail-pulse-analytics-tile-v2/README.md",
+    "updatedAt": "2026-03-23T20:00:00.000Z"
+  },
+  {
+    "id": "powergrid-digital-modernization-dashboard-v2",
+    "slug": "powergrid-digital-modernization-dashboard-v2",
+    "title": "PowerGrid Digital Modernization Dashboard",
+    "category": "industries",
+    "projectPath": "animations/industries/powergrid-digital-modernization-dashboard-v2",
+    "entryHtml": "animations/industries/powergrid-digital-modernization-dashboard-v2/app-v2.html",
+    "entryType": "html",
+    "readmePath": "animations/industries/powergrid-digital-modernization-dashboard-v2/README.md",
+    "summary": "Digital modernization dashboard for power grids showing capital deployment, reliability improvements, and lifecycle progress.",
+    "tags": [
+      "PowerGrid Analytics",
+      "Digital Modernization",
+      "Reliability Monitoring",
+      "Capital Performance"
+    ],
+    "thumbnailPath": "animations/industries/powergrid-digital-modernization-dashboard-v2/preview.png",
+    "githubUrl": "https://github.com/finlin67/GTMStack-Animations/tree/main/animations/industries/powergrid-digital-modernization-dashboard-v2",
+    "githubReadmeUrl": "https://github.com/finlin67/GTMStack-Animations/blob/main/animations/industries/powergrid-digital-modernization-dashboard-v2/README.md",
     "updatedAt": "2026-03-23T20:00:00.000Z"
   },
   {
@@ -457,7 +541,7 @@
     "thumbnailPath": "animations/industries/industrial-roi-dashboard-v2/preview.png",
     "githubUrl": "https://github.com/finlin67/GTMStack-Animations/tree/main/animations/industries/industrial-roi-dashboard-v2",
     "githubReadmeUrl": "https://github.com/finlin67/GTMStack-Animations/blob/main/animations/industries/industrial-roi-dashboard-v2/README.md",
-    "updatedAt": "2026-04-10T20:47:52.554Z"
+    "updatedAt": "2026-04-10T12:15:33.502Z"
   },
   {
     "id": "grid-master-cyber-infrastructure-dashboard-v2",
@@ -520,6 +604,90 @@
     "thumbnailPath": "animations/industries/fleet-roi-calculator-v2/preview.png",
     "githubUrl": "https://github.com/finlin67/GTMStack-Animations/tree/main/animations/industries/fleet-roi-calculator-v2",
     "githubReadmeUrl": "https://github.com/finlin67/GTMStack-Animations/blob/main/animations/industries/fleet-roi-calculator-v2/README.md",
+    "updatedAt": "2026-03-23T20:00:00.000Z"
+  },
+  {
+    "id": "fintech-growth-studio-animated-sales-tile-v2",
+    "slug": "fintech-growth-studio-animated-sales-tile-v2",
+    "title": "FinTech Growth Studio Animated Sales Tile",
+    "category": "industries",
+    "projectPath": "animations/industries/fintech-growth-studio-animated-sales-tile-v2",
+    "entryHtml": "animations/industries/fintech-growth-studio-animated-sales-tile-v2/app-v2.html",
+    "entryType": "html",
+    "readmePath": "animations/industries/fintech-growth-studio-animated-sales-tile-v2/README.md",
+    "summary": "Animated FinTech sales tile highlighting revenue trajectory, pipeline movement, and growth-stage performance.",
+    "tags": [
+      "FinTech Sales",
+      "Revenue Analytics",
+      "Animated Dashboard",
+      "Pipeline Growth"
+    ],
+    "thumbnailPath": "animations/industries/fintech-growth-studio-animated-sales-tile-v2/preview.png",
+    "githubUrl": "https://github.com/finlin67/GTMStack-Animations/tree/main/animations/industries/fintech-growth-studio-animated-sales-tile-v2",
+    "githubReadmeUrl": "https://github.com/finlin67/GTMStack-Animations/blob/main/animations/industries/fintech-growth-studio-animated-sales-tile-v2/README.md",
+    "updatedAt": "2026-03-23T20:00:00.000Z"
+  },
+  {
+    "id": "fintech-growth-animated-sales-tile-v3",
+    "slug": "fintech-growth-animated-sales-tile-v3",
+    "title": "FinTech Growth Animated Sales Tile",
+    "category": "industries",
+    "projectPath": "animations/industries/fintech-growth-animated-sales-tile-v3",
+    "entryHtml": "animations/industries/fintech-growth-animated-sales-tile-v3/app-v2.html",
+    "entryType": "html",
+    "readmePath": "animations/industries/fintech-growth-animated-sales-tile-v3/README.md",
+    "summary": "Animated FinTech sales tile highlighting revenue momentum, growth trajectory, and pipeline conversion performance.",
+    "tags": [
+      "FinTech Sales",
+      "Revenue Growth",
+      "Pipeline Conversion",
+      "Animated Dashboard"
+    ],
+    "thumbnailPath": "animations/industries/fintech-growth-animated-sales-tile-v3/preview.png",
+    "githubUrl": "https://github.com/finlin67/GTMStack-Animations/tree/main/animations/industries/fintech-growth-animated-sales-tile-v3",
+    "githubReadmeUrl": "https://github.com/finlin67/GTMStack-Animations/blob/main/animations/industries/fintech-growth-animated-sales-tile-v3/README.md",
+    "updatedAt": "2026-03-23T20:00:00.000Z"
+  },
+  {
+    "id": "finservtile-interactive-financial-data-visualization-v2",
+    "slug": "finservtile-interactive-financial-data-visualization-v2",
+    "title": "FinServTile Interactive Financial Data Visualization",
+    "category": "industries",
+    "projectPath": "animations/industries/finservtile-interactive-financial-data-visualization-v2",
+    "entryHtml": "animations/industries/finservtile-interactive-financial-data-visualization-v2/finservtile-v2.html",
+    "entryType": "html",
+    "readmePath": "animations/industries/finservtile-interactive-financial-data-visualization-v2/README.md",
+    "summary": "Interactive financial data tile combining portfolio metrics, growth indicators, and real-time visual movement.",
+    "tags": [
+      "Financial Visualization",
+      "Portfolio Analytics",
+      "Interactive Dashboard",
+      "Growth Metrics"
+    ],
+    "thumbnailPath": "animations/industries/finservtile-interactive-financial-data-visualization-v2/preview.png",
+    "githubUrl": "https://github.com/finlin67/GTMStack-Animations/tree/main/animations/industries/finservtile-interactive-financial-data-visualization-v2",
+    "githubReadmeUrl": "https://github.com/finlin67/GTMStack-Animations/blob/main/animations/industries/finservtile-interactive-financial-data-visualization-v2/README.md",
+    "updatedAt": "2026-03-23T20:00:00.000Z"
+  },
+  {
+    "id": "financial-technology-growth-tile-v2",
+    "slug": "financial-technology-growth-tile-v2",
+    "title": "Financial Technology Growth Tile",
+    "category": "industries",
+    "projectPath": "animations/industries/financial-technology-growth-tile-v2",
+    "entryHtml": "animations/industries/financial-technology-growth-tile-v2/app-v2.html",
+    "entryType": "html",
+    "readmePath": "animations/industries/financial-technology-growth-tile-v2/README.md",
+    "summary": "Financial technology growth tile visualizing sales momentum, portfolio movement, and performance intelligence.",
+    "tags": [
+      "FinTech Analytics",
+      "Growth Dashboard",
+      "Sales Intelligence",
+      "Financial Performance"
+    ],
+    "thumbnailPath": "animations/industries/financial-technology-growth-tile-v2/preview.png",
+    "githubUrl": "https://github.com/finlin67/GTMStack-Animations/tree/main/animations/industries/financial-technology-growth-tile-v2",
+    "githubReadmeUrl": "https://github.com/finlin67/GTMStack-Animations/blob/main/animations/industries/financial-technology-growth-tile-v2/README.md",
     "updatedAt": "2026-03-23T20:00:00.000Z"
   },
   {
@@ -1423,7 +1591,7 @@
     "thumbnailPath": "animations/digital-demand/infracore-deepdive-dashboard-v2/preview.png",
     "githubUrl": "https://github.com/finlin67/GTMStack-Animations/tree/main/animations/digital-demand/infracore-deepdive-dashboard-v2",
     "githubReadmeUrl": "https://github.com/finlin67/GTMStack-Animations/blob/main/animations/digital-demand/infracore-deepdive-dashboard-v2/README.md",
-    "updatedAt": "2026-04-10T20:47:52.581Z"
+    "updatedAt": "2026-04-10T12:15:33.531Z"
   },
   {
     "id": "gtmstack-pro-hero-tile",
@@ -1613,7 +1781,7 @@
     "thumbnailPath": "animations/digital-demand/growth-ai-animation/preview.png",
     "githubUrl": "https://github.com/finlin67/GTMStack-Animations/tree/main/animations/digital-demand/growth-ai-animation",
     "githubReadmeUrl": "https://github.com/finlin67/GTMStack-Animations/blob/main/animations/digital-demand/growth-ai-animation/README.md",
-    "updatedAt": "2026-04-10T20:47:52.585Z"
+    "updatedAt": "2026-04-10T12:15:33.536Z"
   },
   {
     "id": "esg-analytics-hub-v2",
@@ -1886,7 +2054,7 @@
     "thumbnailPath": "animations/dashboard-tiles/quantum-data-field-analytics-v2/preview.png",
     "githubUrl": "https://github.com/finlin67/GTMStack-Animations/tree/main/animations/dashboard-tiles/quantum-data-field-analytics-v2",
     "githubReadmeUrl": "https://github.com/finlin67/GTMStack-Animations/blob/main/animations/dashboard-tiles/quantum-data-field-analytics-v2/README.md",
-    "updatedAt": "2026-04-10T20:47:52.592Z"
+    "updatedAt": "2026-04-10T12:15:33.544Z"
   },
   {
     "id": "marketingflow-ai-workflow-v2",
@@ -1910,6 +2078,48 @@
     "updatedAt": "2026-03-23T20:00:00.000Z"
   },
   {
+    "id": "dashboard-tiles-marketingai-neural-dashboard-v2",
+    "slug": "dashboard-tiles-marketingai-neural-dashboard-v2",
+    "title": "MarketingAI Neural Dashboard",
+    "category": "dashboard-tiles",
+    "projectPath": "animations/dashboard-tiles/marketingai-neural-dashboard-v2",
+    "entryHtml": "animations/dashboard-tiles/marketingai-neural-dashboard-v2/app-v2.html",
+    "entryType": "html",
+    "readmePath": "animations/dashboard-tiles/marketingai-neural-dashboard-v2/README.md",
+    "summary": "Neural-style MarketingAI dashboard showing model activity, insight generation, and campaign decision pathways.",
+    "tags": [
+      "MarketingAI",
+      "Neural Visualization",
+      "Insight Engine",
+      "Dashboard"
+    ],
+    "thumbnailPath": "animations/dashboard-tiles/marketingai-neural-dashboard-v2/preview.png",
+    "githubUrl": "https://github.com/finlin67/GTMStack-Animations/tree/main/animations/dashboard-tiles/marketingai-neural-dashboard-v2",
+    "githubReadmeUrl": "https://github.com/finlin67/GTMStack-Animations/blob/main/animations/dashboard-tiles/marketingai-neural-dashboard-v2/README.md",
+    "updatedAt": "2026-03-23T20:00:00.000Z"
+  },
+  {
+    "id": "dashboard-tiles-marketingai-intelligence-dashboard-v2",
+    "slug": "dashboard-tiles-marketingai-intelligence-dashboard-v2",
+    "title": "MarketingAI Intelligence Dashboard",
+    "category": "dashboard-tiles",
+    "projectPath": "animations/dashboard-tiles/marketingai-intelligence-dashboard-v2",
+    "entryHtml": "animations/dashboard-tiles/marketingai-intelligence-dashboard-v2/app-v2.html",
+    "entryType": "html",
+    "readmePath": "animations/dashboard-tiles/marketingai-intelligence-dashboard-v2/README.md",
+    "summary": "MarketingAI dashboard visualizing intelligence flows, campaign signals, and optimization outputs in a modern control-tile format.",
+    "tags": [
+      "MarketingAI",
+      "Intelligence Dashboard",
+      "Campaign Analytics",
+      "Data Flow"
+    ],
+    "thumbnailPath": "animations/dashboard-tiles/marketingai-intelligence-dashboard-v2/preview.png",
+    "githubUrl": "https://github.com/finlin67/GTMStack-Animations/tree/main/animations/dashboard-tiles/marketingai-intelligence-dashboard-v2",
+    "githubReadmeUrl": "https://github.com/finlin67/GTMStack-Animations/blob/main/animations/dashboard-tiles/marketingai-intelligence-dashboard-v2/README.md",
+    "updatedAt": "2026-03-23T20:00:00.000Z"
+  },
+  {
     "id": "marketing-automation-workflow-v2",
     "slug": "marketing-automation-workflow-v2",
     "title": "Marketing Automation Workflow",
@@ -1928,7 +2138,7 @@
     "thumbnailPath": "animations/dashboard-tiles/marketing-automation-workflow-v2/preview.png",
     "githubUrl": "https://github.com/finlin67/GTMStack-Animations/tree/main/animations/dashboard-tiles/marketing-automation-workflow-v2",
     "githubReadmeUrl": "https://github.com/finlin67/GTMStack-Animations/blob/main/animations/dashboard-tiles/marketing-automation-workflow-v2/README.md",
-    "updatedAt": "2026-04-10T20:47:52.593Z"
+    "updatedAt": "2026-04-10T12:15:33.547Z"
   },
   {
     "id": "marketing-automation-live-feed-v2",
@@ -2262,7 +2472,7 @@
     "thumbnailPath": "animations/abm/abm-radar-analysis-v2/preview.png",
     "githubUrl": "https://github.com/finlin67/GTMStack-Animations/tree/main/animations/abm/abm-radar-analysis-v2",
     "githubReadmeUrl": "https://github.com/finlin67/GTMStack-Animations/blob/main/animations/abm/abm-radar-analysis-v2/README.md",
-    "updatedAt": "2026-04-10T20:47:52.602Z"
+    "updatedAt": "2026-04-10T12:15:33.556Z"
   },
   {
     "id": "abm-pipeline-strategy-dashboard-v2",
